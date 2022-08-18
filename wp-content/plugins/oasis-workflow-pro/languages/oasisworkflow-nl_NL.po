@@ -1,0 +1,3752 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: oasis-workflow\n"
+"POT-Creation-Date: 2020-12-12 11:06-0800\n"
+"PO-Revision-Date: 2020-12-12 11:11-0800\n"
+"Last-Translator: Oasis Workflow <support@oasisworkflow.com>\n"
+"Language-Team: support@oasisworkflow.com\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext;esc_html__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js/lib/textedit\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: src/block.js\n"
+
+#: includes/class-ow-api.php:50 includes/class-ow-process-flow.php:77
+#: includes/class-ow-process-flow.php:284
+#: includes/class-ow-process-flow.php:463
+#: includes/class-ow-process-flow.php:536
+#: includes/class-ow-process-flow.php:674
+#: includes/class-ow-process-flow.php:2240
+#: includes/class-ow-process-flow.php:2636
+#: includes/class-ow-process-flow.php:4811
+#: includes/class-ow-process-flow.php:5960
+#: includes/class-ow-process-flow.php:6349
+msgid "You are not allowed to create/edit post."
+msgstr "Het is niet toegestaan om een bericht te maken/bewerken."
+
+#: includes/class-ow-api.php:66
+msgid "No users found for this workflow. Please check for your workflow setup."
+msgstr ""
+"Geen gebruikers gevonden voor deze workflow. Controleer alstublieft voor uw "
+"workflow setup."
+
+#: includes/class-ow-api.php:83
+msgid "No users found for this team. Please check for your team setup."
+msgstr ""
+"Geen gebruikers gevonden voor dit team. Controleer alstublieft voor uw team "
+"setup."
+
+#: includes/class-ow-auto-submit-settings.php:43 oasis-workflow-pro.php:640
+msgid "15 minutes"
+msgstr "15 minuten"
+
+#: includes/class-ow-auto-submit-settings.php:44 oasis-workflow-pro.php:641
+msgid "30 minutes"
+msgstr "30 minuten"
+
+#: includes/class-ow-auto-submit-settings.php:45 oasis-workflow-pro.php:642
+msgid "45 minutes"
+msgstr "45 minuten"
+
+#: includes/class-ow-auto-submit-settings.php:46
+#: includes/class-ow-email-settings.php:73
+msgid "1 hour"
+msgstr "1 uur"
+
+#: includes/class-ow-auto-submit-settings.php:47
+#: includes/class-ow-email-settings.php:74 oasis-workflow-pro.php:643
+msgid "4 hours"
+msgstr "4 uur"
+
+#: includes/class-ow-auto-submit-settings.php:48
+#: includes/class-ow-email-settings.php:75 oasis-workflow-pro.php:644
+msgid "8 hours"
+msgstr "8 uur"
+
+#: includes/class-ow-auto-submit-settings.php:79
+msgid "Auto submit triggered successfully. "
+msgstr "Auto Submit succesvol geactiveerd. "
+
+#: includes/class-ow-auto-submit-settings.php:100
+msgid "Please select atleast one Post/Page status."
+msgstr "Selecteer ten minste één Bericht/Pagina status."
+
+#: includes/class-ow-auto-submit-settings.php:116
+msgid "Please enter a numeric value for due date."
+msgstr "Voer een numerieke waarde voor de opleveringsdatum in."
+
+#: includes/class-ow-auto-submit-settings.php:123
+msgid "Please enter a value for due date."
+msgstr "Voer een waarde voor opleveringsdatum in."
+
+#: includes/class-ow-auto-submit-settings.php:142
+msgid "Please enter a numeric value for post count."
+msgstr "Voer een numerieke waarde voor het aantal berichten in."
+
+#: includes/class-ow-auto-submit-settings.php:149
+msgid "Please enter the number of posts/pages to be processed at one time."
+msgstr ""
+"Voer het aantal berichten/pagina’s die verwerkt worden op hetzelfde moment "
+"in."
+
+#: includes/class-ow-auto-submit-settings.php:218
+msgid ""
+"Please provide keywords for the workflows to participate in auto submit "
+"process."
+msgstr ""
+"Gelieve trefwoorden voorzien in de workflows om deel te nemen in de auto te "
+"leggen proces."
+
+#: includes/class-ow-auto-submit-settings.php:271
+msgid "Enable Auto Submit?"
+msgstr "Auto Submit inschakelen?"
+
+#: includes/class-ow-auto-submit-settings.php:279
+msgid "Post/Page status(es) to be selected for auto submit:"
+msgstr "Bericht/Pagina status(sen) voor Auto Submit selecteren:"
+
+#: includes/class-ow-auto-submit-settings.php:293
+msgid "Include the following in keyword search:"
+msgstr "Neem het volgende op in zoeken op trefwoorden:"
+
+#: includes/class-ow-auto-submit-settings.php:301
+#: includes/class-ow-history-service.php:194
+#: includes/class-ow-history-service.php:207
+#: includes/class-ow-history-service.php:917
+#: includes/class-ow-report-service.php:271
+#: includes/class-ow-workflow-service.php:1361
+#: includes/pages/subpages/workflow-copy-popup.php:21
+msgid "Title"
+msgstr "Titel"
+
+#: includes/class-ow-auto-submit-settings.php:308
+#: includes/pages/revision-compare.php:110
+msgid "Tags"
+msgstr "Labels"
+
+#: includes/class-ow-auto-submit-settings.php:315
+msgid "Categories"
+msgstr "Categorieën"
+
+#: includes/class-ow-auto-submit-settings.php:324
+msgid "Taxonomies / Terms"
+msgstr "Taxonomies / Terms"
+
+#: includes/class-ow-auto-submit-settings.php:331
+msgid "Set Due date as CURRENT DATE + "
+msgstr "Stel de opleveringsdatum in op HUIDIGE DATUM + "
+
+#: includes/class-ow-auto-submit-settings.php:338
+#: includes/class-ow-workflow-settings.php:367
+msgid "day(s)."
+msgstr "dag(en)."
+
+#: includes/class-ow-auto-submit-settings.php:346
+msgid "Auto submit comments:"
+msgstr "Auto Submit commentaar:"
+
+#: includes/class-ow-auto-submit-settings.php:359
+msgid "Process "
+msgstr "Verwerk "
+
+#: includes/class-ow-auto-submit-settings.php:366
+msgid "posts/pages at one time."
+msgstr "berichten/pagina’s tegelijk."
+
+#: includes/class-ow-auto-submit-settings.php:370
+msgid ""
+"(Limit the number of posts/pages to be processed at one time for optimum "
+"server performance.)"
+msgstr ""
+"(Limiteer het aantal berichten/pagina’s dat op hetzelfde ogenblik verwerkt "
+"worden, ten behoeve van optimale server performance.)"
+
+#: includes/class-ow-auto-submit-settings.php:377
+msgid "Run Auto Submit Engine every:"
+msgstr "Activeer Auto Submit Engine elke:"
+
+#: includes/class-ow-auto-submit-settings.php:381
+#: includes/class-ow-email-settings.php:653
+msgid "Please Select"
+msgstr "Selecteer"
+
+#: includes/class-ow-auto-submit-settings.php:396
+msgid "(How often do you wish to run the auto submit process?)"
+msgstr "(Hoe vaak wenst u het Auto Submit proces te activeren?)"
+
+#: includes/class-ow-auto-submit-settings.php:405
+msgid "Applicable Workflows for auto submit:"
+msgstr "Toepasselijk Workflows voor auto submit:"
+
+#: includes/class-ow-auto-submit-settings.php:409
+msgid ""
+"(Provide keywords(comma separated) for the workflows to participate in auto "
+"submit process.)"
+msgstr ""
+"(Geef trefwoorden (gescheiden met komma's) voor de workflows om deel te "
+"nemen aan het automatisch indienen van processen.)"
+
+#: includes/class-ow-auto-submit-settings.php:413
+msgid "Assigned Workflows"
+msgstr "Toegewezen Workflows"
+
+#: includes/class-ow-auto-submit-settings.php:414
+msgid "Keywords"
+msgstr "Trefwoorden"
+
+#: includes/class-ow-auto-submit-settings.php:425
+#: includes/class-ow-auto-submit-settings.php:447
+msgid "Keywords for Auto Submit(comma separated)"
+msgstr "Trefwoorden voor Auto Submit (met komma's gescheiden)"
+
+#: includes/class-ow-auto-submit-settings.php:457
+msgid ""
+"No applicable workflows found. Click the \"+ Assign Workflow\" button to add "
+"workflows."
+msgstr ""
+"Geen van toepassing workflows gevonden. Klik op de knop \"+ toewijzen "
+"Workflow\" workflows toe te voegen."
+
+#: includes/class-ow-auto-submit-settings.php:462
+msgid "+ Assign Workflow"
+msgstr "+ toewijzen Workflow"
+
+#: includes/class-ow-auto-submit-settings.php:474
+#: includes/class-ow-document-revision-settings.php:269
+#: includes/class-ow-email-settings.php:728
+#: includes/class-ow-external-user-settings.php:216
+#: includes/class-ow-license-settings.php:131
+#: includes/class-ow-workflow-settings.php:509
+#: includes/pages/subpages/connection-info-content.php:95
+#: includes/pages/subpages/reassign.php:112
+#: includes/pages/subpages/step-info-content.php:419
+#: includes/pages/subpages/workflow-create-popup.php:38
+#: includes/pages/workflow-create.php:355
+#: includes/pages/workflow-create.php:381
+msgid "Save"
+msgstr "Opslaan"
+
+#: includes/class-ow-auto-submit-settings.php:478
+msgid "Trigger Auto Submit - Just One Time"
+msgstr "Activeer Auto Submit - voor één keer"
+
+#: includes/class-ow-custom-capabilities.php:201
+#: includes/class-ow-process-flow.php:1642
+#: includes/class-ow-process-flow.php:1810
+#: includes/class-ow-process-flow.php:1843
+#: includes/class-ow-process-flow.php:2019
+#: includes/class-ow-process-flow.php:2506
+#: includes/class-ow-process-flow.php:2613
+#: includes/class-ow-process-flow.php:2851
+#: includes/class-ow-process-flow.php:2987
+#: includes/class-ow-process-flow.php:4680
+#: includes/class-ow-process-flow.php:4968
+#: includes/class-ow-process-flow.php:5904
+#: includes/class-ow-process-flow.php:6057
+#: includes/class-ow-process-flow.php:6171
+#: includes/class-ow-process-flow.php:6246
+#: includes/class-ow-revision-service.php:89
+#: includes/class-ow-revision-service.php:131
+#: includes/class-ow-revision-service.php:190
+#: includes/class-ow-revision-service.php:274
+#: includes/class-ow-revision-service.php:565
+#: includes/class-ow-tools-service.php:1243
+#: includes/class-ow-tools-service.php:1262 includes/class-ow-utility.php:1077
+#: includes/class-ow-workflow-service.php:425
+#: includes/class-ow-workflow-service.php:1240
+msgid "Unauthorized access."
+msgstr "OnGeoorloofde toegang."
+
+#: includes/class-ow-custom-capabilities.php:206
+msgid "You are not allowed to invoke this api."
+msgstr "U mag deze API niet aanroepen."
+
+#: includes/class-ow-custom-statuses.php:103
+msgid "You are not allowed to create custom statuses."
+msgstr "Het is niet toegestaan om aangepaste statussen te maken."
+
+#: includes/class-ow-custom-statuses.php:126
+#: includes/class-ow-custom-statuses.php:162
+msgid "Could not add status: "
+msgstr "Kan de status niet toevoegen: "
+
+#: includes/class-ow-custom-statuses.php:144
+msgid "You are not allowed to edit/update the custom status."
+msgstr "Het is niet toegestaan om de aangepaste status te bewerken/updaten."
+
+#: includes/class-ow-custom-statuses.php:179
+msgid "You are not allowed to delete the custom status."
+msgstr "Het is niet toegestaan om de aangepaste status te verwijderen."
+
+#: includes/class-ow-custom-statuses.php:220
+msgid "Custom status has been added successfully."
+msgstr "Aangepaste status is succesvol toegevoegd."
+
+#: includes/class-ow-custom-statuses.php:232
+msgid "Custom status already exist."
+msgstr "Aangepaste status bestaat al."
+
+#: includes/class-ow-custom-statuses.php:244
+msgid "Custom status has been updated successfully."
+msgstr "Aangepaste status is succesvol bijgewerkt."
+
+#: includes/class-ow-custom-statuses.php:283
+#: includes/pages/ow-custom-statuses.php:90
+msgid "Name"
+msgstr "Naam"
+
+#: includes/class-ow-custom-statuses.php:284
+#: includes/pages/ow-custom-statuses.php:98
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/class-ow-custom-statuses.php:285
+#: includes/pages/ow-custom-statuses.php:106
+#: includes/pages/subpages/workflow-copy-popup.php:30
+msgid "Description"
+msgstr "Beschrijving"
+
+#: includes/class-ow-document-revision-settings.php:162
+msgid "Activate Revision process?"
+msgstr "Activeer Revisie proces?"
+
+#: includes/class-ow-document-revision-settings.php:169
+msgid "Title prefix:"
+msgstr "Titel prefix:"
+
+#: includes/class-ow-document-revision-settings.php:175
+msgid ""
+"Prefix to be added before the original title, e.g. \"Copy of\" (blank for no "
+"prefix)"
+msgstr ""
+"Voorvoegsel dat moet worden toegevoegd aan de originele titel, b.v. “Kopie "
+"van” (laat leeg voor geen voorvoegsel)"
+
+#: includes/class-ow-document-revision-settings.php:181
+msgid "Title suffix:"
+msgstr "Titel suffix:"
+
+#: includes/class-ow-document-revision-settings.php:187
+msgid ""
+"Suffix to be added after the original title, e.g. \"(dup)\" (blank for no "
+"suffix)"
+msgstr ""
+"Achtervoegsel dat moet worden toegevoegd aan de originele titel, b.v. "
+"“duplicaat” (laat leeg voor geen achtervoegsel)"
+
+#: includes/class-ow-document-revision-settings.php:196
+msgid "Revise children articles on parent revision?"
+msgstr "Reviseer ook de artikel-childs bij revisie van de parent?"
+
+#: includes/class-ow-document-revision-settings.php:200
+msgid "(Applicable to hierarchical post types)"
+msgstr "(Toepasbaar op hiërarchische post types)"
+
+#: includes/class-ow-document-revision-settings.php:210
+msgid "Preserve the revisions of the revised article?"
+msgstr "De revisies van het gereviseerde artikel behouden?"
+
+#: includes/class-ow-document-revision-settings.php:213
+msgid "(Useful for strict auditing purposes)"
+msgstr "(Handig voor strikte controledoeleinden)"
+
+#: includes/class-ow-document-revision-settings.php:217
+msgid ""
+"(When updating the published article with revised content, copy the "
+"revisions of the revised article.)"
+msgstr ""
+"(Wanneer het gepubliceerde artikel wordt gewijzigd met gereviseerde content, "
+"worden de revisies van het gereviseerde artikel mee gekopieerd.)"
+
+#: includes/class-ow-document-revision-settings.php:228
+msgid "Delete the revision after it's copied over to the original article?"
+msgstr ""
+"Verwijder de revisie nadat het gekopieerd is over het originele artikel?"
+
+#: includes/class-ow-document-revision-settings.php:232
+msgid ""
+"(The workflow history of the revision will get added to the workflow history "
+"of the original article.)"
+msgstr ""
+"(De workflowhistorie van de revisie zal worden toegevoegd aan de "
+"workflowhistorie van het oorspronkelijke artikel.)"
+
+#: includes/class-ow-document-revision-settings.php:242
+msgid "Hide Compare Button?"
+msgstr "Vergelijkingsknop verbergen?"
+
+#: includes/class-ow-document-revision-settings.php:249
+msgid "Make Revision Overlay Message:"
+msgstr "Maak revisie overlay bericht:"
+
+#: includes/class-ow-document-revision-settings.php:253
+msgid ""
+"(For published articles, display a popup window with a message to let users "
+"know that they need to revise the article before making any changes.)"
+msgstr ""
+"(Geef voor gepubliceerde artikelen een pop-up venster weer met een boodschap "
+"om gebruikers te laten weten dat ze een revisie moeten maken voordat ze "
+"wijzigingen aanbrengen.)"
+
+#: includes/class-ow-duplicate-service.php:57
+#: includes/class-ow-duplicate-service.php:72
+#: includes/class-ow-workflow-terminology-settings.php:192
+#: includes/class-ow-workflow-terminology-settings.php:370
+msgid "Duplicate Post"
+msgstr "Duplicaat Post"
+
+#: includes/class-ow-duplicate-service.php:115
+msgid "You are not allowed to duplicate the post."
+msgstr "Het is niet toegestaan om het bericht te dupliceren."
+
+#: includes/class-ow-duplicate-service.php:135
+msgid "You are not allowed to make duplication of post."
+msgstr "U bent niet toegestaan om duplicatie van post."
+
+#: includes/class-ow-duplicate-service.php:140
+msgid "No post for duplication has been supplied!"
+msgstr "Geen post voor duplicatie is geleverd!"
+
+#: includes/class-ow-duplicate-service.php:154
+msgid "Duplication failed, could not find original:"
+msgstr "Dubbel mislukt, kon niet originele vinden:"
+
+#: includes/class-ow-email-settings-helper.php:61
+msgid "Post Publish Notification"
+msgstr "Bericht gepubliceerd notificatie"
+
+#: includes/class-ow-email-settings-helper.php:62
+msgid "Revised Post Published Notification"
+msgstr "Gereviseerd bericht gepubliceerd notificatie"
+
+#: includes/class-ow-email-settings-helper.php:63
+msgid "Unauthorized Update Notification"
+msgstr "Onbevoegde update notificatie"
+
+#: includes/class-ow-email-settings-helper.php:64
+msgid "Task Claimed Notification"
+msgstr "Taak Opgeëist Notificatie"
+
+#: includes/class-ow-email-settings-helper.php:65
+msgid "Post Submit Notification"
+msgstr "Bericht verstuurd notificatie"
+
+#: includes/class-ow-email-settings-helper.php:66
+msgid "Workflow Abort Notification"
+msgstr "Workflow afbreken notificatie"
+
+#: includes/class-ow-email-settings-helper.php:96
+msgid "Post Author(s)"
+msgstr "Auteur(s)"
+
+#: includes/class-ow-email-settings-helper.php:97
+msgid "Administrator(s)"
+msgstr "Beheerder(s)"
+
+#: includes/class-ow-email-settings-helper.php:98
+#: includes/class-ow-email-settings-helper.php:801
+#: includes/class-ow-utility.php:727 includes/class-ow-utility.php:1165
+msgid "Post Submitter"
+msgstr "Bericht inzender"
+
+#: includes/class-ow-email-settings-helper.php:99
+#: includes/class-ow-email-settings-helper.php:806
+msgid "Current Task Assignees"
+msgstr "Huidige taak toegewezenen"
+
+#: includes/class-ow-email-settings-helper.php:148
+msgid " Your article has been published."
+msgstr " Uw artikel is gepubliceerd."
+
+#: includes/class-ow-email-settings-helper.php:160
+#: includes/class-ow-email-settings-helper.php:187
+#: includes/class-ow-email-settings-helper.php:214
+#: includes/class-ow-email-settings-helper.php:243
+#: includes/class-ow-email-settings-helper.php:271
+#: includes/class-ow-email-settings-helper.php:299
+msgid "Hello "
+msgstr "Hallo "
+
+#: includes/class-ow-email-settings-helper.php:161
+#: includes/class-ow-email-settings-helper.php:272
+#: includes/class-ow-email-settings-helper.php:300
+msgid "Your article "
+msgstr "Uw artikel "
+
+#: includes/class-ow-email-settings-helper.php:162
+#: includes/class-ow-email-settings-helper.php:189
+msgid " has been published on "
+msgstr " is gepubliceerd op "
+
+#: includes/class-ow-email-settings-helper.php:163
+#: includes/class-ow-email-settings-helper.php:190
+#: includes/class-ow-email-settings-helper.php:219
+#: includes/class-ow-email-settings-helper.php:247
+#: includes/class-ow-email-settings-helper.php:275
+#: includes/class-ow-email-settings-helper.php:305
+msgid "Thanks."
+msgstr "Bedankt."
+
+#: includes/class-ow-email-settings-helper.php:175
+msgid " Your revised article has been published."
+msgstr " Uw gereviseerde artikel is gepubliceerd."
+
+#: includes/class-ow-email-settings-helper.php:188
+msgid "Your revised article "
+msgstr "Uw gereviseerde artikel "
+
+#: includes/class-ow-email-settings-helper.php:202
+msgid " Article was updated outside the workflow."
+msgstr " Artikel was aangepast buiten de workflow om."
+
+#: includes/class-ow-email-settings-helper.php:216
+msgid "who is not part of the assignee list has updated the article "
+msgstr ""
+"die niet deel uitmaakt van de huidige toegewezen groep heeft het artikel "
+"aangepast "
+
+#: includes/class-ow-email-settings-helper.php:218
+msgid " outside the workflow on "
+msgstr "buiten de workflow om "
+
+#: includes/class-ow-email-settings-helper.php:231
+msgid " Task claimed."
+msgstr " Taak opgeëist."
+
+#: includes/class-ow-email-settings-helper.php:244
+msgid "Another user has claimed the task for the article "
+msgstr "Een andere gebruiker heeft de taak opgeëist voor het artikel "
+
+#: includes/class-ow-email-settings-helper.php:246
+msgid " Please ignore the task. "
+msgstr "Gelieve de taak te negeren. "
+
+#: includes/class-ow-email-settings-helper.php:259
+msgid " Your article has been submitted."
+msgstr " Uw artikel is ingediend."
+
+#: includes/class-ow-email-settings-helper.php:273
+msgid " has been successfully submitted to the workflow on "
+msgstr " zijn opgenomen in de workflow op"
+
+#: includes/class-ow-email-settings-helper.php:287
+msgid " Workflow has been aborted."
+msgstr " Workflow is afgebroken."
+
+#: includes/class-ow-email-settings-helper.php:301
+msgid " has been aborted from the workflow on "
+msgstr " is uit de workflow genomen "
+
+#: includes/class-ow-email-settings-helper.php:303
+msgid ""
+"If you have further questions regarding your article, please contact the "
+"administrator. "
+msgstr ""
+"Als er verder nog vragen gerelateerd aan uw artikel, neem aub contact op met "
+"de administrator. "
+
+#: includes/class-ow-email-settings-helper.php:357
+msgid ""
+"Available template placeholders for email subject and content (Applicable to "
+"email recipients in the 'To' list only):"
+msgstr ""
+"Tijdelijke tijdelijke aanduidingen voor e-mailbeschikbaar (alleen van "
+"toepassing op e-mailontvangers in de lijst 'Aan):Available template "
+"placeholders for email subject and content (Applicable to email recipients "
+"in the 'To' list only):"
+
+#: includes/class-ow-email-settings-helper.php:800
+#: includes/class-ow-utility.php:197 includes/class-ow-utility.php:242
+#: includes/class-ow-utility.php:723 includes/class-ow-utility.php:1164
+#: oasis-workflow-pro.php:978 oasis-workflow-pro.php:3413
+#: oasis-workflow-pro.php:3519
+msgid "Post Author"
+msgstr "Auteur"
+
+#: includes/class-ow-email-settings-helper.php:811
+#: includes/class-ow-utility.php:1168
+msgid "Roles"
+msgstr "Gebruikersrollen"
+
+#: includes/class-ow-email-settings-helper.php:847
+#: includes/class-ow-utility.php:1209
+msgid "Users"
+msgstr "Gebruikers"
+
+#: includes/class-ow-email-settings-helper.php:875
+#: includes/class-ow-settings-base.php:52
+msgid "External Users"
+msgstr "Externe gebruikers"
+
+#: includes/class-ow-email-settings.php:76 oasis-workflow-pro.php:645
+msgid "12 hours"
+msgstr "12 uur"
+
+#: includes/class-ow-email-settings.php:234
+msgid ""
+"Please select at least one \"To\" email recipient for \"Post Publish "
+"Notification\"."
+msgstr ""
+"Selecteer ten minste één e-mailontvanger aan voor 'Berichtpublicatiemelding'."
+
+#: includes/class-ow-email-settings.php:280
+msgid ""
+"Please select at least one \"To\" email recipient for \"Revised Post Publish "
+"Notification\"."
+msgstr ""
+"Selecteer ten minste één e-mailontvanger \"Aan\" voor \"Herziene "
+"berichtpublicatie-melding\"."
+
+#: includes/class-ow-email-settings.php:327
+msgid ""
+"Please select at least one \"To\" email recipient for \"Post Submit "
+"Notification\"."
+msgstr "Select at least one e-mail recipient \"To\" for \"Send Notification\"."
+
+#: includes/class-ow-email-settings.php:373
+msgid ""
+"Please select at least one \"To\" email recipient for \"Unauthorized Update "
+"Notification\"."
+msgstr ""
+"Selecteer ten minste één e-mailontvanger aan voor 'Melding van "
+"ongeautoriseerde updates'."
+
+#: includes/class-ow-email-settings.php:420
+msgid ""
+"Please select at least one \"To\" email recipient for \"Task Claimed "
+"Notification\"."
+msgstr ""
+"Selecteer ten minste één e-mailontvanger aan voor 'Geclaimde melding van "
+"taak'."
+
+#: includes/class-ow-email-settings.php:466
+msgid ""
+"Please select at least one \"To\" email recipient for \"Workflow Abort "
+"Notification\"."
+msgstr ""
+"Selecteer ten minste één e-mailontvanger aan voor 'Melding voor het afbreken "
+"van werkstroom'."
+
+#: includes/class-ow-email-settings.php:554
+msgid "From Name:"
+msgstr "Naam afzender:"
+
+#: includes/class-ow-email-settings.php:561
+msgid ""
+"(Name to be used for sending the workflow related emails. If left blank, the "
+"emails will be sent from the blog name.)"
+msgstr ""
+"(Naam die gebruikt wordt voor het versturen van de workflow gerelateerde e-"
+"mails. Indien leeg gelaten, dan worden de e-mails met de blognaam verstuurd.)"
+
+#: includes/class-ow-email-settings.php:567
+msgid "From Email:"
+msgstr "E-mail afzender:"
+
+#: includes/class-ow-email-settings.php:574
+msgid ""
+"(Email address to be used for sending the workflow related emails. If left "
+"blank, the default email will be used.)"
+msgstr ""
+"(E-mail adres dat gebruikt wordt voor het versturen van de workflow "
+"gerelateerde e-mails. Indien leeg gelaten, dan wordt het standaard e-mail "
+"adres gebruikt.)"
+
+#: includes/class-ow-email-settings.php:580
+msgid "Task Assignment/Reminder Settings"
+msgstr "Taak toewijzing/Herinnering instellingen"
+
+#: includes/class-ow-email-settings.php:587
+msgid "Check this box if you want to send emails when tasks are assigned."
+msgstr ""
+"Vink deze box aan als je wilt dat e-mails worden verstuurd wanneer taken "
+"zijn toegewezen."
+
+#: includes/class-ow-email-settings.php:597
+msgid ""
+"Check this box if you want to send reminder emails about a pending task."
+msgstr ""
+"Vink deze box aan als je wil dat herinneringsmails worden verstuurd voor "
+"wachtende taken."
+
+#: includes/class-ow-email-settings.php:604
+#: includes/class-ow-email-settings.php:619
+msgid " Send Reminder Email"
+msgstr " Zend herinneringsmail"
+
+#: includes/class-ow-email-settings.php:611
+msgid "day(s) before due date."
+msgstr "dag(en) voor de opleveringsdatum."
+
+#: includes/class-ow-email-settings.php:626
+msgid "day(s) after due date."
+msgstr "dag(en) na de opleveringsdatum."
+
+#: includes/class-ow-email-settings.php:636
+msgid "Enable Digest Email"
+msgstr "Inschakelen Verzamel e-mail"
+
+#: includes/class-ow-email-settings.php:640
+msgid ""
+"(An email digest is an email that combines all assignment emails generated "
+"in the last one hour  into "
+msgstr ""
+"(Een e-mail verzameling is een e-mail die alle toewijzings e-mails van het "
+"afgelopen uur combineert in "
+
+#: includes/class-ow-email-settings.php:641
+msgid "one single message"
+msgstr "één enkel bericht"
+
+#: includes/class-ow-email-settings.php:645
+msgid ""
+"This will reduce the number of emails your users get from the workflow "
+"system."
+msgstr ""
+"Dit zal het aantal e-mails dat uw gebruikers uit het workflow systeem "
+"krijgen verminderen."
+
+#: includes/class-ow-email-settings.php:650
+msgid "Run Email Digest every:"
+msgstr "Run E-mail Digest elke:"
+
+#: includes/class-ow-email-settings.php:672
+msgid "Other Email Settings"
+msgstr "Andere e-mailinstellingen"
+
+#: includes/class-ow-email-settings.php:675
+msgid "Select Email Type:"
+msgstr "Kies e-mail type:"
+
+#: includes/class-ow-email-settings.php:748
+#: includes/class-ow-email-settings.php:921
+#: includes/class-ow-email-settings.php:1096
+#: includes/class-ow-email-settings.php:1273
+#: includes/class-ow-email-settings.php:1446
+#: includes/class-ow-email-settings.php:1619
+msgid "Is Active?:"
+msgstr "Is Actief?:"
+
+#: includes/class-ow-email-settings.php:761
+#: includes/class-ow-email-settings.php:935
+#: includes/class-ow-email-settings.php:1111
+#: includes/class-ow-email-settings.php:1286
+#: includes/class-ow-email-settings.php:1459
+#: includes/class-ow-email-settings.php:1632
+msgid "Email Recipients:"
+msgstr "E-mailontvangers:"
+
+#: includes/class-ow-email-settings.php:768
+#: includes/class-ow-email-settings.php:942
+#: includes/class-ow-email-settings.php:1118
+#: includes/class-ow-email-settings.php:1293
+#: includes/class-ow-email-settings.php:1466
+#: includes/class-ow-email-settings.php:1639
+msgid "To:"
+msgstr "Aan:"
+
+#: includes/class-ow-email-settings.php:802
+#: includes/class-ow-email-settings.php:975
+#: includes/class-ow-email-settings.php:1152
+#: includes/class-ow-email-settings.php:1327
+#: includes/class-ow-email-settings.php:1500
+#: includes/class-ow-email-settings.php:1673
+msgid "Cc:"
+msgstr "Cc:"
+
+#: includes/class-ow-email-settings.php:836
+#: includes/class-ow-email-settings.php:1009
+#: includes/class-ow-email-settings.php:1186
+#: includes/class-ow-email-settings.php:1361
+#: includes/class-ow-email-settings.php:1534
+#: includes/class-ow-email-settings.php:1707
+msgid "Bcc:"
+msgstr "Bcc:"
+
+#: includes/class-ow-email-settings.php:870
+#: includes/class-ow-email-settings.php:1043
+#: includes/class-ow-email-settings.php:1220
+#: includes/class-ow-email-settings.php:1395
+#: includes/class-ow-email-settings.php:1568
+#: includes/class-ow-email-settings.php:1741
+msgid " Email Subject:"
+msgstr " E-mail onderwerp:"
+
+#: includes/class-ow-email-settings.php:887
+#: includes/class-ow-email-settings.php:1061
+#: includes/class-ow-email-settings.php:1238
+#: includes/class-ow-email-settings.php:1412
+#: includes/class-ow-email-settings.php:1585
+#: includes/class-ow-email-settings.php:1758
+msgid " Email Content:"
+msgstr " E-mail inhoud:"
+
+#: includes/class-ow-email.php:463
+msgid "You have an assignment"
+msgstr "U heeft een opdracht"
+
+#: includes/class-ow-email.php:465
+msgid "You have an assignment related to post - "
+msgstr "U heeft een opdracht gerelateerd aan bericht - "
+
+#: includes/class-ow-email.php:535 includes/class-ow-inbox-service.php:211
+#: includes/class-ow-report-service.php:130
+#: includes/class-ow-workflow-terminology-settings.php:190
+#: includes/class-ow-workflow-terminology-settings.php:354
+#: includes/pages/subpages/submit-step.php:65
+#: includes/pages/subpages/submit-workflow.php:53
+#: src/components/ow-task-priority-select-control.js:18
+msgid "Priority"
+msgstr "Prioriteit"
+
+#: includes/class-ow-email.php:569 includes/class-ow-history-service.php:199
+#: includes/class-ow-history-service.php:211
+#: includes/class-ow-history-service.php:947
+msgid "Sign off date"
+msgstr "Inzenddatum"
+
+#: includes/class-ow-email.php:576 includes/class-ow-inbox-service.php:209
+#: includes/class-ow-report-service.php:71
+#: includes/class-ow-workflow-terminology-settings.php:180
+#: includes/class-ow-workflow-terminology-settings.php:279
+#: includes/pages/subpages/submit-step.php:63
+#: includes/pages/subpages/submit-workflow.php:49
+#: src/components/ow-signoff.js:31 src/components/ow-submit-to-workflow.js:41
+msgid "Due Date"
+msgstr "Opleveringsdatum"
+
+#: includes/class-ow-email.php:591 includes/class-ow-process-flow.php:2706
+msgid "Additionally,"
+msgstr "Daarnaast,"
+
+#: includes/class-ow-email.php:592 includes/class-ow-process-flow.php:2707
+msgid "added the following comments"
+msgstr "het volgende commentaar toegevoegd"
+
+#: includes/class-ow-external-user-settings.php:98
+#: includes/class-ow-external-user-settings.php:104
+msgid "Row "
+msgstr "Rij "
+
+#: includes/class-ow-external-user-settings.php:99
+msgid " of external user details requires either First Name or Last Name."
+msgstr " van externe gebruikersgegevens vereist voor- of achternaam."
+
+#: includes/class-ow-external-user-settings.php:105
+msgid " of external user details requires Email Address."
+msgstr " van externe gebruikersgegevens vereist e-mailadres."
+
+#: includes/class-ow-external-user-settings.php:148
+msgid "Manage external users (non-WordPress users) for workflow notifications."
+msgstr ""
+"Beheer externe gebruikers (niet-WordPress-gebruikers) voor "
+"werkstroommeldingen."
+
+#: includes/class-ow-external-user-settings.php:150
+msgid ""
+"These users will be available on the Email tab under \"Other Email Settings"
+"\" section."
+msgstr ""
+"Deze gebruikers zijn beschikbaar op het tabblad E-mail onder de sectie "
+"'Andere e-mailinstellingen'."
+
+#: includes/class-ow-external-user-settings.php:157 oasis-workflow-pro.php:972
+#: oasis-workflow-pro.php:3408 oasis-workflow-pro.php:3513
+msgid "First Name"
+msgstr "Voornaam"
+
+#: includes/class-ow-external-user-settings.php:158 oasis-workflow-pro.php:973
+#: oasis-workflow-pro.php:3409 oasis-workflow-pro.php:3514
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: includes/class-ow-external-user-settings.php:159
+#: includes/class-ow-settings-base.php:40
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/class-ow-external-user-settings.php:202
+msgid ""
+"No external users found. Click the \"+ Add User\" button to add external "
+"users."
+msgstr ""
+"Geen externe gebruikers gevonden. Klik op de knop 'Gebruiker+ toevoegen' om "
+"externe gebruikers toe te voegen."
+
+#: includes/class-ow-external-user-settings.php:207
+msgid "+ Add User"
+msgstr "+ Gebruiker toevoegen"
+
+#: includes/class-ow-history-service.php:46
+msgid "You are not allowed to delete workflow history."
+msgstr "Het is niet toegestaan om de workflowhistorie te verwijderen."
+
+#: includes/class-ow-history-service.php:175
+msgid "You are not allowed to download workflow history."
+msgstr "Het is niet toegestaan om de workflowhistorie te downloaden."
+
+#: includes/class-ow-history-service.php:195
+#: includes/class-ow-history-service.php:931
+msgid "Actor"
+msgstr "Persoon"
+
+#: includes/class-ow-history-service.php:196
+#: includes/class-ow-history-service.php:208
+msgid "Workflow (version)"
+msgstr "Workflow (versie)"
+
+#: includes/class-ow-history-service.php:197
+#: includes/class-ow-history-service.php:209 src/components/ow-signoff.js:603
+#: src/components/ow-submit-to-workflow.js:532
+msgid "Step"
+msgstr "Stap"
+
+#: includes/class-ow-history-service.php:198
+#: includes/class-ow-history-service.php:210
+msgid "Assigned Date"
+msgstr "Toegewezen datum"
+
+#: includes/class-ow-history-service.php:200
+#: includes/class-ow-history-service.php:212
+#: includes/class-ow-history-service.php:948
+msgid "Result"
+msgstr "Resultaat"
+
+#: includes/class-ow-history-service.php:201
+#: includes/class-ow-history-service.php:213
+#: includes/class-ow-history-service.php:949
+#: includes/class-ow-inbox-service.php:269 src/components/ow-abort.js:190
+#: src/components/ow-reassign.js:254 src/components/ow-signoff-last-step.js:318
+#: src/components/ow-signoff.js:678 src/components/ow-submit-to-workflow.js:642
+msgid "Comments"
+msgstr "Commentaar"
+
+#: includes/class-ow-history-service.php:202
+#: includes/class-ow-history-service.php:214
+msgid "Workflow Meta"
+msgstr "Workflow Meta"
+
+#: includes/class-ow-history-service.php:246
+#: includes/class-ow-history-service.php:323
+msgid "No comments found."
+msgstr "Geen commentaar gevonden."
+
+#: includes/class-ow-history-service.php:253
+#: includes/class-ow-history-service.php:331
+msgid "Pre Publish Checklist: "
+msgstr "Pre Publiceren Checklist: "
+
+#: includes/class-ow-history-service.php:305
+#: includes/class-ow-process-flow.php:4253
+#: includes/pages/workflow-history.php:300
+msgid "No Action Taken"
+msgstr "Geen actie genomen"
+
+#: includes/class-ow-history-service.php:308
+#: includes/class-ow-process-flow.php:4272
+#: includes/pages/workflow-history.php:303
+msgid "Workflow completed"
+msgstr "Workflow afgerond"
+
+#: includes/class-ow-history-service.php:311
+#: includes/class-ow-process-flow.php:4275
+#: includes/pages/workflow-history.php:306
+msgid "Cancelled"
+msgstr "Geannuleerd"
+
+#: includes/class-ow-history-service.php:442
+msgid "You are not allowed to view workflow history."
+msgstr "Het is niet toegestaan ​​om de workflowhistorie te bekijken."
+
+#: includes/class-ow-history-service.php:937
+#: includes/class-ow-inbox-service.php:252
+msgid "Workflow [Step]"
+msgstr "Workflow [Stap]"
+
+#: includes/class-ow-history-service.php:943
+msgid "Assigned date"
+msgstr "Toegewezen datum"
+
+#: includes/class-ow-inbox-service.php:218
+#: includes/class-ow-report-service.php:99
+msgid "Post/Page"
+msgstr "Bericht/Pagina"
+
+#: includes/class-ow-inbox-service.php:236
+#: includes/class-ow-report-service.php:283
+msgid "Type"
+msgstr "Type"
+
+#: includes/class-ow-inbox-service.php:243
+#: includes/class-ow-report-service.php:295
+msgid "Author"
+msgstr "Auteur"
+
+#: includes/class-ow-inbox-service.php:249
+msgid "Last Signed off By"
+msgstr "Laatst afgemeld door"
+
+#: includes/class-ow-inbox-service.php:254
+#: includes/pages/revision-compare.php:126 oasis-workflow-pro.php:975
+#: oasis-workflow-pro.php:3411 oasis-workflow-pro.php:3516
+msgid "Category"
+msgstr "Categorie"
+
+#: includes/class-ow-inbox-service.php:374
+#: includes/class-ow-process-flow.php:5478 src/components/ow-claim.js:131
+msgid "Claim"
+msgstr "Opeisen"
+
+#: includes/class-ow-inbox-service.php:380
+msgid "Claim and Edit"
+msgstr "Claimen en bewerken"
+
+#: includes/class-ow-inbox-service.php:499
+#: includes/pages/workflow-dashboard-widget.php:36
+msgid " But there are currently "
+msgstr " Maar er zijn momenteel "
+
+#: includes/class-ow-inbox-service.php:503
+#: includes/pages/workflow-dashboard-widget.php:40
+#: includes/pages/workflow-dashboard-widget.php:46
+msgid " unclaimed task(s)."
+msgstr " niet opgeëiste taak(en)."
+
+#: includes/class-ow-inbox-service.php:508
+#: includes/class-ow-inbox-service.php:515
+#: includes/pages/workflow-dashboard-widget.php:64
+msgid "Hurray! No assignments."
+msgstr "Geen opdrachten."
+
+#: includes/class-ow-inbox-service.php:529
+msgid "Select a user to reassign the task."
+msgstr "Selecteer een gebruiker om de taak opnieuw aan toe te wijzen."
+
+#: includes/class-ow-inbox-service.php:531
+#: includes/class-ow-process-flow.php:5509
+#: includes/class-ow-process-flow.php:5663
+#: includes/class-ow-process-flow.php:5873 oasis-workflow-pro.php:4378
+msgid "Please add comments."
+msgstr "Voeg opmerkingen toe."
+
+#: includes/class-ow-inbox-service.php:558
+#: includes/class-ow-process-flow.php:5472
+#: includes/class-ow-workflow-terminology-settings.php:172
+#: includes/class-ow-workflow-terminology-settings.php:233
+#: includes/pages/subpages/submit-step.php:59
+#: src/components/ow-signoff-last-step.js:23 src/components/ow-signoff.js:29
+msgid "Sign Off"
+msgstr "Inzenden"
+
+#: includes/class-ow-inbox-service.php:560
+#: includes/class-ow-process-flow.php:5861
+#: includes/class-ow-workflow-terminology-settings.php:184
+#: includes/class-ow-workflow-terminology-settings.php:309
+#: includes/pages/subpages/abort-workflow-comment.php:4
+#: src/components/ow-abort.js:17
+msgid "Abort Workflow"
+msgstr "Workflow afbreken"
+
+#: includes/class-ow-inbox-service.php:567
+#: includes/class-ow-workflow-service.php:1408
+#: includes/pages/ow-custom-statuses.php:40
+#: includes/pages/workflow-create.php:409
+#: includes/pages/workflow-create.php:416
+msgid "Edit"
+msgstr "Bewerken"
+
+#: includes/class-ow-inbox-service.php:575
+msgid "Edit with Elementor"
+msgstr "Bewerken met Elementor"
+
+#: includes/class-ow-inbox-service.php:580
+msgid "View"
+msgstr "Bekijken"
+
+#: includes/class-ow-inbox-service.php:587
+#: includes/class-ow-revision-service.php:1329
+#: includes/class-ow-revision-service.php:1330
+msgid "Compare"
+msgstr "Vergelijken"
+
+#: includes/class-ow-inbox-service.php:599
+#: includes/class-ow-process-flow.php:5480
+#: includes/pages/subpages/reassign.php:58 src/components/ow-reassign.js:21
+msgid "Reassign"
+msgstr "Opnieuw toewijzen"
+
+#: includes/class-ow-inbox-service.php:612
+msgid "View History"
+msgstr "Bekijk historie"
+
+#: includes/class-ow-license-settings.php:63
+msgid ""
+"License cannot be deactivated. Either the license key is invalid or the "
+"licensing server cannot be reached."
+msgstr ""
+"Licentie kan niet worden gedeactiveerd. De licentiesleutel is ongeldig of de "
+"licentieserver kan niet worden bereikt."
+
+#: includes/class-ow-license-settings.php:82
+msgid ""
+"License cannot be activated. Either the license key is invalid or your "
+"activation limit is reached."
+msgstr ""
+"Licentie kan niet worden geactiveerd. De licentiesleutel is ongeldig of uw "
+"activeringslimiet is bereikt."
+
+#: includes/class-ow-license-settings.php:111
+msgid "license key"
+msgstr "licentiesleutel"
+
+#: includes/class-ow-license-settings.php:120
+msgid "Deactivate License"
+msgstr "Licentie deactiveren"
+
+#: includes/class-ow-plugin-updater.php:211
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+"Er is een nieuwe versie van %1$s beschikbaar. %2$sBekijk versie %3$s details "
+"%4$s."
+
+#: includes/class-ow-plugin-updater.php:220
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+"Er is een nieuwe versie van %1$s beschikbaar. %2$sBekijk versie %3$s details "
+"%4$s of %5$supdate nu%6$s."
+
+#: includes/class-ow-plugin-updater.php:387
+msgid "You do not have permission to install plugin updates"
+msgstr "U heeft onvoldoende rechten om deze plug-in te installeren"
+
+#: includes/class-ow-plugin-updater.php:388
+msgid "Error"
+msgstr "Foutmelding"
+
+#: includes/class-ow-process-flow.php:134
+#: includes/class-ow-process-flow.php:588
+#: includes/class-ow-process-flow.php:5486
+#: includes/class-ow-process-flow.php:5636 src/components/ow-signoff.js:245
+#: src/components/ow-submit-to-workflow.js:175
+msgid "No users found to assign the task."
+msgstr "Geen gebruikers gevonden om aan de taak toe te wijzen."
+
+#: includes/class-ow-process-flow.php:325
+#: includes/class-ow-process-flow.php:767
+#: includes/class-ow-process-flow.php:6007 src/components/ow-signoff.js:391
+#: src/components/ow-submit-to-workflow.js:342
+msgid "Due date must be greater than the current date."
+msgstr "Opleveringsdatum moet later zijn dan de huidige datum."
+
+#: includes/class-ow-process-flow.php:341
+#: includes/class-ow-workflow-terminology-settings.php:174
+#: includes/class-ow-workflow-terminology-settings.php:218
+#: src/components/ow-submit-to-workflow.js:42
+msgid "Continue to Submit"
+msgstr "Doorgaan met verzenden"
+
+#: includes/class-ow-process-flow.php:781
+#: includes/class-ow-process-flow.php:2316
+#: includes/class-ow-workflow-terminology-settings.php:176
+#: includes/class-ow-workflow-terminology-settings.php:248
+msgid "Continue to Sign off"
+msgstr "Doorgaan met afmelden"
+
+#: includes/class-ow-process-flow.php:906
+msgid ""
+"No users found for the assigned Team and Workflow role. Please contact the "
+"administrator."
+msgstr ""
+"Geen gebruikers gevonden voor het toegewezen Team en workflow rol. Neem "
+"contact op met de beheerder s.v.p."
+
+#: includes/class-ow-process-flow.php:1646
+msgid "You are not allowed to signoff."
+msgstr "U mag niet Signoff."
+
+#: includes/class-ow-process-flow.php:1751
+#: includes/class-ow-process-flow.php:5510
+msgid "The task was successfully signed off."
+msgstr "De taak is afgesloten."
+
+#: includes/class-ow-process-flow.php:1814
+msgid "You are not allowed to claim."
+msgstr "U bent niet toegestaan om te beweren."
+
+#: includes/class-ow-process-flow.php:1847
+msgid "You are not allowed to claim the task."
+msgstr "U mag de taak niet claimen."
+
+#: includes/class-ow-process-flow.php:1955
+msgid "Sorry, You can't claim the task. It is already claimed by another user."
+msgstr ""
+"Sorry, u de taak niet claimen. Het is al geclaimd door een andere gebruiker."
+
+#: includes/class-ow-process-flow.php:1970
+msgid "The post was successfully claimed."
+msgstr "De post werd met succes beweerd."
+
+#: includes/class-ow-process-flow.php:1999
+msgid "Claim Error"
+msgstr "Fout bij opeisen"
+
+#: includes/class-ow-process-flow.php:2024
+#: includes/class-ow-process-flow.php:4972
+msgid "You are not allowed to reassign task."
+msgstr "U mag de taak niet opnieuw toewijzen."
+
+#: includes/class-ow-process-flow.php:2046
+msgid "You are not allowed to reassign tasks."
+msgstr "Het is niet toegestaan om taken opnieuw toe te wijzen."
+
+#: includes/class-ow-process-flow.php:2118
+#: includes/class-ow-process-flow.php:2159
+#: includes/class-ow-process-flow.php:2200
+msgid "The post was successfully reassigned."
+msgstr "De post is met succes opnieuw toegewezen."
+
+#: includes/class-ow-process-flow.php:2211
+msgid "The post can not be reassigned."
+msgstr "Het bericht kan niet opnieuw worden toegewezen."
+
+#: includes/class-ow-process-flow.php:2511
+msgid "You are not allowed to publish post."
+msgstr "U mag geen post publiceren."
+
+#: includes/class-ow-process-flow.php:2583
+#: includes/class-ow-process-flow.php:2594
+msgid "The workflow is complete."
+msgstr "De workflow is voltooid."
+
+#: includes/class-ow-process-flow.php:2618
+msgid "You are not allowed to end the workflow process."
+msgstr "U mag het werkstroomproces niet beëindigen."
+
+#: includes/class-ow-process-flow.php:2699
+#, php-format
+msgid ""
+"<div>Hello %1$s,</div><p>The post <a href=\"%2$s\" title=\"%3$s\">%3$s</a> "
+"has been cancelled from the workflow.</p>"
+msgstr ""
+"<div>Hallo %1$s,</div><p>Het bericht <a href=\"%2$s\" title=\"%3$s\">%3$s</"
+"a> is uit de workflow genomen.</p>"
+
+#: includes/class-ow-process-flow.php:2711
+msgid "<p>Thanks.</p>"
+msgstr "<p>Bedankt.</p>"
+
+#: includes/class-ow-process-flow.php:2722
+msgid "The workflow was successfully aborted from the last step."
+msgstr "De werkstroom is met succes afgebroken vanaf de laatste stap."
+
+#: includes/class-ow-process-flow.php:2770
+#: includes/class-ow-process-flow.php:2857
+#: includes/class-ow-process-flow.php:2898
+#: includes/class-ow-process-flow.php:5154
+msgid "You are not allowed to abort the workflow."
+msgstr "Het is niet toegestaan om de workflow af te breken."
+
+#: includes/class-ow-process-flow.php:2876
+msgid "The workflow was successfully aborted."
+msgstr "De werkstroom is afgebroken."
+
+#: includes/class-ow-process-flow.php:2991
+msgid "You are not allowed delete the post"
+msgstr "U bent niet toegestaan verwijderen van de post"
+
+#: includes/class-ow-process-flow.php:3065
+msgid ""
+"You cannot claim additional tasks, since you already have more than 2 "
+"assignments."
+msgstr ""
+"U kan geen aanspraak maken op extra taken, aangezien u al meer dan 2 "
+"toewijzingen heeft."
+
+#: includes/class-ow-process-flow.php:4247
+msgid "Submitted"
+msgstr "Ingediend"
+
+#: includes/class-ow-process-flow.php:4250
+msgid "Aborted"
+msgstr "Afgebroken"
+
+#: includes/class-ow-process-flow.php:4256
+#: includes/pages/workflow-inbox.php:105
+msgid "Unclaimed"
+msgstr "Niet opgeëist"
+
+#: includes/class-ow-process-flow.php:4259
+msgid "Claimed"
+msgstr "Opgeëist"
+
+#: includes/class-ow-process-flow.php:4262
+#: includes/class-ow-process-flow.php:4316
+msgid "Reassigned"
+msgstr "Opnieuw toegewezen"
+
+#: includes/class-ow-process-flow.php:4290
+#: includes/class-ow-process-flow.php:4334
+#: includes/class-ow-workflow-service.php:445
+#: includes/pages/subpages/step-info-content.php:269
+#: includes/pages/subpages/submit-step.php:45
+msgid "Approved"
+msgstr "Goedgekeurd"
+
+#: includes/class-ow-process-flow.php:4293
+#: includes/class-ow-process-flow.php:4337
+msgid "Rejected"
+msgstr "Afgekeurd"
+
+#: includes/class-ow-process-flow.php:4298
+msgid "Completed"
+msgstr "Voltooid"
+
+#: includes/class-ow-process-flow.php:4301
+#: includes/class-ow-process-flow.php:4344
+#: includes/class-ow-workflow-service.php:453
+#: includes/pages/subpages/step-info-content.php:267
+#: includes/pages/subpages/submit-step.php:48
+msgid "Unable to Complete"
+msgstr "Niet in staat om te voltooien"
+
+#: includes/class-ow-process-flow.php:4341
+#: includes/class-ow-workflow-service.php:445
+#: includes/pages/subpages/step-info-content.php:266
+#: includes/pages/subpages/submit-step.php:45
+msgid "Complete"
+msgstr "Voltooien"
+
+#: includes/class-ow-process-flow.php:4685 src/ow-sidebar.js:209
+#: src/ow-sidebar.js:219
+msgid "You are not allowed to submit to workflow."
+msgstr "U mag zich niet aan de workflow onderwerpen."
+
+#: includes/class-ow-process-flow.php:4791
+#: includes/class-ow-process-flow.php:5664
+msgid "The post was successfully submitted to the workflow."
+msgstr "De post is met succes ingediend bij de workflow."
+
+#: includes/class-ow-process-flow.php:5474
+#: includes/class-ow-process-flow.php:5631
+#: includes/class-ow-process-flow.php:5864
+#: includes/class-ow-revision-service.php:140
+msgid ""
+"Preparing the revision compare. If the page doesn't get redirected to the "
+"compare page in 10 seconds,"
+msgstr ""
+"De revisievergelijking voorbereiden. Als de pagina niet binnen 10 seconden "
+"wordt doorverwezen naar de vergelijkingspagina,"
+
+#: includes/class-ow-process-flow.php:5476
+#: includes/class-ow-process-flow.php:5633
+#: includes/class-ow-process-flow.php:5866
+#: includes/class-ow-revision-service.php:142
+msgid "click here"
+msgstr "klik hier"
+
+#: includes/class-ow-process-flow.php:5479
+msgid "Go to Workflow Inbox"
+msgstr "Ga naar de Workflow Inbox"
+
+#: includes/class-ow-process-flow.php:5482
+msgid ""
+"There are no further steps defined in the workflow.</br> Do you want to "
+"cancel the post/page from the workflow?"
+msgstr ""
+"Er zijn geen verdere stappen gedefinieerd in de workflow. </br> Wilt u de "
+"post/pagina annuleren uit de workflow?"
+
+#: includes/class-ow-process-flow.php:5484
+msgid ""
+"This is the last step in the workflow. Are you ready to complete the "
+"workflow?"
+msgstr ""
+"Dit is de laatste stap in de workflow. Weet u zeker dat u de workflow wilt "
+"afronden?"
+
+#: includes/class-ow-process-flow.php:5487
+msgid "Please select an action."
+msgstr "Selecteer een actie s.v.p."
+
+#: includes/class-ow-process-flow.php:5488
+#: includes/class-ow-process-flow.php:5641 src/components/ow-signoff.js:383
+#: src/components/ow-submit-to-workflow.js:334
+msgid "Please select a step."
+msgstr "Selecteer een stap s.v.p."
+
+#: includes/class-ow-process-flow.php:5489
+#: includes/class-ow-process-flow.php:5643 src/components/ow-signoff.js:387
+#: src/components/ow-submit-to-workflow.js:338
+msgid "Please enter a due date."
+msgstr "Selecteer een opleveringsdatum s.v.p."
+
+#: includes/class-ow-process-flow.php:5490
+#: includes/class-ow-process-flow.php:5646 src/components/ow-reassign.js:178
+#: src/components/ow-signoff.js:395 src/components/ow-submit-to-workflow.js:346
+msgid "No assigned actor(s)."
+msgstr "Niemand toegewezen."
+
+#: includes/class-ow-process-flow.php:5491
+#: includes/class-ow-process-flow.php:5637
+msgid "You can select multiple users only for review step. Selected step is"
+msgstr ""
+"U kunt meerdere gebruikers selecteren voor de beoordeelstap. De "
+"geselecteerde stap is"
+
+#: includes/class-ow-process-flow.php:5493
+#: includes/class-ow-process-flow.php:5639
+msgid "step."
+msgstr "stap."
+
+#: includes/class-ow-process-flow.php:5497
+msgid ""
+"No users found for the assigned Team and Workflow assignee(s). Please "
+"contact the administrator."
+msgstr ""
+"Geen gebruikers gevonden voor het toegewezen Team en workflow "
+"toegewezen(en). Neem contact op met de beheerder s.v.p."
+
+#: includes/class-ow-process-flow.php:5499
+msgid "No team assigned. Please contact the administrator."
+msgstr "Geen teams toegewezen. Neem contact op met de beheerder s.v.p."
+
+#: includes/class-ow-process-flow.php:5500
+#: includes/class-ow-process-flow.php:5654
+#: includes/class-ow-process-flow.php:5868
+#: src/components/ow-compare-revision.js:61
+msgid "Compare With Original"
+msgstr "Vergelijk met het origineel"
+
+#: includes/class-ow-process-flow.php:5511
+msgid "The post was successfully published."
+msgstr "Het bericht is gepubliceerd."
+
+#: includes/class-ow-process-flow.php:5512
+#: includes/class-ow-process-flow.php:5666
+msgid "Exit to Dashboard"
+msgstr "Afsluiten naar dashboard"
+
+#: includes/class-ow-process-flow.php:5626
+#: includes/class-ow-workflow-service.php:1156
+#: includes/class-ow-workflow-terminology-settings.php:170
+#: includes/class-ow-workflow-terminology-settings.php:203
+#: src/components/ow-submit-to-workflow.js:38 src/ow-sidebar.js:175
+msgid "Submit to Workflow"
+msgstr "Indienen in de workflow"
+
+#: includes/class-ow-process-flow.php:5629
+msgid "All steps are not defined.\\n Please check the workflow."
+msgstr "Alle stappen zijn niet gedefineerd.\\n Controleer de workflow s.v.p."
+
+#: includes/class-ow-process-flow.php:5634
+msgid "The selected workflow is not valid.\\n Please check this workflow."
+msgstr ""
+"De geselecteerde workflow is niet geldig.\n"
+" Controleer de workflow s.v.p."
+
+#: includes/class-ow-process-flow.php:5640
+#: src/components/ow-submit-to-workflow.js:330
+msgid "Please select a workflow."
+msgstr "Selecteer een workflow s.v.p."
+
+#: includes/class-ow-process-flow.php:5642
+msgid "This step is not defined."
+msgstr "Deze stap is niet gedefineerd."
+
+#: includes/class-ow-process-flow.php:5644
+msgid "You have not selected any pre publish checklist "
+msgstr "U heeft geen pre-publiceren checklist geselecteerd "
+
+#: includes/class-ow-process-flow.php:5645
+msgid "Please select all pre publish checklist "
+msgstr "Selecteer alle pre publiceren checklist "
+
+#: includes/class-ow-process-flow.php:5651
+msgid "Please select a team."
+msgstr "Selecteer een team s.v.p."
+
+#: includes/class-ow-process-flow.php:5652
+msgid ""
+"No users found for the given Team and Workflow assignee(s). Please check the "
+"team."
+msgstr ""
+"Geen gebruikers gevonden voor het opgegeven Team en de toegewezen(en). "
+"Controleer het team s.v.p."
+
+#: includes/class-ow-process-flow.php:5684
+#: includes/class-ow-revision-service.php:1293
+#: includes/class-ow-revision-service.php:1314
+#: includes/class-ow-workflow-terminology-settings.php:188
+#: includes/class-ow-workflow-terminology-settings.php:339
+#: includes/pages/subpages/make-revision-overlay.php:18
+#: includes/pages/subpages/make-revision-overlay.php:23
+#: src/components/ow-make-revision.js:20
+msgid "Make Revision"
+msgstr "Maak een revisie"
+
+#: includes/class-ow-process-flow.php:5869
+msgid "Are you sure to terminate the workflow?"
+msgstr "Weet u zeker dat u de workflow wilt afbreken?"
+
+#: includes/class-ow-process-flow.php:5888
+msgid "Update Published Article"
+msgstr "Update artikel gepubliceerd"
+
+#: includes/class-ow-process-flow.php:5909
+#: includes/class-ow-process-flow.php:6062
+#: includes/class-ow-process-flow.php:6176
+#: includes/class-ow-process-flow.php:6251
+msgid "You are not allowed to get workflow step details."
+msgstr "U bent niet gemachtigd om details van de werkstroomstap te krijgen."
+
+#: includes/class-ow-report-service.php:89
+msgid "Assigned User"
+msgstr "Toegewezen gebruiker"
+
+#: includes/class-ow-report-service.php:110
+#: includes/class-ow-settings-base.php:37
+msgid "Workflow"
+msgstr "Workflow"
+
+#: includes/class-ow-report-service.php:121
+msgid "Workflow Step"
+msgstr "Workflow Stap"
+
+#: includes/class-ow-report-service.php:170
+msgid "- "
+msgstr "- "
+
+#: includes/class-ow-report-service.php:219
+msgid "No current assignments."
+msgstr "Geen openstaande opdrachten."
+
+#: includes/class-ow-report-service.php:307
+msgid "Last Update Date"
+msgstr "Laatste Update Datum"
+
+#: includes/class-ow-report-service.php:364
+msgid "No Posts/Pages found in any workflows."
+msgstr "Geen berichten/pagina's gevonden in een workflow."
+
+#: includes/class-ow-revision-service.php:95
+msgid "You are not allowed to check for revision."
+msgstr "U bent niet gemachtigd om te controleren op revisie."
+
+#: includes/class-ow-revision-service.php:136
+msgid "You are not allowed to compare revision"
+msgstr "U mag revisie niet vergelijken"
+
+#: includes/class-ow-revision-service.php:196
+#: includes/class-ow-revision-service.php:280
+msgid "You are not allowed to create revision of the post."
+msgstr "U mag geen revisie van de post maken."
+
+#: includes/class-ow-revision-service.php:413
+#: includes/class-ow-revision-service.php:439
+msgid "You are not allowed to make the revision."
+msgstr "Het is niet toegestaan om een revisie te maken."
+
+#: includes/class-ow-revision-service.php:444
+msgid "No post to copy has been supplied!"
+msgstr "Geen bericht aangewezen om te kopiëren!"
+
+#: includes/class-ow-revision-service.php:458
+msgid "Copy failed, could not find original:"
+msgstr "Kopiëren mislukt, het origineel is niet gevonden:"
+
+#: includes/class-ow-revision-service.php:570
+msgid "You are not allowed to create revision of the post"
+msgstr "U mag geen revisie van de post maken"
+
+#: includes/class-ow-settings-base.php:34
+msgid "License"
+msgstr "Licentie"
+
+#: includes/class-ow-settings-base.php:43
+msgid "Auto Submit"
+msgstr "Auto Submit"
+
+#: includes/class-ow-settings-base.php:46
+msgid "Document Revision"
+msgstr "Document Revisie"
+
+#: includes/class-ow-settings-base.php:49
+msgid "Workflow Terminology"
+msgstr "Workflow Terminologie"
+
+#: includes/class-ow-settings-base.php:68
+#: includes/class-ow-settings-base.php:69
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/class-ow-tools-service.php:41
+msgid "You are not allowed to export workflows and the settings"
+msgstr "Het is niet toegestaan werkstromen en instellingen te exporteren"
+
+#: includes/class-ow-tools-service.php:57
+msgid "You are not allowed to import workflows and the settings"
+msgstr "Het is niet toegestaan werkstromen en instellingen te importeren"
+
+#: includes/class-ow-tools-service.php:655
+msgid "Imported Workflow - "
+msgstr "Geïmporteerde workflow - "
+
+#: includes/class-ow-tools-service.php:691
+msgid "Imported Team - "
+msgstr "Geïmporteerd Team - "
+
+#: includes/class-ow-tools-service.php:712
+#: includes/class-ow-tools-service.php:718
+#: includes/class-ow-tools-service.php:786
+#: includes/class-ow-tools-service.php:792
+msgid "Error - "
+msgstr "Fout - "
+
+#: includes/class-ow-tools-service.php:713
+#: includes/class-ow-tools-service.php:719
+#: includes/class-ow-tools-service.php:787
+#: includes/class-ow-tools-service.php:793
+msgid " not available in the target system."
+msgstr " niet beschikbaar in het target-systeem."
+
+#: includes/class-ow-tools-service.php:764
+msgid "Imported Group - "
+msgstr "Geïmporteerde groep- "
+
+#: includes/class-ow-tools-service.php:869
+msgid "Imported "
+msgstr "Geïmporteerd "
+
+#: includes/class-ow-tools-service.php:1173
+msgid "Please select at least one option to export."
+msgstr "Selecteer ten minste één workflow om te exporteren."
+
+#: includes/class-ow-tools-service.php:1181
+msgid "There is no data to export."
+msgstr "Er zijn geen gegevens om te exporteren."
+
+#: includes/class-ow-tools-service.php:1189
+msgid "No file selected."
+msgstr "Geen bestand geselecteerd."
+
+#: includes/class-ow-tools-service.php:1197
+msgid "Error uploading file. Please try again."
+msgstr "Fout bij uploaden van bestand. Probeer het opnieuw."
+
+#: includes/class-ow-tools-service.php:1205
+msgid "Incorrect file type"
+msgstr "Onjuist bestandstype"
+
+#: includes/class-ow-tools-service.php:1213
+msgid "Import file empty"
+msgstr "Importbestand is leeg"
+
+#: includes/class-ow-tools-service.php:1221
+msgid "Data imported successfully"
+msgstr "Gegevens met succes geïmporteerd"
+
+#: includes/class-ow-tools-service.php:1249
+#: includes/class-ow-workflow-service.php:1246
+msgid "You are not allowed to fetch workflow settings."
+msgstr "U mag geen workflow-instellingen ophalen."
+
+#: includes/class-ow-tools-service.php:1268
+msgid "You are not allowed to view editorial comments."
+msgstr "U mag geen redactionele opmerkingen bekijken."
+
+#: includes/class-ow-utility.php:552
+#, php-format
+msgid "Displaying %s-%s of %s"
+msgstr "Toont %s-%s van %s"
+
+#: includes/class-ow-utility.php:1035
+msgid "There's something wrong with your code..."
+msgstr "Er is iets mis met uw code..."
+
+#: includes/class-ow-utility.php:1081
+msgid "You are not allowed to get workflow priorities"
+msgstr "U bent niet toegestaan om workflow prioriteiten te krijgen"
+
+#: includes/class-ow-utility.php:1105
+msgid "Low"
+msgstr "Laag"
+
+#: includes/class-ow-utility.php:1106
+msgid "Normal"
+msgstr "Normaal"
+
+#: includes/class-ow-utility.php:1107
+msgid "High"
+msgstr "Hoog"
+
+#: includes/class-ow-utility.php:1108
+msgid "Urgent"
+msgstr "Urgent"
+
+#: includes/class-ow-utility.php:1138
+msgid "assignment"
+msgstr "toewijzing"
+
+#: includes/class-ow-utility.php:1139
+msgid "review"
+msgstr "beoordeling"
+
+#: includes/class-ow-utility.php:1140
+msgid "publish"
+msgstr "publiceer"
+
+#: includes/class-ow-utility.php:1340
+msgid "1 Month ago"
+msgstr "1 Maand geleden"
+
+#: includes/class-ow-utility.php:1341
+msgid "3 Months ago"
+msgstr "3 Maanden geleden"
+
+#: includes/class-ow-utility.php:1342
+msgid "6 Months ago"
+msgstr "6 Maanden geleden"
+
+#: includes/class-ow-utility.php:1343
+msgid "12 Months ago"
+msgstr "12 Maanden geleden"
+
+#: includes/class-ow-utility.php:1344
+msgid "Since the beginning"
+msgstr "Vanaf het begin"
+
+#: includes/class-ow-utility.php:1355
+msgid "--Select Workflow--"
+msgstr "--Selecteer Workflow--"
+
+#: includes/class-ow-utility.php:1388
+msgid "No Due Date"
+msgstr "Geen vervaldatum"
+
+#: includes/class-ow-utility.php:1389
+#: includes/pages/workflow-dashboard-widget.php:84
+msgid "Overdue"
+msgstr "Over tijd"
+
+#: includes/class-ow-utility.php:1390
+#: includes/pages/workflow-dashboard-widget.php:89
+msgid "Due Today"
+msgstr "Vandaag op te leveren"
+
+#: includes/class-ow-utility.php:1391
+#: includes/pages/workflow-dashboard-widget.php:94
+msgid "Due Tomorrow"
+msgstr "Morgen op te leveren"
+
+#: includes/class-ow-utility.php:1392
+#: includes/pages/workflow-dashboard-widget.php:99
+msgid "Due in 7 days"
+msgstr "Binnen 7 dagen op te leveren"
+
+#: includes/class-ow-utility.php:1443
+#, php-format
+msgid "Please <a href=\"%s\">enter and activate</a> your license key for "
+msgstr "Voer uw licentiesleutel in <a href=\"%s\">en activeer</a> "
+
+#: includes/class-ow-utility.php:1444
+msgid " to enable automatic updates."
+msgstr " om automatische updates in te schakelen."
+
+#: includes/class-ow-utility.php:1470
+msgid "Your license for "
+msgstr "Uw licentie voor "
+
+#: includes/class-ow-utility.php:1471
+msgid ""
+" has been expired. Please update to get access for new features, bug fix, "
+"security improvement and our support."
+msgstr ""
+" is verlopen. Gelieve te updaten om toegang te krijgen voor nieuwe functies, "
+"bug fix, beveiligingsverbetering en onze ondersteuning."
+
+#: includes/class-ow-workflow-service.php:59
+msgid "You are not allowed to create workflows."
+msgstr "Het is niet toegestaan om workflows te maken."
+
+#: includes/class-ow-workflow-service.php:149
+#: includes/class-ow-workflow-service.php:188
+#: includes/class-ow-workflow-service.php:475
+#: includes/class-ow-workflow-service.php:560
+#: includes/class-ow-workflow-service.php:683
+#: includes/class-ow-workflow-service.php:749
+#: includes/class-ow-workflow-service.php:1565
+msgid "You are not allowed to create/edit workflows."
+msgstr "Het is niet toegestaan om workflows te maken/bewerken."
+
+#: includes/class-ow-workflow-service.php:236
+#: includes/class-ow-workflow-service.php:259
+msgid "You are not allowed to delete workflows."
+msgstr "Het is niet toegestaan om workflows te verwijderen."
+
+#: includes/class-ow-workflow-service.php:430
+msgid "You are not allowed to get step process details."
+msgstr "U bent niet toegestaan om stap Procesdetails te krijgen."
+
+#: includes/class-ow-workflow-service.php:452
+#: includes/pages/subpages/step-info-content.php:270
+#: includes/pages/subpages/submit-step.php:48
+msgid "Reject"
+msgstr "Afkeuren"
+
+#: includes/class-ow-workflow-service.php:1260
+msgid "You are not allowed to get workflows."
+msgstr "U bent niet gemachtigd om workflows te krijgen."
+
+#: includes/class-ow-workflow-service.php:1357
+msgid "Workflow ID"
+msgstr "Workflow ID"
+
+#: includes/class-ow-workflow-service.php:1366
+msgid "Version"
+msgstr "Versie"
+
+#: includes/class-ow-workflow-service.php:1371
+msgid "Start Date"
+msgstr "Startdatum"
+
+#: includes/class-ow-workflow-service.php:1379
+msgid "End Date"
+msgstr "Einddatum"
+
+#: includes/class-ow-workflow-service.php:1387
+msgid "Post/Pages in workflow"
+msgstr "Berichten/Pagina’s in workflow"
+
+#: includes/class-ow-workflow-service.php:1392
+msgid "Is Valid?"
+msgstr "Is geldig?"
+
+#: includes/class-ow-workflow-service.php:1415
+#: includes/pages/ow-custom-statuses.php:54
+#: includes/pages/subpages/delete-workflow.php:27
+#: includes/pages/workflow-create.php:410
+#: includes/pages/workflow-create.php:419
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: includes/class-ow-workflow-service.php:1421
+#: includes/pages/subpages/workflow-copy-popup.php:40
+#: includes/pages/workflow-create.php:363
+#: includes/pages/workflow-create.php:387
+#: includes/pages/workflow-create.php:418
+msgid "Copy"
+msgstr "Kopiëren"
+
+#: includes/class-ow-workflow-settings.php:144 oasis-workflow-pro.php:4468
+msgid "Please enter a numeric value for default due date."
+msgstr "Voer een numerieke waarde voor de standaard opleveringsdatum in."
+
+#: includes/class-ow-workflow-settings.php:149
+msgid "Please enter the number of days for default due date."
+msgstr "Voer het aantal dagen voor de standaard opleveringsdatum in."
+
+#: includes/class-ow-workflow-settings.php:347
+msgid "Activate Workflow process ?"
+msgstr "Workflow proces activeren?"
+
+#: includes/class-ow-workflow-settings.php:351
+msgid ""
+"(After you are done setting up your editorial workflow, make it available "
+"for use by activating the workflow process.)"
+msgstr ""
+"(Nadat u klaar bent met het instellen van uw redactionele workflow, maakt u "
+"het voor gebruik beschikbaar door het workflow proces te activeren.)"
+
+#: includes/class-ow-workflow-settings.php:360
+msgid "Set Default Due Date as CURRENT DATE + "
+msgstr "Stel de standaard opleveringsdatum in op HUIDIGE DATUM + "
+
+#: includes/class-ow-workflow-settings.php:375
+msgid "Allow to override the Default Due Date on each step of the workflow."
+msgstr ""
+"Laat toe dat op elke stap van de workflow de standaard opleverdatum kan "
+"worden overschreven."
+
+#: includes/class-ow-workflow-settings.php:404
+msgid "Show Workflow options for the following post/page types:"
+msgstr "Laat workflow opties voor de volgende bericht/pagina types zien:"
+
+#: includes/class-ow-workflow-settings.php:416
+msgid "Roles that can participate in the workflow:"
+msgstr "Rollen die kunnen meedoen in de workflow:"
+
+#: includes/class-ow-workflow-settings.php:427
+msgid "Make Workflow Inbox as the dashboard for the following roles:"
+msgstr "Zet de Workflow Inbox op het dashboard voor de volgende rollen:"
+
+#: includes/class-ow-workflow-settings.php:441
+msgid "Enable workflow task priority."
+msgstr "Schakel taak-prioriteit van de workflow in."
+
+#: includes/class-ow-workflow-settings.php:445
+msgid "(Allows user to specify priority when signing off the task.)"
+msgstr ""
+"(Hiermee kan de gebruiker de prioriteit opgeven bij de afhandeling van de "
+"taak.)"
+
+#: includes/class-ow-workflow-settings.php:456
+msgid "Hide Publish Date field on \"Submit to Workflow\"."
+msgstr "Verberg \"Publiceer datum\" veld bij \"indienen in de workflow\"."
+
+#: includes/class-ow-workflow-settings.php:465
+msgid "Make Workflow comments required."
+msgstr "Maak werkstroomopmerkingen vereist."
+
+#: includes/class-ow-workflow-settings.php:469
+msgid ""
+"(Users will be required to provide comments during submit, sign-off, "
+"reassign, abort action.)"
+msgstr ""
+"(Gebruikers moeten opmerkingen maken tijdens het indienen, ondertekenen, "
+"opnieuw toewijzen, afbreken van acties.)"
+
+#: includes/class-ow-workflow-settings.php:480
+msgid "Display Oasis Workflow Sidebar as default for Gutenberg Editor."
+msgstr "Weergave Oasis workflow Sidebar als standaard voor Gutenberg editor."
+
+#: includes/class-ow-workflow-settings.php:491
+msgid "Delete Workflow History for posts/pages which were last updated :"
+msgstr ""
+"Verwijder de workflowhistorie voor berichten/pagina’s die niet zijn "
+"gewijzigd sinds:"
+
+#: includes/class-ow-workflow-settings.php:500
+msgid ""
+"(A cron job will run once a day to purge the workflow history for completed "
+"workflows.)"
+msgstr ""
+"(Een cronjob zal één keer per dag de workflowhistorie voor voltooide "
+"workflows verwijderen.)"
+
+#: includes/class-ow-workflow-terminology-settings.php:178
+#: includes/class-ow-workflow-terminology-settings.php:264
+#: includes/pages/subpages/reassign.php:54
+#: includes/pages/subpages/submit-step.php:61
+#: includes/pages/subpages/submit-workflow.php:47
+#: src/components/ow-signoff.js:30 src/components/ow-submit-to-workflow.js:39
+msgid "Assign Actor(s)"
+msgstr "Toewijzen persoon/personen"
+
+#: includes/class-ow-workflow-terminology-settings.php:182
+#: includes/class-ow-workflow-terminology-settings.php:294
+#: includes/pages/subpages/submit-workflow.php:51 oasis-workflow-pro.php:977
+#: oasis-workflow-pro.php:3518 src/components/ow-submit-to-workflow.js:40
+msgid "Publish Date"
+msgstr "Publiceerdatum"
+
+#: includes/class-ow-workflow-terminology-settings.php:186
+#: includes/class-ow-workflow-terminology-settings.php:324
+#: includes/pages/workflow-history.php:85 oasis-workflow-pro.php:280
+msgid "Workflow History"
+msgstr "Workflowhistorie"
+
+#: includes/class-ow-workflow-terminology-settings.php:204
+#: includes/class-ow-workflow-terminology-settings.php:219
+#: includes/class-ow-workflow-terminology-settings.php:234
+#: includes/class-ow-workflow-terminology-settings.php:249
+#: includes/class-ow-workflow-terminology-settings.php:265
+#: includes/class-ow-workflow-terminology-settings.php:280
+#: includes/class-ow-workflow-terminology-settings.php:295
+#: includes/class-ow-workflow-terminology-settings.php:310
+#: includes/class-ow-workflow-terminology-settings.php:325
+#: includes/class-ow-workflow-terminology-settings.php:340
+#: includes/class-ow-workflow-terminology-settings.php:355
+#: includes/class-ow-workflow-terminology-settings.php:371
+msgid " Label"
+msgstr " Label"
+
+#: includes/class-ow-workflow-terminology-settings.php:211
+msgid "Label for \"Submit to Workflow\" button/link."
+msgstr "Label voor \"Toevoegen aan workflow\" button/link."
+
+#: includes/class-ow-workflow-terminology-settings.php:226
+msgid "Label for \"Continue to Submit\" button/link."
+msgstr "Label voor \"Doorgaan met verzenden\" knop / link."
+
+#: includes/class-ow-workflow-terminology-settings.php:241
+msgid "Label for \"Sign Off\" button/link."
+msgstr "Label voor \"Indienen\" button/link."
+
+#: includes/class-ow-workflow-terminology-settings.php:257
+msgid "Label for \"Continue to Sign off\" button/link."
+msgstr "Label voor \"Doorgaan met afmelden\" knop / link."
+
+#: includes/class-ow-workflow-terminology-settings.php:272
+msgid "Label for \"Assign Actor(s)\" field."
+msgstr "Label voor \"Toewijzen personen\" veld."
+
+#: includes/class-ow-workflow-terminology-settings.php:287
+msgid "Label for \"Due Date\" field."
+msgstr "Label voor \"Opleveringsdatum\" field."
+
+#: includes/class-ow-workflow-terminology-settings.php:302
+msgid "Label for \"Publish Date\" field on the \"Submit to Workflow\" popup."
+msgstr ""
+"Label voor \"Publiceerdatum\" veld op de \"Voeg toe aan Workflow\" popup."
+
+#: includes/class-ow-workflow-terminology-settings.php:317
+msgid "Label for \"Abort Workflow\" button/link."
+msgstr "Label voor \"Afbreken workflow\" button/link."
+
+#: includes/class-ow-workflow-terminology-settings.php:332
+msgid "Label for \"Workflow History\" menu."
+msgstr "Label voor \"Workflowhistorie\" menu."
+
+#: includes/class-ow-workflow-terminology-settings.php:347
+msgid "Label for \"Make Revision\" button/link."
+msgstr "Label voor de \"Maak revisie\" button/link."
+
+#: includes/class-ow-workflow-terminology-settings.php:362
+msgid ""
+"Label for \"Priority\" field on the \"Submit to Workflow\" and \"Sign Off\" "
+"popup."
+msgstr ""
+"Label voor 'Prioriteit' veld op de \"Voeg toe aan Workflow\" en \"Indienen\" "
+"popup."
+
+#: includes/class-ow-workflow-terminology-settings.php:378
+msgid "Label for \"Duplicate Post\" link."
+msgstr "Label voor \"Duplicaat Post\" link ."
+
+#: includes/class-ow-workflow-validator.php:127
+msgid "Start date is required."
+msgstr "Startdatum is verplicht."
+
+#: includes/class-ow-workflow-validator.php:145
+msgid "End date should be greater than the start date."
+msgstr "De einddatum moet later zijn dan de startdatum."
+
+#: includes/class-ow-workflow-validator.php:205
+msgid "Missing \""
+msgstr "Er ontbreekt \""
+
+#: includes/class-ow-workflow-validator.php:207
+msgid "\" step information. Right click on the step to edit step information."
+msgstr ""
+"\" stap informatie. Klik met de rechtermuisknop op de stap om de "
+"stapinformatie te bewerken."
+
+#: includes/class-ow-workflow-validator.php:216
+msgid "No steps found."
+msgstr "Geen stappen gevonden."
+
+#: includes/class-ow-workflow-validator.php:223
+msgid ""
+"The workflow doesn't have a valid exit path.\tItems in this workflow will "
+"never exit the workflow. Please provide a valid exit path."
+msgstr ""
+"De workflow heeft geen geldig uitgangspad.\tItems in deze workflow zullen "
+"nooit de workflow verlaten. Geef een geldig uitgangspad op s.v.p.."
+
+#: includes/class-ow-workflow-validator.php:229
+msgid ""
+"Multiple steps marked as first step. Workflow can have only one starting "
+"point."
+msgstr ""
+"Meerdere stappen zijn als eerste stap gemarkeerd. Workflow kan maar één "
+"startpunt hebben."
+
+#: includes/class-ow-workflow-validator.php:235
+msgid "Starting step not found. Workflow should have a starting point."
+msgstr "Eerste stap niet gevonden. Workflow moet een startpunt hebben."
+
+#: includes/class-ow-workflow-validator.php:268
+msgid "No connections found."
+msgstr "Geen connecties gevonden."
+
+#: includes/class-ow-workflow-validator.php:273
+msgid "Please provide failure path for all steps except the first one."
+msgstr "Geef een foutpad op voor alle stappen behalve de eerste."
+
+#: includes/pages/ow-custom-statuses.php:20 oasis-workflow-pro.php:332
+#: oasis-workflow-pro.php:333
+msgid "Custom Statuses"
+msgstr "Aangepaste statussen"
+
+#: includes/pages/ow-custom-statuses.php:50
+msgid "Are you sure you want to delete the post status?"
+msgstr "Weet u zeker dat u deze berichtstatus wilt verwijderen?"
+
+#: includes/pages/ow-custom-statuses.php:93
+msgid "The name is used to identify the status. (Max: 20 characters)"
+msgstr ""
+"De naam wordt gebruikt voor het identificeren van de status. (Max: 20 tekens)"
+
+#: includes/pages/ow-custom-statuses.php:101
+msgid ""
+"The slug is the unique ID for the status. It is usually all lowercase and "
+"contains only letters, numbers and hyphens."
+msgstr ""
+"De slug is de unieke ID voor de status. Het bestaat doorgaans uit kleine "
+"letters, cijfers en streepjes."
+
+#: includes/pages/ow-custom-statuses.php:110
+msgid ""
+"The description is primarily for administrative use, to give you some "
+"context on what the custom status is to be used for."
+msgstr ""
+"De beschrijving is voornamelijk bedoeld voor administratief gebruik, zodat u "
+"uitleg over waarvoor de status wordt gebruikt kan toevoegen."
+
+#: includes/pages/ow-import-export.php:16
+msgid ""
+"Note: Make sure your environment is identical in terms of plugins, roles, "
+"custom roles and users otherwise, the import might error out."
+msgstr ""
+"Opmerking: zorg ervoor dat uw omgeving identiek is in termen van plug-ins, "
+"rollen, aangepaste rollen en gebruikers, anders kan de import fout optreden."
+
+#: includes/pages/ow-import-export.php:22
+msgid "Export"
+msgstr "Exporteren"
+
+#: includes/pages/ow-import-export.php:24
+msgid ""
+"Use the download button to export to a .json file which you can then import "
+"to another WordPress installation"
+msgstr ""
+"Gebruik de downloadknop om te exporteren naar een .json-bestand dat u "
+"vervolgens kunt importeren in een andere WordPress-installatie"
+
+#: includes/pages/ow-import-export.php:30
+msgid "Workflows (includes Teams and Groups, if any)"
+msgstr "Workflows (inclusief Teams en groepen, indien aanwezig)"
+
+#: includes/pages/ow-import-export.php:34
+msgid "Settings (includes all the settings)"
+msgstr "Instellingen (inclusief alle instellingen)"
+
+#: includes/pages/ow-import-export.php:38
+msgid "Download Export File"
+msgstr "Download Export-bestand"
+
+#: includes/pages/ow-import-export.php:48
+#: includes/pages/ow-import-export.php:61
+msgid "Import"
+msgstr "Importeren"
+
+#: includes/pages/ow-import-export.php:50
+msgid "Select the Oasis Workflow JSON file you would like to import."
+msgstr "Selecteer het Oasis Workflow JSON-bestand dat u wilt importeren."
+
+#: includes/pages/ow-import-export.php:54
+msgid "Choose a file from your computer:"
+msgstr "Kies een bestand vanaf uw computer:"
+
+#: includes/pages/ow-system-info.php:22
+msgid ""
+"To copy the system info, click below then press Ctrl + C (PC) or Cmd + C "
+"(Mac)."
+msgstr ""
+"Om de systeeminformatie te kopiëren, klik hieronder en druk dan op Ctrl + C "
+"(PC) of Cmd + C (Mac)."
+
+#: includes/pages/revision-compare.php:26
+msgid "Comparison"
+msgstr "Vergelijking"
+
+#: includes/pages/revision-compare.php:27
+msgid " Return to Post editor"
+msgstr " Keer terug naar de Bericht editor"
+
+#: includes/pages/revision-compare.php:31
+msgid ""
+"Note : If you made any changes to the post, the updates are being saved "
+"while preparing the compare window. At times, if the \"save\" takes more "
+"time, you may not see the recent changes made to the post.\n"
+"In those cases, simply close this window and click the \"Compare With "
+"Original\"  button again."
+msgstr ""
+"Let op: Als je veranderingen in het bericht hebt gemaakt, zullen de updates "
+"opgeslagen worden terwijl het vergelijkingscherm wordt getoond. Soms, als de "
+"opslaan teveel tijd in beslag neemt, worden de recente veranderingen "
+"wellicht niet weergeven in het bericht.\n"
+"In deze situaties, sluit het huidige venster en klik op opnieuw op "
+"“Vergelijk met origineel”."
+
+#: includes/pages/revision-compare.php:58
+msgid "This is the test revision."
+msgstr "Dit is de test revisie."
+
+#: includes/pages/revision-compare.php:63
+msgid "HTML(raw) Compare"
+msgstr "HTML (raw) vergelijken"
+
+#: includes/pages/revision-compare.php:66
+msgid "Text Compare"
+msgstr "Tekst Vergelijken"
+
+#: includes/pages/revision-compare.php:82
+msgid "Original: "
+msgstr "Orgineel: "
+
+#: includes/pages/revision-compare.php:85
+msgid "Revision: "
+msgstr "Revisie: "
+
+#: includes/pages/revision-compare.php:96
+msgid "Contents"
+msgstr "Inhoud"
+
+#: includes/pages/revision-compare.php:142
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#: includes/pages/subpages/abort-workflow-comment.php:13
+#: includes/pages/subpages/reassign.php:103
+msgid "Comments:"
+msgstr "Commentaar:"
+
+#: includes/pages/subpages/abort-workflow-comment.php:22
+#: includes/pages/subpages/submit-workflow.php:56
+#: includes/pages/subpages/submit-workflow.php:223
+#: includes/pages/subpages/submit-workflow.php:225
+msgid "Submit"
+msgstr "Toevoegen"
+
+#: includes/pages/subpages/abort-workflow-comment.php:24
+#: includes/pages/subpages/connection-info-content.php:98
+#: includes/pages/subpages/delete-history.php:38
+#: includes/pages/subpages/delete-workflow.php:31
+#: includes/pages/subpages/make-revision-overlay.php:35
+#: includes/pages/subpages/make-revision-untrashed.php:53
+#: includes/pages/subpages/make-revision.php:55
+#: includes/pages/subpages/reassign.php:114
+#: includes/pages/subpages/step-info-content.php:421
+#: includes/pages/subpages/submit-step.php:236
+#: includes/pages/subpages/submit-workflow.php:227
+#: includes/pages/subpages/workflow-copy-popup.php:42
+#: includes/pages/subpages/workflow-create-popup.php:40
+#: src/components/ow-abort.js:196
+#: src/components/ow-make-revision-exist-overlay.js:22
+#: src/components/ow-make-revision-overlay.js:17
+#: src/components/ow-reassign.js:260
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: includes/pages/subpages/action-comments.php:96
+msgid "Editorial Comments On: "
+msgstr "Redactioneel commentaar over: "
+
+#: includes/pages/subpages/action-comments.php:124
+msgid "Signed off on"
+msgstr "Ingediend op"
+
+#: includes/pages/subpages/action-comments.php:129
+msgid "No Comments"
+msgstr "Geen commentaar"
+
+#: includes/pages/subpages/action-comments.php:146
+#: src/components/ow-abort.js:183
+msgid "Close"
+msgstr "Sluiten"
+
+#: includes/pages/subpages/connection-info-content.php:17
+msgid "Connection Settings"
+msgstr "Verbindingsinstellingen"
+
+#: includes/pages/subpages/connection-info-content.php:21
+msgid "Current Connection"
+msgstr "Huidige verbinding"
+
+#: includes/pages/subpages/connection-info-content.php:22
+msgid "Source"
+msgstr "Bron"
+
+#: includes/pages/subpages/connection-info-content.php:28
+msgid "Target"
+msgstr "Doel"
+
+#: includes/pages/subpages/connection-info-content.php:38
+msgid "Post Status :"
+msgstr "Berichtstatus :"
+
+#: includes/pages/subpages/connection-info-content.php:74
+msgid "Path :"
+msgstr "Pad :"
+
+#: includes/pages/subpages/delete-history.php:17
+#: includes/pages/workflow-history.php:162
+msgid "Delete History"
+msgstr "Verwijder historie"
+
+#: includes/pages/subpages/delete-history.php:20
+msgid ""
+"Workflow History for posts/pages that are currently active in a workflow "
+"will NOT be deleted."
+msgstr ""
+"Workflowhistorie voor berichten/pagina’s, die momenteel worden gebruikt in "
+"een workflow, worden NIET verwijderd."
+
+#: includes/pages/subpages/delete-history.php:25
+msgid "Delete Workflow History for posts/pages which were last updated : "
+msgstr ""
+"Verwijder workflowhistorie voor berichten/pagina’s die voor het laatst zijn "
+"aangepast op: "
+
+#: includes/pages/subpages/delete-history.php:36
+msgid "Delete Workflow History"
+msgstr "Verwijder workflowhistorie"
+
+#: includes/pages/subpages/delete-workflow.php:19
+msgid "Confirm Workflow Delete"
+msgstr "Workflow verwijderen bevestigen"
+
+#: includes/pages/subpages/delete-workflow.php:23
+msgid "Do you really want to delete the workflow?"
+msgstr "Weet u zeker dat u de workflow wilt verwijderen?"
+
+#: includes/pages/subpages/make-revision-untrashed.php:36
+#: includes/pages/subpages/make-revision.php:39
+msgid "Revision Already Exists"
+msgstr "Revisie bestaat reeds"
+
+#: includes/pages/subpages/make-revision-untrashed.php:40
+msgid ""
+"An active revision already exists for this article. Do you want to delete "
+"the existing revised article and use the one being restored?"
+msgstr ""
+"Er bestaat al een actieve revisie voor dit artikel. Wilt u deze revisie "
+"verwijderen en de herstelde versie gaan gebruiken?"
+
+#: includes/pages/subpages/make-revision-untrashed.php:43
+msgid "Restoring this article will trash the current revision."
+msgstr "Het herstellen van dit artikel zal de huidige revisie verwijderen."
+
+#: includes/pages/subpages/make-revision-untrashed.php:45
+msgid "Cancelling this action will NOT restore the article."
+msgstr "Het annuleren van deze actie zal het artikel NIET herstellen."
+
+#: includes/pages/subpages/make-revision-untrashed.php:49
+msgid "Use the restored one"
+msgstr "Gebruik de herstelde"
+
+#: includes/pages/subpages/make-revision.php:43
+#: src/components/ow-make-revision-exist-overlay.js:15
+msgid ""
+"An active revision already exists for this article. Do you want to delete "
+"the existing revised article and create a new revision?"
+msgstr ""
+"Er bestaat al een actieve revisie voor dit artikel. Wilt u deze revisie "
+"verwijderen en een nieuwe revisie aanmaken?"
+
+#: includes/pages/subpages/make-revision.php:48
+#: src/components/ow-make-revision-exist-overlay.js:40
+msgid "Yes, delete it and create new one"
+msgstr "Ja, verwijder deze en maak een nieuwe"
+
+#: includes/pages/subpages/make-revision.php:52
+#: src/components/ow-make-revision-exist-overlay.js:31
+msgid "No, take me to the revision"
+msgstr "Nee, ga naar de bestaande revisie"
+
+#: includes/pages/subpages/reassign.php:65
+#: includes/pages/subpages/submit-step.php:125
+#: includes/pages/subpages/submit-workflow.php:144
+msgid "Available"
+msgstr "Beschikbaar"
+
+#: includes/pages/subpages/reassign.php:91
+#: includes/pages/subpages/submit-step.php:141
+#: includes/pages/subpages/submit-workflow.php:156
+msgid "Assigned"
+msgstr "Toegewezen"
+
+#: includes/pages/subpages/step-info-content.php:44
+msgid "Step Information"
+msgstr "Stap Informatie"
+
+#: includes/pages/subpages/step-info-content.php:47
+msgid "Step Name :"
+msgstr "Stap naam:"
+
+#: includes/pages/subpages/step-info-content.php:54
+msgid "Assignee(s) :"
+msgstr "Toegewezene(n):"
+
+#: includes/pages/subpages/step-info-content.php:82
+msgid "Assign to all? : "
+msgstr "Toewijzen aan iedereen?: "
+
+#: includes/pages/subpages/step-info-content.php:84
+msgid ""
+"Check this box to assign the task to all the users in this step and hide the "
+"assignee list during the sign off process."
+msgstr ""
+"Vink deze box aan om de taak toe te wijzen aan alle gebruikers in deze stap "
+"en om de gebruikerslijst te verbergen tijdens het indienen."
+
+#: includes/pages/subpages/step-info-content.php:111
+msgid "Default"
+msgstr "Standaard"
+
+#: includes/pages/subpages/step-info-content.php:112
+msgid "Due Date:"
+msgstr "Opleveringsdatum:"
+
+#: includes/pages/subpages/step-info-content.php:114
+msgid ""
+"Specify a default due date for this step to be completed. This is an "
+"optional setting."
+msgstr ""
+"Geef een standaard opleveringsdatum waarvoor deze stap voltooid moet zijn. "
+"Dit is een optionele instelling."
+
+#: includes/pages/subpages/step-info-content.php:128
+msgid " day(s) after the post is submitted to the workflow."
+msgstr " dag(en) nadat het bericht is toegevoegd aan de workflow."
+
+#: includes/pages/subpages/step-info-content.php:139
+msgid "Is first step? : "
+msgstr "Is dit de eerste stap?: "
+
+#: includes/pages/subpages/step-info-content.php:147
+msgid "On Submit to Workflow"
+msgstr "Tijdens het toevoegen aan workflow"
+
+#: includes/pages/subpages/step-info-content.php:148
+#: includes/pages/subpages/step-info-content.php:179
+msgid "Post Status: "
+msgstr "Bericht status: "
+
+#: includes/pages/subpages/step-info-content.php:149
+msgid "Post Status after submit to workflow."
+msgstr "Bericht status na toevoegen aan workflow."
+
+#: includes/pages/subpages/step-info-content.php:178
+msgid "On Workflow Completion"
+msgstr "Bij voltooiing van workflow"
+
+#: includes/pages/subpages/step-info-content.php:180
+msgid "Set post status after workflow process is complete."
+msgstr "Post status instellen nadat het werkstroomproces is voltooid."
+
+#: includes/pages/subpages/step-info-content.php:216
+msgid "Review Settings: "
+msgstr "Beoordelen instellingen: "
+
+#: includes/pages/subpages/step-info-content.php:228
+msgid "Everyone should approve"
+msgstr "Iedereen dient goed te keuren"
+
+#: includes/pages/subpages/step-info-content.php:234
+#, php-format
+msgid "More than 50% should approve"
+msgstr ""
+
+#: includes/pages/subpages/step-info-content.php:240
+msgid "Anyone should approve"
+msgstr "Iemand dient goed te keuren"
+
+#: includes/pages/subpages/step-info-content.php:253
+msgid "Sign off Action Text: "
+msgstr "Afmelden actietekst: "
+
+#: includes/pages/subpages/step-info-content.php:255
+msgid ""
+"Specify the text for sign off actions that should appear when user is "
+"signing off from a given task."
+msgstr ""
+"Geef de tekst op voor afteken acties die moeten worden weergegeven wanneer "
+"de gebruiker zich afmeldt bij een bepaalde taak."
+
+#: includes/pages/subpages/step-info-content.php:274
+msgid "For Success"
+msgstr "Voor succes"
+
+#: includes/pages/subpages/step-info-content.php:285
+msgid "For Failure"
+msgstr "Voor falen"
+
+#: includes/pages/subpages/step-info-content.php:300
+#: includes/pages/subpages/step-info-content.php:307
+msgid "Assignment Email"
+msgstr "Opdracht e-mail"
+
+#: includes/pages/subpages/step-info-content.php:302
+#: includes/pages/subpages/step-info-content.php:368
+msgid "Reminder Email"
+msgstr "Herinneringsmail"
+
+#: includes/pages/subpages/step-info-content.php:310
+#: includes/pages/subpages/step-info-content.php:371
+msgid "Placeholder : "
+msgstr "Tijdelijke aanduiding: "
+
+#: includes/pages/subpages/step-info-content.php:320
+#: includes/pages/subpages/step-info-content.php:375
+msgid "--Select--"
+msgstr "--Selecteer--"
+
+#: includes/pages/subpages/step-info-content.php:331
+#: includes/pages/subpages/step-info-content.php:386
+msgid "Add to subject"
+msgstr "Voeg toe aan het onderwerp"
+
+#: includes/pages/subpages/step-info-content.php:334
+#: includes/pages/subpages/step-info-content.php:389
+msgid "Add to message"
+msgstr "Voeg toe aan het bericht"
+
+#: includes/pages/subpages/step-info-content.php:340
+#: includes/pages/subpages/step-info-content.php:396
+msgid "Email subject : "
+msgstr "E-mail onderwerp: "
+
+#: includes/pages/subpages/step-info-content.php:358
+#: includes/pages/subpages/step-info-content.php:401
+msgid "Email message : "
+msgstr "E-mail bericht: "
+
+#: includes/pages/subpages/submit-step.php:74
+msgid "Action : "
+msgstr "Actie: "
+
+#: includes/pages/subpages/submit-step.php:87
+#: includes/pages/subpages/submit-workflow.php:120
+msgid "Step : "
+msgstr "Stap: "
+
+#: includes/pages/subpages/submit-step.php:155
+#: includes/pages/subpages/submit-workflow.php:177
+#: includes/pages/subpages/submit-workflow.php:203
+#: includes/pages/workflow-create.php:207
+#: includes/pages/workflow-create.php:240
+msgid "clear"
+msgstr "wissen"
+
+#: includes/pages/subpages/submit-step.php:177
+#: src/components/ow-signoff-last-step.js:266
+msgid "Publish"
+msgstr "Publiceren"
+
+#: includes/pages/subpages/submit-step.php:193
+msgid "Immediately"
+msgstr "Onmiddelijk"
+
+#: includes/pages/subpages/submit-step.php:216
+#: includes/pages/subpages/submit-workflow.php:214
+msgid "Comments : "
+msgstr "Commentaar: "
+
+#: includes/pages/subpages/submit-step.php:223
+#: src/components/ow-signoff-last-step.js:248
+msgid ""
+"Signing off will copy over the contents of this revised article to the "
+"corresponding published/original article. This will happen either "
+"immediately or on the scheduled date/time."
+msgstr ""
+"Door in te dienen zal deze revisie het gepubliceerde/originele artikel "
+"overschrijven. Dit zal ofwel onmiddellijk gebeuren of op een gekozen datum/"
+"tijd."
+
+#: includes/pages/subpages/submit-workflow.php:60
+msgid "Workflow : "
+msgstr "Workflow: "
+
+#: includes/pages/subpages/submit-workflow.php:167
+msgid "Specify a date for the assignment to be completed."
+msgstr "Kies een datum waarop de opdracht klaar moet zijn."
+
+#: includes/pages/subpages/submit-workflow.php:189
+msgid "Specify a desired publish date for the post."
+msgstr "Kies een datum waarop het bericht gepubliceerd moet zijn."
+
+#: includes/pages/subpages/workflow-copy-popup.php:17
+msgid "Copy Workflow"
+msgstr "Kopieer workflow"
+
+#: includes/pages/subpages/workflow-create-popup.php:17
+msgid "Create New Workflow"
+msgstr "Nieuwe Workflow aanmaken"
+
+#: includes/pages/subpages/workflow-create-popup.php:21
+#: includes/pages/workflow-create.php:144
+msgid "Title : "
+msgstr "Titel: "
+
+#: includes/pages/subpages/workflow-create-popup.php:29
+#: includes/pages/workflow-create.php:166
+msgid "Description : "
+msgstr "Beschrijving: "
+
+#: includes/pages/workflow-addons.php:29
+msgid "Add-ons For Oasis Workflow"
+msgstr "Add-ons voor Oasis Workflow"
+
+#: includes/pages/workflow-addons.php:33 includes/pages/workflow-addons.php:34
+#: includes/pages/workflow-addons.php:47 includes/pages/workflow-addons.php:48
+msgid "Browse All Add-ons"
+msgstr "Blader door alle Add-ons"
+
+#: includes/pages/workflow-addons.php:74
+msgid ""
+"There was an error retrieving the Add-ons list from the server. Please try "
+"again later."
+msgstr ""
+"Er is een fout opgetreden bij het ophalen van de Add-ons van de server. "
+"Probeer het later nogmaals s.v.p."
+
+#: includes/pages/workflow-by-due-date-report.php:32
+#: includes/pages/workflow-inbox.php:147
+msgid "All Due Dates"
+msgstr "Alle vervaldatums"
+
+#: includes/pages/workflow-create.php:75
+msgid "If you want to know more about creating/modifying workflows "
+msgstr "Als je meer wilt weten over het aanmaken/bewerken van workflows "
+
+#: includes/pages/workflow-create.php:79
+msgid "watch this video."
+msgstr "bekijk dan deze video."
+
+#: includes/pages/workflow-create.php:81
+msgid " You can also look up for more tutorial videos about Oasis Workflow on "
+msgstr " U kunt nog meer instructie videos over Oasis Workflow opzoeken op "
+
+#: includes/pages/workflow-create.php:84
+msgid "YouTube."
+msgstr "YouTube."
+
+#: includes/pages/workflow-create.php:96
+msgid "Processes"
+msgstr "Processen"
+
+#: includes/pages/workflow-create.php:98
+msgid ""
+"Drag and Drop the processes into the Workflow Design Canvas to create new "
+"workflow steps."
+msgstr ""
+"Sleep de processen in het Workflow Design Canvas om nieuwe stappen aan te "
+"maken."
+
+#: includes/pages/workflow-create.php:122
+msgid ""
+"Processes are not available, since there are items (post/pages) in the "
+"workflow.&nbsp;&nbsp;&nbsp;If you want to edit the workflow,&nbsp;&nbsp; "
+"please "
+msgstr ""
+"De processen zijn niet beschikbaar, omdat er items (berichten/pagina’s) in "
+"de workflow aanwezig zijn. &nbsp;&nbsp;&nbsp; Als u de workflow wilt "
+"bewerken,&nbsp;&nbsp; "
+
+#: includes/pages/workflow-create.php:125
+msgid "save it as a new version"
+msgstr "sla het op als een nieuwe versie"
+
+#: includes/pages/workflow-create.php:136
+msgid "Workflow Info"
+msgstr "Workflow Info"
+
+#: includes/pages/workflow-create.php:187
+msgid "Start Date :"
+msgstr "Startdatum:"
+
+#: includes/pages/workflow-create.php:190
+msgid "Specify a date from which this workflow will become available for use."
+msgstr ""
+"Kies een datum wanneer de workflow beschikbaar zal komen om te gebruiken."
+
+#: includes/pages/workflow-create.php:220
+msgid "End date :"
+msgstr "Einddatum:"
+
+#: includes/pages/workflow-create.php:222
+msgid ""
+"End date is not required. If not specified, the workflow is valid for ever.\n"
+"                                     \t\t\tSpecify an end date, if you want "
+"to retire the workflow."
+msgstr ""
+"Einddatum is niet verplicht. Indien niet gekozen, zal de workflow voor "
+"altijd beschikbaar zijn.\n"
+"\t\t\tGeef een einddatum op, als u de workflow wilt terugtrekken."
+
+#: includes/pages/workflow-create.php:252
+msgid "Workflow Applicable To"
+msgstr "Workflow van toepassing op"
+
+#: includes/pages/workflow-create.php:273
+msgid "new posts/pages"
+msgstr "nieuwe berichten/pagina’s"
+
+#: includes/pages/workflow-create.php:281
+msgid "revised posts/pages"
+msgstr "gereviseerde berichten/pagina’s"
+
+#: includes/pages/workflow-create.php:293
+msgid "Roles (who can submit to this workflow) :"
+msgstr "Rollen (die kunnen toevoegen aan deze workflow):"
+
+#: includes/pages/workflow-create.php:297
+#: includes/pages/workflow-create.php:321
+msgid " (applicable to all, if none specified)"
+msgstr " (van toepassing op indereen, indien niemand gespecificeerd)"
+
+#: includes/pages/workflow-create.php:318
+msgid "Post Types :"
+msgstr "Bericht types:"
+
+#: includes/pages/workflow-create.php:341
+msgid "Workflow Design Canvas"
+msgstr "Workflow Design Canvas"
+
+#: includes/pages/workflow-create.php:342
+msgid "Loading Step..."
+msgstr "Stap wordt geladen..."
+
+#: includes/pages/workflow-create.php:353
+#: includes/pages/workflow-create.php:379
+msgid "Save and Close"
+msgstr "Opslaan en sluiten"
+
+#: includes/pages/workflow-create.php:368
+msgid "Clear Workflow"
+msgstr "Maak workflow leeg"
+
+#: includes/pages/workflow-create.php:373
+msgid "Save as new version"
+msgstr "Opslaan als nieuwe versie"
+
+#: includes/pages/workflow-create.php:411
+#: includes/pages/workflow-create.php:421
+#: includes/pages/workflow-create.php:426
+msgid "Quit"
+msgstr "Afsluiten"
+
+#: includes/pages/workflow-create.php:425
+msgid "Paste"
+msgstr "Plakken"
+
+#: includes/pages/workflow-dashboard-widget.php:42
+msgid " and "
+msgstr " en "
+
+#: includes/pages/workflow-dashboard-widget.php:54
+msgid "There are currently "
+msgstr "Er zijn momenteel "
+
+#: includes/pages/workflow-dashboard-widget.php:56
+msgid " assignment(s)"
+msgstr " toewijzing(en)"
+
+#: includes/pages/workflow-dashboard-widget.php:74
+msgid "Tasks by Due Date"
+msgstr "Taken gesorteerd op opleveringsdatum"
+
+#: includes/pages/workflow-dashboard-widget.php:152
+msgid "Tasks by Priority"
+msgstr "Taken gesorteerd op prioriteit"
+
+#: includes/pages/workflow-history.php:93
+msgid "Workflow history deleted successfully."
+msgstr "Workflowhistorie succesvol verwijderd."
+
+#: includes/pages/workflow-history.php:102
+msgid "No eligible workflow history found to delete."
+msgstr "Geen workflowhistorie data gevonden om te verwijderen."
+
+#: includes/pages/workflow-history.php:111
+msgid ""
+"There was an error while deleting the history. Try again OR contact your "
+"administrator."
+msgstr ""
+"Er is een fout opgetreden bij het verwijderen van de historie. Probeer "
+"opnieuw of neem contact op met uw beheerder."
+
+#: includes/pages/workflow-history.php:124
+msgid "View Post/Page Workflow History"
+msgstr "Bekijk Bericht/Pagina workflowhistorie"
+
+#: includes/pages/workflow-history.php:146
+#: includes/pages/workflow-inbox.php:159
+msgid "Filter"
+msgstr "Filter"
+
+#: includes/pages/workflow-history.php:154
+msgid "Download Workflow History Report"
+msgstr "Download workflowhistorie rapport"
+
+#: includes/pages/workflow-history.php:171
+msgid "Show No-Action Activities"
+msgstr "Activiteiten zonder actie weergeven"
+
+#: includes/pages/workflow-history.php:179
+msgid "Hide No-Action Activities"
+msgstr "Activiteiten zonder actie verbergen"
+
+#: includes/pages/workflow-history.php:334
+msgid "No workflow history data found."
+msgstr "Geen workflowhistorie data gevonden."
+
+#: includes/pages/workflow-inbox.php:65 oasis-workflow-pro.php:273
+#: oasis-workflow-pro.php:274
+msgid "Inbox"
+msgstr "Inbox"
+
+#: includes/pages/workflow-inbox.php:93 includes/pages/workflow-list.php:67
+msgid "All"
+msgstr "Alles"
+
+#: includes/pages/workflow-inbox.php:99
+msgid "Mine"
+msgstr "Mijn"
+
+#: includes/pages/workflow-inbox.php:115
+msgid "View inbox of "
+msgstr "Toon de inbox van "
+
+#: includes/pages/workflow-inbox.php:138
+msgid "Show"
+msgstr "Bekijk"
+
+#: includes/pages/workflow-inbox.php:152
+msgid "All Priority"
+msgstr "Alle prioriteit"
+
+#: includes/pages/workflow-list.php:44
+msgid "Edit Workflows"
+msgstr "Workflows bewerken"
+
+#: includes/pages/workflow-list.php:48
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: includes/pages/workflow-list.php:70
+msgid "Active"
+msgstr "Actief"
+
+#: includes/pages/workflow-list.php:73
+msgid "Inactive"
+msgstr "Inactief"
+
+#: includes/pages/workflow-list.php:147
+msgid "You don't have any workflows. Let's go "
+msgstr "U heeft nog geen Workflows. Begin nu met "
+
+#: includes/pages/workflow-list.php:148
+msgid "create one"
+msgstr "het aanmaken van een workflow"
+
+#: includes/pages/workflow-reports.php:22
+msgid "Current Assignments"
+msgstr "Bestaande opdrachten"
+
+#: includes/pages/workflow-reports.php:23
+msgid "Workflow Submissions"
+msgstr "Workflow inzendingen"
+
+#: includes/pages/workflow-reports.php:24
+msgid "Assignments By Due Date"
+msgstr "Toewijzingen per vervaldatum"
+
+#: includes/pages/workflow-submission-report.php:86
+msgid "Not in Workflow"
+msgstr "Niet in workflow"
+
+#: includes/pages/workflow-submission-report.php:88
+msgid "In Workflow"
+msgstr "In workflow"
+
+#: includes/pages/workflow-submission-report.php:134
+msgid "-- Select Action --"
+msgstr "-- Selecteer Actie --"
+
+#: includes/pages/workflow-submission-report.php:135
+msgid "Abort"
+msgstr "Afbreken"
+
+#: includes/pages/workflow-tools.php:23
+msgid "Import/Export"
+msgstr "Importeren/Exporteren"
+
+#: includes/pages/workflow-tools.php:24
+msgid "System Info"
+msgstr "Systeeminformatie"
+
+#: js/pages/acf-pro-validator-new.js:100 js/pages/acf-pro-validator-new.js:114
+msgid "Validation failed"
+msgstr "Validation failed"
+
+#: js/pages/acf-pro-validator-new.js:102 js/pages/acf-pro-validator-new.js:116
+msgid "1 field requires attention"
+msgstr "1 veld vraagt aandacht"
+
+#: js/pages/acf-pro-validator-new.js:104 js/pages/acf-pro-validator-new.js:118
+#, javascript-format
+msgid "%d fields require attention"
+msgstr "%d velden vereisen aandacht"
+
+#: js/pages/acf-pro-validator.js:61
+msgid "validation_failed"
+msgstr "validation_failed"
+
+#: js/pages/acf-pro-validator.js:107
+msgid "validation_failed_1"
+msgstr "validation_failed_1"
+
+#: js/pages/acf-pro-validator.js:110
+msgid "validation_failed_2"
+msgstr "validation_failed_2"
+
+#: oasis-workflow-pro.php:232
+msgid "Workflow Tasks At a Glance"
+msgstr "Workflowtaken in één oogopslag"
+
+#: oasis-workflow-pro.php:264 oasis-workflow-pro.php:265
+msgid "Workflows"
+msgstr "Workflows"
+
+#: oasis-workflow-pro.php:295 oasis-workflow-pro.php:296
+msgid "Reports"
+msgstr "Rapporten"
+
+#: oasis-workflow-pro.php:304 oasis-workflow-pro.php:305
+msgid "Revisions"
+msgstr "Revisies"
+
+#: oasis-workflow-pro.php:313 oasis-workflow-pro.php:314
+msgid "All Workflows"
+msgstr "Alle workflows"
+
+#: oasis-workflow-pro.php:323 oasis-workflow-pro.php:324
+msgid "Add New Workflow"
+msgstr "Nieuwe workflow toevoegen"
+
+#: oasis-workflow-pro.php:341 oasis-workflow-pro.php:342
+msgid "Tools"
+msgstr "Tools"
+
+#: oasis-workflow-pro.php:353 oasis-workflow-pro.php:354
+msgid "Add-ons"
+msgstr "Add-ons"
+
+#: oasis-workflow-pro.php:393
+msgid "Welcome to Oasis Workflow"
+msgstr "Welkom bij Oasis Workflow"
+
+#: oasis-workflow-pro.php:395
+msgid "To get started with Oasis Workflow follow the steps listed below."
+msgstr "Om te beginnen met Oasis Workflow, volg de onderstaande stappen."
+
+#: oasis-workflow-pro.php:397
+#, php-format
+msgid ""
+"1. Activate the plugin by providing a valid license key on Workflows %s "
+"Settings, License tab."
+msgstr ""
+"1. Activeer de plugin door het toevoegen van een geldige licentiesleutel, op "
+"het scherm Workflows %s instellingen, tabblad licentie."
+
+#: oasis-workflow-pro.php:400
+msgid ""
+"2. Create a new workflow OR modify/use the sample workflows that come with "
+"the plugin."
+msgstr ""
+"2. Maak een nieuwe werkstroom OF wijzig/gebruik de voorbeeldworkflows die "
+"bij de plug-in worden geleverd."
+
+#: oasis-workflow-pro.php:403
+#, php-format
+msgid ""
+"3. Activate the workflow process by going to Workflows %s Settings, Workflow "
+"tab."
+msgstr ""
+"3. Activeer het workflowproces, op het scherm Workflows %s instellingen, "
+"tabblad Workflow."
+
+#: oasis-workflow-pro.php:555
+#, php-format
+msgid ""
+"In order to use the \"Pro\" version, you need to deactivate and delete the "
+"free/lite version of Oasis Workflow plugin on the %splugins page%s"
+msgstr ""
+"Om de \"Pro\" versie te kunnen gebruiken, moet u eerst de free/lite versie "
+"van de Oasis Workflow plugin deactiveren en verwijderen op de %splugins "
+"pagina%s"
+
+#: oasis-workflow-pro.php:821
+msgid "Used Revision"
+msgstr "Gebruike revisie"
+
+#: oasis-workflow-pro.php:829
+msgid "Current Revision"
+msgstr "Huidige revisie"
+
+#: oasis-workflow-pro.php:837
+msgid "Scheduled Revision"
+msgstr "Geplande revisie"
+
+#: oasis-workflow-pro.php:950
+msgid "Success"
+msgstr "Succes"
+
+#: oasis-workflow-pro.php:951
+msgid "Failure"
+msgstr "Mislukt"
+
+#: oasis-workflow-pro.php:955
+msgid "In Progress"
+msgstr "In behandeling"
+
+#: oasis-workflow-pro.php:956
+msgid "In Review"
+msgstr "In beoordeling"
+
+#: oasis-workflow-pro.php:957
+msgid "Ready to Publish"
+msgstr "Klaar om te publiceren"
+
+#: oasis-workflow-pro.php:961 oasis-workflow-pro.php:2109
+#: oasis-workflow-pro.php:2842 oasis-workflow-pro.php:3500
+#: oasis-workflow-pro.php:3557
+msgid "first name"
+msgstr "voornaam"
+
+#: oasis-workflow-pro.php:962 oasis-workflow-pro.php:2110
+#: oasis-workflow-pro.php:2843 oasis-workflow-pro.php:3501
+#: oasis-workflow-pro.php:3558
+msgid "last name"
+msgstr "achternaam"
+
+#: oasis-workflow-pro.php:963 oasis-workflow-pro.php:2111
+#: oasis-workflow-pro.php:2844 oasis-workflow-pro.php:3502
+#: oasis-workflow-pro.php:3559
+msgid "post title"
+msgstr "berichttitel"
+
+#: oasis-workflow-pro.php:964 oasis-workflow-pro.php:2112
+#: oasis-workflow-pro.php:2845 oasis-workflow-pro.php:3503
+#: oasis-workflow-pro.php:3560
+msgid "category"
+msgstr "categorie"
+
+#: oasis-workflow-pro.php:965 oasis-workflow-pro.php:2113
+#: oasis-workflow-pro.php:2846 oasis-workflow-pro.php:3504
+#: oasis-workflow-pro.php:3561
+msgid "last modified date"
+msgstr "laatste bewerkingsdatum"
+
+#: oasis-workflow-pro.php:966 oasis-workflow-pro.php:2847
+#: oasis-workflow-pro.php:3505 oasis-workflow-pro.php:3562
+msgid "post author"
+msgstr "auteur"
+
+#: oasis-workflow-pro.php:967 oasis-workflow-pro.php:3506
+#: oasis-workflow-pro.php:3563
+msgid "blog name"
+msgstr "blog naam"
+
+#: oasis-workflow-pro.php:968 oasis-workflow-pro.php:3564
+msgid "post submitter"
+msgstr "bericht indiener"
+
+#: oasis-workflow-pro.php:974 oasis-workflow-pro.php:3410
+#: oasis-workflow-pro.php:3515
+msgid "Post Title, this will be displayed as a link"
+msgstr "Berichttitel, dit wordt weergegeven als een link"
+
+#: oasis-workflow-pro.php:976 oasis-workflow-pro.php:3412
+#: oasis-workflow-pro.php:3517
+msgid "Last Modified Date"
+msgstr "Laatste bewerkingsdatum"
+
+#: oasis-workflow-pro.php:979 oasis-workflow-pro.php:3414
+#: oasis-workflow-pro.php:3520
+msgid "Blog Name"
+msgstr "Blognaam"
+
+#: oasis-workflow-pro.php:980 oasis-workflow-pro.php:3415
+#: oasis-workflow-pro.php:3521
+msgid "Current User"
+msgstr "Huidige gebruiker"
+
+#: oasis-workflow-pro.php:1068
+msgid "New idea proposed."
+msgstr "Nieuw idee voorgesteld."
+
+#: oasis-workflow-pro.php:1069
+msgid "An author has been assigned to the post."
+msgstr "Een auteur is toegewezen aan het bericht."
+
+#: oasis-workflow-pro.php:1070
+msgid "The post is ready for publication."
+msgstr "Het bericht staat klaar voor publicatie."
+
+#: oasis-workflow-pro.php:1108 oasis-workflow-pro.php:2648
+#: src/components/ow-make-revision.js:24
+msgid ""
+"You may not make changes to this published content. You must first make a "
+"revision and then submit your changes for approval."
+msgstr ""
+"U kunt geen wijzigingen aanbrengen aan deze gepubliceerde inhoud. U kan "
+"eerst een revisie maken en vervolgens uw wijzigingen ter goedkeuring "
+"indienen."
+
+#: oasis-workflow-pro.php:1121
+msgid "Copy of -"
+msgstr "Kopie van -"
+
+#: oasis-workflow-pro.php:4376
+msgid "Are you sure to abort the workflow?"
+msgstr "Weet u zeker dat u de workflow wilt afbreken?"
+
+#: oasis-workflow-pro.php:4414
+msgid "Do you really want to clear all the steps?"
+msgstr "Weet u zeker dat u al deze stappen wilt wissen?"
+
+#: oasis-workflow-pro.php:4415
+msgid "This step is already defined. Do you really want to remove this step?"
+msgstr ""
+"Deze stap is al gedefineerd. Weet u zeker dat u deze stap wilt verwijderen?"
+
+#: oasis-workflow-pro.php:4417
+msgid "Please select Post Status."
+msgstr "Selecteer berichtstatus s.v.p."
+
+#: oasis-workflow-pro.php:4418
+msgid "The path between"
+msgstr "De verbinding tussen"
+
+#: oasis-workflow-pro.php:4419
+msgid "step and"
+msgstr "stap en"
+
+#: oasis-workflow-pro.php:4420
+msgid "step is incorrect."
+msgstr "stap is onjuist."
+
+#: oasis-workflow-pro.php:4421
+msgid ""
+"To edit/delete the step, right click on the step to access the step menu."
+msgstr ""
+"Om de stap te bewerken/verwijderen, klikt u met de rechtermuisknop op de "
+"stap om het menu te openen."
+
+#: oasis-workflow-pro.php:4423
+msgid ""
+"To connect to another step drag a line from the \"dot\" to the next step."
+msgstr ""
+"Om een verbinding te maken met een andere stap sleept u een lijn van de "
+"\"punt\" naar de volgende stap."
+
+#: oasis-workflow-pro.php:4425
+msgid "Post Status"
+msgstr "Berichtstatus"
+
+#: oasis-workflow-pro.php:4437
+msgid ""
+"There is an existing workflow with the same name. Please choose another name."
+msgstr ""
+"Er bestaat al een workflow met dezelfde naam. Kies een andere naam s.v.p."
+
+#: oasis-workflow-pro.php:4439
+msgid "You have unsaved changes."
+msgstr "U heeft veranderingen gemaakt die nog niet zijn opgeslagen."
+
+#: oasis-workflow-pro.php:4454
+msgid "Due date cannot be in the past."
+msgstr "Opleveringsdatum kan niet in het verleden zijn."
+
+#: oasis-workflow-pro.php:4463
+msgid "Step name is required."
+msgstr "Stapnaam is vereist."
+
+#: oasis-workflow-pro.php:4464
+msgid "Step name already exists. Please use a different name."
+msgstr "Stapnaam bestaat reeds. Gebruik een andere naam s.v.p."
+
+#: oasis-workflow-pro.php:4466
+msgid "Please select assignee(s)."
+msgstr "Selecteer de toegewezene(n)."
+
+#: oasis-workflow-pro.php:4467
+msgid "Please select a placeholder."
+msgstr "Selecteer een tijdelijke aanduiding."
+
+#: oasis-workflow-pro.php:4469
+msgid "Please enter the number of days for default due date.."
+msgstr "Voer het aantal dagen voor de standaard opleveringsdatum in."
+
+#: src/components/custom-post-type-support.js:8
+msgid "If this is a custom post type, check this page: "
+msgstr "Als dit een aangepaste post type, check deze pagina: "
+
+#: src/components/custom-post-type-support.js:15
+msgid ""
+" for more information on how to make custom post type work with Gutenberg "
+"Editor."
+msgstr ""
+" voor meer informatie over het maken van aangepaste post type werken met "
+"Gutenberg editor."
+
+#: src/components/ow-abort.js:96 src/components/ow-reassign.js:182
+#: src/components/ow-signoff.js:399 src/components/ow-submit-to-workflow.js:350
+msgid "Please enter comments."
+msgstr "Voer opmerkingen in."
+
+#: src/components/ow-claim.js:110
+msgid "Other Actions"
+msgstr "Andere acties"
+
+#: src/components/ow-claim.js:115 src/components/ow-signoff-response.js:61
+msgid "Take me to List page"
+msgstr "Neem me naar de lijstpagina"
+
+#: src/components/ow-claim.js:120 src/components/ow-signoff-response.js:66
+msgid "Take me to Workflow Inbox"
+msgstr "Neem me mee naar workflow inbox"
+
+#: src/components/ow-editorial-comments.js:43
+msgid "Editorial Comments"
+msgstr "Redactionele Reacties"
+
+#: src/components/ow-pre-publish-checklist.js:20
+msgid "Pre Publish Checklist "
+msgstr "Pre Publiceren Checklist "
+
+#: src/components/ow-reassign.js:20
+msgid "Available Actor(s)"
+msgstr "Beschikbare Actor (s)"
+
+#: src/components/ow-reassign.js:230
+msgid "No users found to reassign"
+msgstr "Geen gebruikers gevonden om opnieuw toe te wijzen"
+
+#: src/components/ow-reassign.js:248
+msgid "select actor(s) to reassign the task"
+msgstr "persoon(en) selecteren om de taak opnieuw aan toe te wijzen"
+
+#: src/components/ow-signoff-last-step.js:24 src/components/ow-signoff.js:32
+msgid "Continue to Signoff"
+msgstr "Doorgaan met afmelden"
+
+#: src/components/ow-signoff-last-step.js:209 src/components/ow-signoff.js:542
+#: src/components/ow-submit-to-workflow.js:487
+msgid "redirecting..."
+msgstr "je wordt omgeleid..."
+
+#: src/components/ow-signoff-last-step.js:240
+msgid ""
+"This is the last step in the workflow. Are you sure to complete the workflow?"
+msgstr ""
+"Dit is de laatste stap in de workflow. Weet u zeker dat u de workflow wilt "
+"afronden?"
+
+#: src/components/ow-signoff-last-step.js:288
+msgid "Publish Immediately?"
+msgstr "Onmiddellijk publiceren?"
+
+#: src/components/ow-signoff-last-step.js:310
+msgid ""
+"There are no further steps defined in the workflow. Do you want to cancel "
+"the post/page from the workflow?"
+msgstr ""
+"Er zijn geen verdere stappen gedefinieerd in de workflow.  Wilt u de post/"
+"pagina annuleren uit de workflow?"
+
+#: src/components/ow-signoff-response.js:56
+msgid "What’s next?"
+msgstr "Wat is de volgende stap?"
+
+#: src/components/ow-signoff.js:159
+msgid "Select Step"
+msgstr "Selecteer stap"
+
+#: src/components/ow-signoff.js:574
+msgid "Action"
+msgstr "Actie"
+
+#: src/components/ow-signoff.js:578
+msgid ""
+"After completing or reviewing the post/article, select appropriate action."
+msgstr ""
+"Nadat u de post/artikel hebt voltooid of bekeken, selecteert u de juiste "
+"actie."
+
+#: src/components/ow-signoff.js:607 src/components/ow-submit-to-workflow.js:536
+msgid "Your action will push the Post/Article to the below listed next step."
+msgstr ""
+"Uw actie zal duwen de post / artikel naar de onderstaande vermeld volgende "
+"stap."
+
+#: src/components/ow-signoff.js:682 src/components/ow-submit-to-workflow.js:645
+msgid "The comments will be visible throughout the workflow."
+msgstr "De opmerkingen zijn zichtbaar tijdens de workflow."
+
+#: src/components/ow-task-priority-select-control.js:74
+msgid "Post/Article Priority"
+msgstr "Post/artikel Prioriteit"
+
+#: src/components/ow-team-select-control.js:18
+msgid "Assign To Team"
+msgstr "Toewijzen aan team"
+
+#: src/components/ow-workflow-select-control.js:65
+msgid "Select Workflow"
+msgstr "Workflow selecteren"
+
+#: src/ow-sidebar.js:43
+msgid "Loading..."
+msgstr "Laden…"
+
+#: src/ow-sidebar.js:205
+msgid "Workflow actions are not available for this post type."
+msgstr "Werkstroomacties zijn niet beschikbaar voor dit berichttype."
+
+#: src/ow-sidebar.js:295 src/ow-sidebar.js:297
+msgid "Oasis Workflow"
+msgstr "Oasis Workflow"
+
+#~ msgid "Browse Revisions"
+#~ msgstr "Gebruike revisie"
+
+#~ msgid ")"
+#~ msgstr ")"
+
+#, php-format
+#~ msgid ""
+#~ " But there are currently <a href=\"admin.php?page=oasiswf-"
+#~ "inbox&action=inbox-unclaimed&user=%s\">%s unclaimed task(s)</a>."
+#~ msgstr ""
+#~ "Maar er zijn momenteel <a href=\"admin.php?page=oasiswf-"
+#~ "inbox&action=inbox-unclaimed&user=%s\">%s niet-opgeëiste taak(en)</a>."
+
+#, php-format
+#~ msgid ""
+#~ " and <a href=\"admin.php?page=oasiswf-inbox&action=inbox-unclaimed&user=%s"
+#~ "\">%s unclaimed task(s)</a>."
+#~ msgstr ""
+#~ "en <a href=\"admin.php?page=oasiswf-inbox&action=inbox-unclaimed&user=%s"
+#~ "\">%s niet-opgeëiste taak(en)</a>."
+
+#, php-format
+#~ msgid ""
+#~ "There are currently <a href=\"admin.php?page=oasiswf-inbox\">%s "
+#~ "assignment(s)</a>"
+#~ msgstr ""
+#~ "Er zijn momenteel <a href=\"admin.php?page=oasiswf-inbox\">%s "
+#~ "toewijzing(en)</a>"
+
+#~ msgid "Hurray! No assignments"
+#~ msgstr "Geen openstaande opdrachten beschikbaar."
+
+#~ msgid ""
+#~ "Please select Post Publish Notification email settings \"Send Email To:\" "
+#~ "assignees."
+#~ msgstr ""
+#~ "Selecteer e-mailinstellingen voor berichtpublicatiemeldingen 'E-mail "
+#~ "verzenden naar:' toegewezen."
+
+#~ msgid ""
+#~ "Please select Revised Post Publish Notification email settings \"Send "
+#~ "Email To:\" assignees."
+#~ msgstr ""
+#~ "Selecteer de herziene e-mailinstellingen 'Bericht verzenden': 'E-mail "
+#~ "verzenden naar:' toegewezen personen."
+
+#~ msgid ""
+#~ "Please select Post Submit Notification email settings \"Send Email To:\" "
+#~ "assignees."
+#~ msgstr ""
+#~ "Selecteer de instellingen voor het verzenden van e-mailmeldingen \"E-mail "
+#~ "verzenden naar:\" toegewezen personen."
+
+#~ msgid ""
+#~ "Please select Unauthorized Update Notification email settings \"Send "
+#~ "Email To:\" assignees."
+#~ msgstr ""
+#~ "Selecteer de e-mailinstellingen voor ongeautoriseerde updatemeldingen 'E-"
+#~ "mail verzenden naar:' toegewezen."
+
+#~ msgid ""
+#~ "Please select Task Claimed Notification email settings \"Send Email To:\" "
+#~ "assignees."
+#~ msgstr ""
+#~ "Selecteer de e-mailinstellingen voor Taak geclaimde melding \"E-mail "
+#~ "verzenden naar:\" toegewezen personen."
+
+#~ msgid ""
+#~ "Please select Workflow Abort Notification email settings \"Send Email To:"
+#~ "\" assignees."
+#~ msgstr ""
+#~ "Selecteer e-mailinstellingen voor werkstroomafbrekende meldingen 'E-mail "
+#~ "verzenden naar:' assignees."
+
+#~ msgid "Send Email To:"
+#~ msgstr "E-mail verzenden naar:"
+
+#~ msgid "Workflow Sign Off"
+#~ msgstr "Werkstroom afMelden"
+
+#~ msgid "Step:"
+#~ msgstr "Stap:"
+
+#~ msgid "15 Minutes"
+#~ msgstr "15 Minuten"
+
+#~ msgid "30 Minutes"
+#~ msgstr "30 Minuten"
+
+#~ msgid "45 Minutes"
+#~ msgstr "45 Minuten"
+
+#~ msgid "1 Hour"
+#~ msgstr "1 Uur"
+
+#~ msgid "4 Hours"
+#~ msgstr "4 Uur"
+
+#~ msgid "8 Hours"
+#~ msgstr "8 Uur"
+
+#~ msgid "Upload file and import"
+#~ msgstr "Bestand uploaden en importeren"
+
+#~ msgid "Instructions:"
+#~ msgstr "Instructies m.b.t. exporteren:"
+
+#~ msgid "Go to the workflows list page"
+#~ msgstr "Ga naar de lijst met workflows"
+
+#~ msgid ""
+#~ "Export the required workflows using the bulk action - Export Workflows."
+#~ msgstr ""
+#~ "Exporteer de vereiste workflows met behulp van de bulk actie - Workflows "
+#~ "exporteren."
+
+#~ msgid "Upload the downloaded csv file to import the workflows."
+#~ msgstr "Upload het gedownloade CSV-bestand om de workflows te importeren."
+
+#, fuzzy
+#~| msgid "Export Workflows"
+#~ msgid "Export Workflow"
+#~ msgstr "Exporteer workflows"
+
+#~ msgid "Only one version of the workflow can be exported."
+#~ msgstr "Slechts één versie van de workflow kan worden geëxporteerd."
+
+#~ msgid "File not found."
+#~ msgstr "Bestand niet gevonden."
+
+#~ msgid "Select bulk action"
+#~ msgstr "Kies bulk actie"
+
+#~ msgid "Export Workflows"
+#~ msgstr "Exporteer workflows"
+
+#~ msgid "Apply"
+#~ msgstr "Toepassen"
+
+#~ msgid "No Teams found. Contact your administrator."
+#~ msgstr "Geen teams gevonden. Neem contact op met uw beheerder."
+
+#~ msgid "Assign actor : "
+#~ msgstr "Persoon/personen toewijzen:"
+
+#~ msgid "Is Auto Submit?"
+#~ msgstr "Is Auto Submit?"
+
+#~ msgid "Auto Submit Info"
+#~ msgstr "Auto Submit Info"
+
+#~ msgid "(comma separated)"
+#~ msgstr "(komma gescheiden)"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Click to Bold"
+#~ msgstr "Diktgedrukt maken"
+
+#~ msgid "Click to Italic"
+#~ msgstr "Schuingedrukt"
+
+#~ msgid "Click to Underline"
+#~ msgstr "Onderstreept"
+
+#~ msgid "Left Align"
+#~ msgstr "Links uitlijnen"
+
+#~ msgid "Center Align"
+#~ msgstr "Gecentreerd uitlijnen"
+
+#~ msgid "Right Align"
+#~ msgstr "Rechts uitlijnen"
+
+#~ msgid "Justify Align"
+#~ msgstr "Justify uitlijning"
+
+#~ msgid "Insert Ordered List"
+#~ msgstr "Geordende lijst invoeren"
+
+#~ msgid "Insert Unordered List"
+#~ msgstr "Ongeordende lijst invoeren"
+
+#~ msgid "Click to Subscript"
+#~ msgstr "Subscript"
+
+#~ msgid "Click to Superscript"
+#~ msgstr "Superscript"
+
+#~ msgid "Click to Strike Through"
+#~ msgstr "Doorstrepen"
+
+#~ msgid "Remove Formatting"
+#~ msgstr "Format verwijderen"
+
+#~ msgid "Indent Text"
+#~ msgstr "Tekst inspringen"
+
+#~ msgid "Remove Indent"
+#~ msgstr "Inspringen ongedaan maken"
+
+#~ msgid "Horizontal Rule"
+#~ msgstr "Horizontale lijn"
+
+#~ msgid "Select Font Family"
+#~ msgstr "Selecteer Font Family"
+
+#~ msgid "Select Font Format"
+#~ msgstr "Selecteer Font Format"
+
+#~ msgid "Change Text Color"
+#~ msgstr "Tekstkleur veranderen"
+
+#~ msgid "Change Background Color"
+#~ msgstr "Achtergrondkleur veranderen"
+
+#~ msgid "Save this content"
+#~ msgstr "Deze inhoud opslaan"
+
+#~ msgid ""
+#~ "Check this box if you want to send an email to the author when post/page "
+#~ "is published."
+#~ msgstr ""
+#~ "Vink deze box aan als je wil dat emails worden verstuurd naar de auteur "
+#~ "als bericht/pagina gepubliceerd is."
+
+#~ msgid ""
+#~ "Check this box if you want to send an alert email to the current "
+#~ "assignees when a non-assignee updates the article outside the workflow."
+#~ msgstr ""
+#~ "Vink deze box aan als een herinneringsmail voor de huidige toegewezen "
+#~ "personen als een niet-toegewezen persoon het artiekel buiten de workflow "
+#~ "aanpast."
+
+#~ msgid ""
+#~ "Check this box if you want to send email to the author when the workflow "
+#~ "is aborted/cancelled."
+#~ msgstr ""
+#~ "Vink deze box aan als je wil dat emails worden verstuurd als taken zijn "
+#~ "gecanceld."
+
+#~ msgid ""
+#~ "Check this box if you want to send email to the submitter when post/page "
+#~ "is submitted to workflow."
+#~ msgstr ""
+#~ "Schakel dit selectievakje in als u wilt dat e-mail te sturen naar de "
+#~ "indiener post/pagina is ingediend bij de werkstroom."
+
+#~ msgid "Task reminder settings"
+#~ msgstr "Instellingen voor reminders van taken"
+
+#~ msgid ""
+#~ "(Applicable only if reminder email configuration is completed during "
+#~ "workflow setup.)"
+#~ msgstr ""
+#~ "(Alleen toepasbaar als de herinneringsemail configuratie afgerond is "
+#~ "tijdens de workflow setup)"
+
+#~ msgid "Your article has been published."
+#~ msgstr "Uw artikel is gepubliceerd."
+
+#~ msgid ""
+#~ "<div>Hello %1$s,</div><p>Your article <a href=\"%2$s\" title=\"%3$s\">"
+#~ "%3$s</a> has been published on <a href=\"%4$s\" title=\"%5$s\">%5$s</a></"
+#~ "p><p>Thanks.</p>"
+#~ msgstr ""
+#~ "<div>Hallo %1$s,</div><p>Uw artikel <a href=\"%2$s\" title=\"%3$s\">%3$s</"
+#~ "a> is gepubliceerd op <a href=\"%4$s\" title=\"%5$s\">%5$s</a></"
+#~ "p><p>Bedankt.</p>"
+
+#~ msgid "Your revised article has been published."
+#~ msgstr "Uw gereviseerde artikel is gepubliceerd."
+
+#~ msgid ""
+#~ "<div>Hello %1$s,</div><p>Your revised article <a href=\"%2$s\" title="
+#~ "\"%3$s\">%3$s</a> has been published on <a href=\"%4$s\" title=\"%5$s\">"
+#~ "%5$s</a></p><p>Thanks</p>"
+#~ msgstr ""
+#~ "<div>Hallo %1$s,</div><p>Uw herziene artikel <a href=\"%2$s\" title=\"%3$s"
+#~ "\">%3$s</a> is gepubliceerd op <a href=\"%4$s\" title=\"%5$s\">%5$s</a></"
+#~ "p><p>Bedankt</p>"
+
+#~ msgid "Article was updated outside the workflow."
+#~ msgstr "Artikel was geüpdatet buiten de workflow om."
+
+#~ msgid ""
+#~ ", who is not part of the current assignee list has updated the article "
+#~ msgstr ""
+#~ ", die niet deel uitmaakt van de huidige toegewezen groep heeft het "
+#~ "artikel geüpdatet."
+
+#~ msgid " outside the workflow."
+#~ msgstr "buiten de workflow om."
+
+#~ msgid "Task claimed"
+#~ msgstr "Taak opgeëist."
+
+#~ msgid "Another user has claimed the task for the article \""
+#~ msgstr "Een andere gebruiker heeft een taak opgeëist voor het artikel “"
+
+#~ msgid "Your article has been submitted."
+#~ msgstr "Uw artikel is ingediend."
+
+#~ msgid ""
+#~ "<div>Hello %1$s,</div><p>Your article <a href=\"%2$s\" title=\"%3$s\">"
+#~ "%3$s</a> has been successfully submitted to the workflow.</p><p>Thanks.</"
+#~ "p>"
+#~ msgstr ""
+#~ "<div>Hallo %1$s,</div><p>Uw artikel <a href=\"%2$s\" title=\"%3$s\">%3$s</"
+#~ "a> heeft verzonden aan de werkstroom.</p><p>Bedankt.</p>"
+
+#~ msgid "Workflow has been aborted."
+#~ msgstr "Workflow is afgebroken."
+
+#~ msgid " has been aborted from the workflow."
+#~ msgstr "is afgebroken van de workflor."
+
+#~ msgid ""
+#~ "If you have further questions regarding your article, please contact the "
+#~ "administrator."
+#~ msgstr ""
+#~ "Als er verder nog vragen gerelateerd aan uw artikel, neem aub contact op "
+#~ "met de administrator."
+
+#~ msgid "Workflow(version)"
+#~ msgstr "Workflow (versie)"
+
+#~ msgid ""
+#~ "User '%s' has already been assigned this task. Please select another user."
+#~ msgstr ""
+#~ "Gebruiker '%s' is al deze taak toegewezen. Selecteer een andere gebruiker."
+
+#~ msgid "Post Status (on submit) : "
+#~ msgstr "Post Status (aan leggen):"
+
+#~ msgid ""
+#~ "It might take about a minute to update the published article, even if you "
+#~ "selected to immediately publish the revised contents."
+#~ msgstr ""
+#~ "Het duurt ongeveer een minuut voor het bijwerken van het gepubliceerde "
+#~ "artikel, zelfs als u onmiddellijk publiceren de herziene inhoud hebt "
+#~ "geselecteerd."
+
+#~ msgid ""
+#~ "This delay is intentional. It allows the changes to be saved before the "
+#~ "revision is copied over to the published article."
+#~ msgstr ""
+#~ "Deze vertraging is opzettelijk. Daarmee de wijzigingen worden opgeslagen "
+#~ "voordat de herziening is gekopieerd naar de gepubliceerde artikel."
+
+#~ msgid "User"
+#~ msgstr "Gebruiker"
+
+#~ msgid ""
+#~ "Set your review setting to dictate how and when item moves to the success "
+#~ "step:"
+#~ msgstr ""
+#~ "Stel je review instellingen in om te dicteren hoe en wanneer stappen als "
+#~ "succesvol worden gezien:"
+
+#~ msgid "On Success"
+#~ msgstr "Bij succes"
+
+#~ msgid "On Failure"
+#~ msgstr "Bij foutmelding"
+
+#~ msgid "Please select status on success."
+#~ msgstr "Selecteer een status op succes."
+
+#~ msgid "Please select status on failure."
+#~ msgstr "Selecteer een status op falen."
+
+#~ msgid "No users found for the given role."
+#~ msgstr "Geen gebruikers voor de gekozen rol."
+
+#~ msgid "Priority : "
+#~ msgstr "Prioriteit:"
+
+#~ msgid ""
+#~ "Selected user is already assigned the task. Please select another user."
+#~ msgstr ""
+#~ "De gebruiker die u wilt toewijzen, is reed toegewezen. Kies aub een "
+#~ "andere."
+
+#~ msgid "Select a User: "
+#~ msgstr "Selecteer een gebruiker: "
+
+#~ msgid "Comment(s)"
+#~ msgstr "Commentaar"
+
+#~ msgid "Role(s) that can revise the post/page:"
+#~ msgstr "Rollen die het bericht/pagina kunnen herzien:"
+
+#~ msgid ""
+#~ "<div>Hello, <strong>%1$s</strong></div><p>Your article <a href=\"%2$s\" "
+#~ "title=\"%3$s\">%3$s</a> has been published on <a href=\"%4$s\" title="
+#~ "\"%5$s\">%5$s</a></p><p>Thanks</p>"
+#~ msgstr ""
+#~ "<div>Hallo, <strong>%1$s</strong></div><p>Uw artikel <a href=\"%2$s\" "
+#~ "title=\"%3$s\">%3$s</a> is gepubliceerd op <a href=\"%4$s\" title=\"%5$s"
+#~ "\">%5$s</a></p><p>Bedankt.</p>"
+
+#~ msgid ""
+#~ "<div>Hello, <strong>%1$s</strong></div><p>Your revised article <a href="
+#~ "\"%2$s\" title=\"%3$s\">%3$s</a> has been published on <a href=\"%4$s\" "
+#~ "title=\"%5$s\">%5$s</a></p><p>Thanks</p>"
+#~ msgstr ""
+#~ "<div>Hallo, <strong>%1$s</strong></div><p>Uw gereviseerde artikel <a href="
+#~ "\"%2$s\" title=\"%3$s\">%3$s</a> is gepubliceerd op <a href=\"%4$s\" "
+#~ "title=\"%5$s\">%5$s</a></p><p>Bedankt</p>"
+
+#~ msgid ""
+#~ "Role(s) that can skip the workflow and use the out of the box options:"
+#~ msgstr ""
+#~ "Rol(len) kunnen de workflow overslaan en gebruik maken van out of the box "
+#~ "opties:"
+
+#~ msgid "Role(s) that can view other user's inbox:"
+#~ msgstr "Rol(len) die de inbox van alle gebruikers kunnen zien:"
+
+#~ msgid "Role(s) that can abort workflow and/or delete workflow history:"
+#~ msgstr ""
+#~ "Rol(len) die de workflow kunnen afbreken en/of workflow geschiedenis "
+#~ "verwijderen:"
+
+#~ msgid "Content"
+#~ msgstr "Inhoud"
+
+#~ msgid "No Post/Pages found."
+#~ msgstr "Geen Bericht/Pagina gevonden."

@@ -1,0 +1,229 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-10 14:30:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#: duplicate-post-admin.php:521
+msgid "Current user is not allowed to copy posts."
+msgstr "Pengguna ini tidak diizinkan menggandakan kiriman."
+
+#: duplicate-post-admin.php:224
+msgid "Serving the WordPress community since November 2007."
+msgstr "Melayani komunitas WordPress sejah November 2007."
+
+#: duplicate-post-options.php:437
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "kemungkinan anda menginginkan ini tidak dicentang, kecuali anda memiliki kebutuhan yang sangat khusus"
+
+#: duplicate-post-admin.php:899
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: duplicate-post-options.php:788
+msgid "Show update notice"
+msgstr "Perlihatkan pemberitahuan pembaruan"
+
+#: duplicate-post-options.php:528
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Anda dapat menggunakan * untuk mencari nol atau lebih karakter alfanumerik atau garis bawah: contoh bidang*"
+
+#: duplicate-post-options.php:390
+msgid "Featured Image"
+msgstr "Gambar Utama"
+
+#: duplicate-post-options.php:399
+msgid "Template"
+msgstr "Pola"
+
+#: duplicate-post-options.php:408
+msgctxt "post format"
+msgid "Format"
+msgstr "Format"
+
+#: duplicate-post-options.php:716
+msgid "Bulk Actions"
+msgstr "Aksi Massal"
+
+#: duplicate-post-options.php:466
+msgid "Menu order"
+msgstr "Urutan menu"
+
+#: duplicate-post-options.php:417
+msgid "Author"
+msgstr "Penuiis"
+
+#. translators: %s: number
+#: duplicate-post-admin.php:910
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s item disalin."
+msgstr[1] "%s item disalin."
+
+#: duplicate-post-options.php:568
+msgid "Show/hide private taxonomies"
+msgstr "Tampilkan/sembunyikan taksonomi privat"
+
+#: duplicate-post-options.php:457
+msgid "except pingbacks and trackbacks"
+msgstr "kecuali pingbalik dan trakbalik"
+
+#: duplicate-post-options.php:312 duplicate-post-options.php:661
+msgid "Display"
+msgstr "Tampilan"
+
+#: duplicate-post-options.php:303 duplicate-post-options.php:581
+msgid "Permissions"
+msgstr "Hak akses"
+
+#: duplicate-post-options.php:294 duplicate-post-options.php:321
+msgid "What to copy"
+msgstr "Apa yang ingin disalin"
+
+#: duplicate-post-options.php:363
+msgid "Slug"
+msgstr "Tautan ringkas"
+
+#: duplicate-post-options.php:511
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Tambahkan angka ini pada urutan menu original (kosong atau nol untuk tidak merubah)"
+
+#: duplicate-post-options.php:503
+msgid "Increase menu order by"
+msgstr "Tambahkan urutan menu dengan"
+
+#: duplicate-post-options.php:381
+msgid "Content"
+msgstr "Konten"
+
+#: duplicate-post-options.php:324 duplicate-post-options.php:327
+msgid "Post/page elements to copy"
+msgstr "Elemen artikel/halaman untuk disalin"
+
+#: duplicate-post-options.php:456
+msgid "Comments"
+msgstr "Komentar"
+
+#: duplicate-post-options.php:446
+msgid "Children"
+msgstr "Anak-anak"
+
+#: duplicate-post-options.php:436
+msgid "Attachments"
+msgstr "Lampiran"
+
+#: duplicate-post-options.php:372
+msgid "Excerpt"
+msgstr "Ringkasan"
+
+#: duplicate-post-options.php:336
+msgid "Title"
+msgstr "Judul"
+
+#: duplicate-post-options.php:354
+msgid "Status"
+msgstr "Status"
+
+#: duplicate-post-options.php:345
+msgid "Date"
+msgstr "Tanggal"
+
+#: duplicate-post-admin.php:227
+msgid "Dismiss this notice."
+msgstr "Hilangkan pemberitahuan ini."
+
+#: duplicate-post-admin.php:784
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Fitur-fitur menyalin untuk tipe artikel ini tidak diaktifkan pada halaman opsi"
+
+#: duplicate-post-options.php:624 duplicate-post-options.php:627
+msgid "Enable for these post types"
+msgstr "Aktifkan untuk tipe artikel ini"
+
+#: duplicate-post-options.php:426
+msgid "Password"
+msgstr "Kata sandi"
+
+#: duplicate-post.php:61
+msgid "Settings"
+msgstr "Pengaturan"
+
+#. Description of the plugin
+msgid "Clone posts and pages."
+msgstr "Cloning artikel dan halaman."
+
+#: duplicate-post-options.php:678
+msgid "Post list"
+msgstr "Daftar artikel"
+
+#: duplicate-post-options.php:689
+msgid "Edit screen"
+msgstr "Layar sunting"
+
+#: duplicate-post-options.php:664 duplicate-post-options.php:667
+msgid "Show links in"
+msgstr "Tinjukkan tautan pada"
+
+#: duplicate-post-options.php:585 duplicate-post-options.php:588
+msgid "Roles allowed to copy"
+msgstr "Peran boleh disalin"
+
+#: duplicate-post-options.php:488
+msgid "Title suffix"
+msgstr "Akhiran judul"
+
+#: duplicate-post-options.php:481
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Awalan untuk ditambahkan sebelum judul, misalnya \"Salinan dari\" (kosong atau tanpa awalan)"
+
+#: duplicate-post-options.php:496
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Akhiran untuk ditambahkan setelah judul, misalnya \"(dup)\" (kosong atau tanpa akhiran)"
+
+#: duplicate-post-options.php:473
+msgid "Title prefix"
+msgstr "Awalan judul"
+
+#: duplicate-post-options.php:534 duplicate-post-options.php:538
+msgid "Do not copy these taxonomies"
+msgstr "Jangan menyalin taksonomi ini"
+
+#: duplicate-post-options.php:518
+msgid "Do not copy these fields"
+msgstr "Jangan salin bidang-bidang ini"
+
+#: duplicate-post-options.php:52
+msgid "Duplicate Post"
+msgstr "Artikel Duplikat"
+
+#: duplicate-post-admin.php:565
+msgid "Copy creation failed, could not find original:"
+msgstr "Pembuatan salinan gagal, tidak dapat menemukan origina:"
+
+#: duplicate-post-admin.php:525
+msgid "No post to duplicate has been supplied!"
+msgstr "Tidak ada artikel untuk disalin!"
+
+#: duplicate-post-admin.php:477
+msgid "New Draft"
+msgstr "Konsep Baru"
+
+#: duplicate-post-admin.php:494 duplicate-post-common.php:78
+#: duplicate-post-common.php:170 duplicate-post-common.php:182
+msgid "Copy to a new draft"
+msgstr "Salin ke konsep baru"
+
+#: duplicate-post-admin.php:939
+msgid "Clone"
+msgstr "Duplikat"
+
+#: duplicate-post-options.php:701
+msgid "Admin bar"
+msgstr "Bilah admin"

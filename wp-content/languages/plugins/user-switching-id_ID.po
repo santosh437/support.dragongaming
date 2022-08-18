@@ -1,0 +1,65 @@
+# Translation of Plugins - User Switching - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - User Switching - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-07 23:46:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - User Switching - Stable (latest release)\n"
+
+#. Description of the plugin
+msgid "Instant switching between user accounts in WordPress"
+msgstr "Beralih cepat antara akun pengguna di WordPress"
+
+#. Plugin URI of the plugin
+msgid "https://johnblackbourn.com/wordpress-plugin-user-switching/"
+msgstr "https://johnblackbourn.com/wordpress-plugin-user-switching/"
+
+#. Plugin Name of the plugin
+msgid "User Switching"
+msgstr "Pengalihan Pengguna"
+
+#. Translators: "switch off" means to temporarily log out
+#: user-switching.php:487
+msgid "Switch Off"
+msgstr "Beralih"
+
+#. Translators: 1: user display name; 2: username;
+#: user-switching.php:375
+msgid "Switched back to %1$s (%2$s)."
+msgstr "Dialihkan kembali ke %1$s (%2$s)."
+
+#. Translators: 1: user display name; 2: username;
+#: user-switching.php:336 user-switching.php:465 user-switching.php:499
+#: user-switching.php:529 user-switching.php:568 user-switching.php:595
+msgid "Switch back to %1$s (%2$s)"
+msgstr "Beralih kembali ke %1$s (%2$s)"
+
+#. Translators: 1: user display name; 2: username;
+#: user-switching.php:322 user-switching.php:382
+msgid "Switched to %1$s (%2$s)."
+msgstr "Dialihkan ke %1$s (%2$s)."
+
+#. Translators: "switch off" means to temporarily log out
+#: user-switching.php:231 user-switching.php:252
+msgid "Could not switch off."
+msgstr "Tidak dapat beralih."
+
+#: user-switching.php:155 user-switching.php:180 user-switching.php:189
+#: user-switching.php:194 user-switching.php:222
+msgid "Could not switch users."
+msgstr "Tidak dapat mengalihkan pengguna."
+
+#: user-switching.php:109 user-switching.php:511 user-switching.php:641
+#: user-switching.php:679 user-switching.php:708
+msgid "Switch&nbsp;To"
+msgstr "Beralih&nbsp;Ke"
+
+#: user-switching.php:108
+msgctxt "User Switching title on user profile screen"
+msgid "User Switching"
+msgstr "Mengalihkan Pengguna"

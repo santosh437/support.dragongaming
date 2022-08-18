@@ -1,0 +1,3989 @@
+# Translation of Plugins - bbPress - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - bbPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-14 23:42:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - bbPress - Stable (latest release)\n"
+
+#: includes/admin/topics.php:738
+msgid "Topic \"%1$s\" successfully unstuck."
+msgstr "Topik \"%1$s\" berhasil dicabut."
+
+#: includes/admin/topics.php:732
+msgid "Topic \"%1$s\" successfully stuck."
+msgstr "Topik \"%1$s\" berhasil ditancapkan."
+
+#: includes/admin/tools/repair.php:48
+msgid "Some of these tools create substantial database overhead. Use caution when running more than 1 repair at a time."
+msgstr "Beberapa dari perkakas ini mengakibatkan overhead basis data yang cukup besar. Hindari menjalankan lebih dari satu pekerjaan perbaikan pada saat yang sama."
+
+#: includes/admin/tools/repair.php:304
+msgid "Counting the number of pending, spammed, and trashed replies in each topic&hellip; %s"
+msgstr "Menghitung jumlah balasan yang tertunda, spam, dan sampah pada setiap topik&hellip; %s"
+
+#: includes/topics/template.php:3398
+msgid "Separate topic tags with commas"
+msgstr "Pisahkan tag topik dengan koma"
+
+#: includes/admin/forums.php:753
+msgid "Forum scheduled for: %s."
+msgstr "Forum dijadwalkan untuk: %s."
+
+#: includes/admin/forums.php:746 includes/admin/forums.php:758
+#: includes/admin/forums.php:766
+msgid "Preview forum"
+msgstr "Pratinjau forum"
+
+#: includes/admin/forums.php:744
+msgid "Forum submitted."
+msgstr "Forum terkirim."
+
+#: includes/admin/forums.php:733
+msgid "Forum created."
+msgstr "Forum dibuat."
+
+#: includes/admin/forums.php:764
+msgid "Forum draft updated."
+msgstr "Konsep forum dibaharui."
+
+#: includes/admin/forums.php:578
+msgid "&mdash;"
+msgstr "&mdash;"
+
+#: includes/admin/forums.php:631
+msgctxt "Close a Forum"
+msgid "Close"
+msgstr "Tutup"
+
+#: includes/admin/forums.php:633
+msgctxt "Open a Forum"
+msgid "Open"
+msgstr "Buka"
+
+#: includes/admin/forums.php:451
+msgid "There was a problem opening the forum \"%1$s\"."
+msgstr "Terjadi masalah saat membuka forum \"%1$s\"."
+
+#: includes/admin/forums.php:452
+msgid "Forum \"%1$s\" successfully opened."
+msgstr "Forum \"%1$s\" berhasil dibuka."
+
+#: includes/admin/forums.php:457
+msgid "There was a problem closing the forum \"%1$s\"."
+msgstr "Terjadi masalah saat menutup forum \"%1$s\"."
+
+#: includes/admin/forums.php:458
+msgid "Forum \"%1$s\" successfully closed."
+msgstr "Forum \"%1$s\" berhasil ditutup."
+
+#: includes/admin/forums.php:631
+msgid "Close this forum"
+msgstr "Tutup forum ini"
+
+#: includes/admin/forums.php:633
+msgid "Open this forum"
+msgstr "Buka forum ini"
+
+#: includes/admin/forums.php:712 includes/admin/forums.php:735
+msgid "View forum"
+msgstr "Lihat forum"
+
+#: includes/admin/tools/repair.php:72 includes/admin/tools/upgrade.php:71
+msgid "Filter"
+msgstr "Saring"
+
+#: includes/admin/tools/repair.php:130 includes/admin/tools/upgrade.php:134
+msgid "Show more details"
+msgstr "Lihat detil"
+
+#: includes/admin/tools/repair.php:155 includes/admin/tools/upgrade.php:166
+msgid "No repair tools match this criteria."
+msgstr "Tidak ada alat untuk perbaikan yang cocok dengan kriteria ini."
+
+#: includes/admin/tools/repair.php:93 includes/admin/tools/repair.php:133
+#: includes/admin/tools/repair.php:171 includes/admin/tools/upgrade.php:98
+#: includes/admin/tools/upgrade.php:144 includes/admin/tools/upgrade.php:183
+msgid "Components"
+msgstr "Komponen"
+
+#: includes/admin/tools/repair.php:89 includes/admin/tools/repair.php:116
+#: includes/admin/tools/repair.php:170 includes/admin/tools/upgrade.php:88
+#: includes/admin/tools/upgrade.php:120 includes/admin/tools/upgrade.php:181
+msgid "Description"
+msgstr "Deskripsi"
+
+#: includes/admin/tools/repair.php:81 includes/admin/tools/repair.php:166
+#: includes/admin/tools/upgrade.php:80 includes/admin/tools/upgrade.php:177
+msgid "Select All"
+msgstr "Pilih Semua"
+
+#: includes/admin/tools/repair.php:64 includes/admin/tools/repair.php:126
+#: includes/admin/tools/repair.php:181 includes/admin/tools/upgrade.php:61
+#: includes/admin/tools/upgrade.php:130 includes/admin/tools/upgrade.php:193
+msgid "Run"
+msgstr "Jalankan"
+
+#: includes/admin/tools/repair.php:126 includes/admin/tools/upgrade.php:130
+msgid "Run %s"
+msgstr "Jalankan %s"
+
+#: includes/admin/tools/repair.php:61 includes/admin/tools/repair.php:178
+#: includes/admin/tools/upgrade.php:58 includes/admin/tools/upgrade.php:190
+msgid "Select bulk action"
+msgstr "Pilih aksi massal"
+
+#: includes/admin/tools/repair.php:66 includes/admin/tools/repair.php:183
+#: includes/admin/tools/upgrade.php:63 includes/admin/tools/upgrade.php:195
+msgid "Apply"
+msgstr "Aplikasikan"
+
+#: includes/admin/tools/repair.php:99 includes/admin/tools/repair.php:140
+#: includes/admin/tools/repair.php:172 includes/admin/tools/upgrade.php:103
+#: includes/admin/tools/upgrade.php:151 includes/admin/tools/upgrade.php:184
+msgid "Overhead"
+msgstr "Overhead"
+
+#: includes/admin/tools/repair.php:1119
+msgid "Complete! %d closed topic repaired."
+msgid_plural "Complete! %d closed topics repaired."
+msgstr[0] "Selesai! %d topik yang ditutup telah diperbaiki."
+msgstr[1] "Selesai! %d topik yang ditutup telah diperbaiki."
+
+#: includes/admin/tools/repair.php:1088
+msgid "Repairing closed topics&hellip; %s"
+msgstr "Memperbaiki topik-topik tertutup&hellip; %s"
+
+#: includes/admin/tools/repair.php:1089
+msgid "No closed topics to repair."
+msgstr "Tak ada topik tertutup untuk diperbaiki."
+
+#: includes/admin/tools/reset.php:233
+msgid "Deleting Imported User Meta&hellip; %s"
+msgstr "Menghapus Meta Pengguna yang Di-impor&hellip; %s"
+
+#: includes/admin/tools/reset.php:227
+msgid "Deleting Imported Users&hellip; %s"
+msgstr "Menghapus Pengguna yang Di-impor&hellip; %s"
+
+#: includes/admin/tools/reset.php:57
+msgid "Do you really want to do this?"
+msgstr "Apakah Anda yakin akan melakukan ini?"
+
+#: includes/admin/tools/help.php:98
+msgid "Also see the main article on the bbPress codex <a href=\"https://codex.bbpress.org/import-forums/\">bbPress: Import Forums</a>."
+msgstr "Lihat juga artikel utama pada bbPress codex <a href=\"https://codex.bbpress.org/import-forums/\">bbPress: Mengimpor Forum</a>."
+
+#: includes/admin/tools/help.php:67
+msgid "Also see <a href=\"https://codex.bbpress.org/reset-forums/\">bbPress: Reset Forums</a>."
+msgstr "Lihat juga <a href=\"https://codex.bbpress.org/reset-forums/\">bbPress: Mereset Forum</a>."
+
+#: includes/admin/tools/help.php:38
+msgid "Also see <a href=\"https://codex.bbpress.org/repair-forums/\">bbPress: Repair Forums</a>."
+msgstr "Lihat juga <a href=\"https://codex.bbpress.org/repair-forums/\">bbPress: Memperbaiki Forum</a>."
+
+#: includes/admin/tools/help.php:35
+msgid "bbPress roles: <a href=\"https://codex.bbpress.org/bbpress-user-roles-and-capabilities/\" target=\"_blank\">bbPress User Roles and Capabilities</a>"
+msgstr "Peran-peran bbPress: <a href=\"https://codex.bbpress.org/bbpress-user-roles-and-capabilities/\" target=\"_blank\">Peran dan Kapabilitas Pengguna bbPress</a>"
+
+#: includes/admin/tools/help.php:34
+msgid "BuddyPress Group Forums: <a href=\"https://codex.buddypress.org/getting-started/installing-group-and-sitewide-forums/\">Installing Group and Sitewide Forums</a> and <a href=\"https://codex.buddypress.org/getting-started/guides/migrating-from-old-forums-to-bbpress-2/\">Migrating from old forums to bbPress 2.2+</a>."
+msgstr "Forum Grup BuddyPress: <a href=\"https://codex.buddypress.org/getting-started/installing-group-and-sitewide-forums/\">Menginstal Forum Grup dan Forum Situs</a> dan <a href=\"https://codex.buddypress.org/getting-started/guides/migrating-from-old-forums-to-bbpress-2/\">Memigrasikan forum lama ke bbPress 2.2+</a>."
+
+#: includes/admin/tools/help.php:123
+msgid "\"Purge Previous Import\" will remove data imported from a failed import without removing your existing forum data."
+msgstr "\"Purge Previous Import\" akan menghapus data yang diimpor dari proses yang gagal sebelumnya tanpa menghapus data forum yang masih ada."
+
+#: includes/admin/tools/help.php:121
+msgid "\"Convert Users\" will import your legacy forum members as WordPress Users."
+msgstr "\"Convert Users\" akan mengimpor anggota forum lama Anda sebagai WordPress Users."
+
+#: includes/admin/tools/help.php:122
+msgid "\"Start Over\" will start the importer fresh, if your import failed for any reason leaving this setting unchecked the importer will begin from where it left off."
+msgstr "\"Start Over\" akan memulai pengimpor dari awal, jika proses impor Anda gagal karena suatu hal, dengan membiarkan pengaturan ini tidak tercentang akan membuat proses impor dilanjutkan dari saat terhentinya."
+
+#: includes/admin/tools/help.php:120
+msgid "Depending on your MySQL configuration you can tweak the \"Rows Limit\" and \"Delay Time\" that may help to improve the overall time it takes to perform a complete forum import."
+msgstr "Tergantung pada konfigurasi MySQL Anda, Anda bisa mengatur \"Rows Limit\" dan \"Delay Time\" yang bisa membantu meningkatkan kecepatan waktu saat melakukan impor forum. "
+
+#: includes/admin/tools/help.php:117
+msgid "In the Options you have a number of options:"
+msgstr "Dalam Opsi, Anda memiliki sejumlah pilihan:"
+
+#: includes/admin/tools/help.php:116
+msgid "Importer Options"
+msgstr "Opsi Pengimpor"
+
+#: includes/admin/tools/help.php:108
+msgid "The settings in this section refer to the database connection strings used by your old forum software. The best way to determine the exact settings you need is to copy them from your legacy forums configuration file or contact your web hosting provider."
+msgstr "Pengaturan seksi ini merujuk pada strings koneksi database yang digunakan oleh perangkat lunak forum lama Anda. Cara terbaik untuk menentukan pengaturan yang tepat sesuai kebutuhan Anda ialah dengan menyalinnya dari file konfigurasi forum lama Anda atau menghubungi provider web hosting Anda."
+
+#: includes/admin/tools/help.php:96
+msgid "This screen provides access to all of the bbPress Import Forums settings and resources."
+msgstr "Laman ini menyajikan akses untuk semua pengaturan dan sumberdaya Impor Forum bbPress."
+
+#: includes/admin/settings.php:1148
+msgid "Topics by Last Post"
+msgstr "Topik berdasarkan Kiriman Terakhir"
+
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:249
+msgid "No replies to this topic."
+msgstr "Belum ada tanggapan untuk topik ini."
+
+#: includes/admin/tools/common.php:800 includes/admin/tools/common.php:924
+msgid "All %s"
+msgstr "Semua %s"
+
+#: includes/admin/tools/common.php:431 includes/admin/tools/common.php:446
+msgid "Users"
+msgstr "Pengguna"
+
+#: includes/admin/tools/common.php:260
+msgid "Search Tools"
+msgstr "Alat pencarian"
+
+#: includes/admin/tools/common.php:258
+msgid "Search Tools:"
+msgstr "Alat pencarian:"
+
+#: includes/admin/tools/common.php:286
+msgid "Filter by Component"
+msgstr "Saring berdasarkan Komponen"
+
+#: includes/admin/tools/common.php:288
+msgid "All Components"
+msgstr "Semua Komponen"
+
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:90
+msgid "Unapprove"
+msgstr "Tidak diterima"
+
+#: includes/admin/tools/common.php:402
+msgid "Low"
+msgstr "Rendah"
+
+#: includes/admin/tools/common.php:405
+msgid "Medium"
+msgstr "Menengah"
+
+#: includes/admin/tools/common.php:408
+msgid "High"
+msgstr "Tinggi"
+
+#: includes/admin/settings.php:1802 includes/admin/tools/reset.php:23
+#: includes/admin/tools/repair.php:43 includes/admin/tools/upgrade.php:40
+msgid "Forum Tools"
+msgstr "Perangkat Forum"
+
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:61
+msgid "Replied"
+msgstr "Terjawab"
+
+#: includes/admin/metaboxes.php:509
+msgid "&mdash; No reply &mdash;"
+msgstr "&mdash; Belum ada balasan &mdash;"
+
+#: includes/admin/settings.php:840
+msgid "Allow forums to have dedicated moderators"
+msgstr "Ijinkan forum untuk memiliki moderator tetap"
+
+#: includes/admin/metaboxes.php:79
+msgid "%s Topic Tag"
+msgid_plural "%s Topic Tags"
+msgstr[0] "%s Tag Topik"
+msgstr[1] "%s Tag Topik"
+
+#: includes/admin/metaboxes.php:481
+msgid "Select what status to give the reply."
+msgstr "Pilih status untuk balasan."
+
+#: includes/admin/tools/help.php:31
+msgid "There is more detailed information available on the bbPress and BuddyPress codex for the following:"
+msgstr "Ada informasi lebih rinci pada codex bbPress dan BuddyPress mengenai:"
+
+#: includes/admin/metaboxes.php:70
+msgid "%s Reply"
+msgid_plural "%s Replies"
+msgstr[0] "%s Balasan"
+msgstr[1] "%s Balasan"
+
+#: includes/admin/metaboxes.php:52
+msgid "%s Forum"
+msgid_plural "%s Forums"
+msgstr[0] "%s Forum"
+msgstr[1] "%s Forum"
+
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:60
+msgid "Content"
+msgstr "Konten"
+
+#: includes/admin/settings.php:246 includes/admin/tools/reset.php:42
+#: includes/admin/forums.php:237
+msgid "Forum Moderators"
+msgstr "Moderator Forum"
+
+#: includes/admin/replies.php:312
+msgid "Error in unspamming reply."
+msgstr "Galat saat menandai balasan sebagai bukan spam."
+
+#: includes/admin/replies.php:287
+msgid "Error in spamming reply."
+msgstr "Galat saat menandai jawaban sebagai spam."
+
+#: includes/admin/replies.php:254
+msgid "%s reply not updated, somebody is editing it."
+msgid_plural "%s replies not updated, somebody is editing them."
+msgstr[0] "%s balasan tidak terbaharui, ada yang sedang menyunting balasan tersebut."
+msgstr[1] "%s balasan tidak terbaharui, ada yang sedang menyunting balasan-balasan tersebut."
+
+#: includes/admin/replies.php:253
+msgid "1 reply not updated, somebody is editing it."
+msgstr "1 balasan tidak terbaharui, ada yang sedang menyunting balasan tersebut."
+
+#: includes/admin/replies.php:251
+msgid "%s reply updated."
+msgid_plural "%s replies updated."
+msgstr[0] "%s balasan terbaharui."
+msgstr[1] "%s balasan terbaharui."
+
+#: includes/admin/replies.php:303
+msgid "Sorry, you are not allowed to unspam this reply."
+msgstr "Maaf, Anda tidak diizinkan untuk menandai balasan ini sebagai bukan spam."
+
+#: includes/admin/replies.php:1014
+msgid "Reply scheduled for: %s."
+msgstr "Balasan dijadwalkan untuk: %s."
+
+#: includes/admin/replies.php:1005
+msgid "Reply submitted."
+msgstr "Balasan terkirim."
+
+#: includes/admin/replies.php:994
+msgid "Reply created."
+msgstr "Balasan dibuat."
+
+#: includes/admin/replies.php:1025
+msgid "Reply draft updated."
+msgstr "Konsep balasan dibaharui."
+
+#: includes/admin/tools.php:79
+msgid "The repair was not successful"
+msgstr "Perbaikan gagal"
+
+#: includes/admin/tools.php:78
+msgid "The repair was completed successfully"
+msgstr "Perbaikan berhasil dilakukan"
+
+#: includes/admin/tools.php:127
+msgid "Recalculate parent forum for each topic and reply"
+msgstr "Menghitung ulang forum induk dari tiap topik dan balasan"
+
+#: includes/admin/replies.php:145
+msgid "<strong>View</strong> will take you to your live site to view the reply."
+msgstr "<strong>Tampilkan</strong> akan membawa Anda ke situs aktif untuk menampilkan balasan."
+
+#: includes/admin/replies.php:574
+msgid "There was a problem approving the reply \"%1$s\"."
+msgstr "Terjadi permasalahan saat menyetujui balasan \"%1$s\"."
+
+#: includes/admin/replies.php:575
+msgid "Reply \"%1$s\" successfully approved."
+msgstr "Balasan \"%1$s\" berhasil disetujui."
+
+#: includes/admin/replies.php:580
+msgid "There was a problem unapproving the reply \"%1$s\"."
+msgstr "Terjadi permasalahan saat menolak balasan \"%1$s\"."
+
+#: includes/admin/replies.php:581
+msgid "Reply \"%1$s\" successfully unapproved."
+msgstr "Balasan \"%1$s\" berhasil ditolak."
+
+#: includes/admin/replies.php:809
+msgid "Unapprove this reply"
+msgstr "Jangan setujui balasan ini"
+
+#: includes/admin/replies.php:809
+msgctxt "Unapprove reply"
+msgid "Unapprove"
+msgstr "Jangan setujui"
+
+#: includes/admin/replies.php:811
+msgid "Approve this reply"
+msgstr "Setujui balasan ini"
+
+#: includes/admin/replies.php:811
+msgctxt "Approve reply"
+msgid "Approve"
+msgstr "Setujui"
+
+#: includes/admin/tools.php:115
+msgid "Recalculate parent topic for each reply"
+msgstr "Menghitung ulang topik induk dari masing-masing balasan"
+
+#: includes/admin/replies.php:130
+msgid "You can refine the list to show only replies in a specific forum or from a specific month by using the dropdown menus above the replies list. Click the Filter button after making your selection."
+msgstr "Anda dapat menyaring daftar untuk menunjukkan balasan hanya dari forum tertentu atau bulan tertentu dengan menggunakan menu jatuh-turun di atas daftar balasan. Klik tombol Saring setelah memilih."
+
+#: includes/admin/topics.php:317
+msgid "Error in unspamming topic."
+msgstr "Galat saat menandai topik bukan spam."
+
+#: includes/admin/topics.php:292
+msgid "Error in spamming topic."
+msgstr "Galat dalam menandai topik sebagai spam."
+
+#: includes/admin/topics.php:259
+msgid "%s topic not updated, somebody is editing it."
+msgid_plural "%s topics not updated, somebody is editing them."
+msgstr[0] "%s topik tidak terbaharui, ada yang sedang menyunting topik tersebut."
+msgstr[1] "%s topik tidak terbaharui, ada yang sedang menyunting topik-topik tersebut."
+
+#: includes/admin/topics.php:258
+msgid "1 topic not updated, somebody is editing it."
+msgstr "1 topik tidak terbaharui, ada yang sedang menyunting topik tersebut."
+
+#: includes/admin/topics.php:256
+msgid "%s topic updated."
+msgid_plural "%s topics updated."
+msgstr[0] "%s topik terbaharui."
+msgstr[1] "%s topik terbaharui."
+
+#: includes/admin/topics.php:308
+msgid "Sorry, you are not allowed to unspam this topic."
+msgstr "Maaf, Anda tidak diizinkan untuk menandai topik ini sebagai bukan spam."
+
+#: includes/admin/topics.php:283 includes/admin/replies.php:278
+msgid "Sorry, you are not allowed to spam this item."
+msgstr "Maaf, Anda tidak diizinkan untuk menandai item ini sebagai spam."
+
+#: includes/admin/topics.php:1218
+msgid "Topic scheduled for: %s."
+msgstr "Topik dijadwalkan untuk: %s."
+
+#: includes/admin/topics.php:1209
+msgid "Topic submitted."
+msgstr "Topik dikirimkan."
+
+#: includes/admin/topics.php:1198
+msgid "Topic created."
+msgstr "Topik dibuat."
+
+#: includes/admin/topics.php:1211 includes/admin/topics.php:1223
+#: includes/admin/topics.php:1231 includes/admin/replies.php:1007
+#: includes/admin/replies.php:1019 includes/admin/replies.php:1027
+msgid "Preview topic"
+msgstr "Pratinjau topik"
+
+#: includes/admin/topics.php:1229
+msgid "Topic draft updated."
+msgstr "Konsep topik terbaharui."
+
+#: includes/admin/topics.php:985
+msgctxt "Unapprove Topic"
+msgid "Unapprove"
+msgstr "Jangan setujui"
+
+#: includes/admin/topics.php:755
+msgid "There was a problem approving the topic \"%1$s\"."
+msgstr "Ada masalah saat menyetujui topik \"%1$s\"."
+
+#: includes/admin/topics.php:761
+msgid "There was a problem unapproving the topic \"%1$s\"."
+msgstr "Ada masalah saat tidak menyetujui topik \"%1$s\"."
+
+#: includes/admin/topics.php:985
+msgid "Unapprove this topic"
+msgstr "Jangan setujui topik ini"
+
+#: includes/admin/topics.php:990
+msgid "Approve this topic"
+msgstr "Setujui topik ini"
+
+#: includes/admin/topics.php:990
+msgctxt "Approve Topic"
+msgid "Approve"
+msgstr "Setujui"
+
+#: includes/admin/topics.php:1177 includes/admin/topics.php:1200
+#: includes/admin/replies.php:973 includes/admin/replies.php:996
+msgid "View topic"
+msgstr "Lihat topik"
+
+#: includes/replies/template.php:1580 includes/topics/template.php:2853
+msgctxt "verb"
+msgid "Reply"
+msgstr "Balas"
+
+#: includes/replies/template.php:51 includes/admin/settings.php:384
+msgctxt "noun"
+msgid "Reply"
+msgstr "Balasan"
+
+#: includes/admin/topics.php:152
+msgid "<strong>View</strong> will take you to your live site to view the topic."
+msgstr "<strong>Tampilkan</strong> akan membawa Anda ke situs aktif Anda untuk menampilkan topik."
+
+#: includes/admin/topics.php:148 includes/admin/replies.php:146
+msgid "<strong>Approve</strong> will change the status from pending to publish."
+msgstr "<strong>Setujui</strong> akan mengubah status dari tertunda ke diterbitkan."
+
+#: includes/replies/template.php:2201
+msgctxt "Pending Status"
+msgid "Approve"
+msgstr "Setujui"
+
+#: includes/replies/template.php:2202
+msgctxt "Pending Status"
+msgid "Unapprove"
+msgstr "Jangan setujui"
+
+#: includes/admin/topics.php:133
+msgid "You can view topics in a simple title list or with an excerpt. Choose the view you prefer by clicking on the icons at the top of the list on the right."
+msgstr "Anda dapat melihat topik dalam daftar judul yang sederhana atau dengan kutipan. Pilih tampilan yang Anda inginkan dengan mengklik ikon di bagian atas daftar di sebelah kanan."
+
+#: includes/admin/topics.php:134
+msgid "You can refine the list to show only topics in a specific forum or from a specific month by using the dropdown menus above the topics list. Click the Filter button after making your selection."
+msgstr "Anda dapat menyaring daftar untuk hanya menampilkan topik dari forum tertentu atau dari bulan tertentu menggunakan menu jatuh-turun di atas daftar topik. Klik tombol Saring setelah menentukan pilihan Anda."
+
+#: includes/replies/functions.php:1655
+msgctxt "Trash the reply"
+msgid "Trash"
+msgstr "Buang"
+
+#: includes/replies/functions.php:1654
+msgctxt "Spam the reply"
+msgid "Spam"
+msgstr "Spam"
+
+#: includes/replies/functions.php:1653
+msgctxt "Publish the reply"
+msgid "Publish"
+msgstr "Terbitkan"
+
+#: includes/common/template.php:2720
+msgid "Your Favorites"
+msgstr "Daftar Faforit Anda"
+
+#: includes/common/template.php:2700
+msgid "Your Topics"
+msgstr "Daftar Topik Anda"
+
+#: includes/common/template.php:2710
+msgid "Your Replies"
+msgstr "Daftar Balasan Anda"
+
+#: includes/common/template.php:2730
+msgid "Your Subscriptions"
+msgstr "Daftar Berlangganan Anda"
+
+#: includes/common/functions.php:402 includes/common/functions.php:460
+msgid "Pending: %s"
+msgstr "Tertunda: %s"
+
+#: includes/users/template.php:2375
+msgid "Moderators:"
+msgstr "Para Moderator:"
+
+#: includes/users/template.php:1419
+msgid "There is a pending email address change to %1$s. %2$s"
+msgstr "Ada perubahan alamat email yang tertunda ke %1$s. %2$s"
+
+#: includes/users/template.php:1414
+msgctxt "Dismiss pending user email address change"
+msgid "Cancel"
+msgstr "Batalkan"
+
+#: includes/common/widgets.php:651
+msgid "A list of recent topics, sorted by: newness, popularity, or recent replies."
+msgstr "Daftar topik terbaru, disortir menurut: kebaruan, popularitas, atau balasan terbaru."
+
+#. translators: user's display name
+#: includes/common/template.php:2704
+msgid "%s's Topics"
+msgstr "Topik %s"
+
+#: includes/common/template.php:2740
+msgid "Your Profile"
+msgstr "Riwayat Anda"
+
+#: templates/default/bbpress/form-topic.php:127
+#: includes/extend/buddypress/groups.php:487 includes/admin/metaboxes.php:445
+msgid "&mdash; No forum &mdash;"
+msgstr "&mdash; Belum ada forum &mdash;"
+
+#: templates/default/bbpress/form-topic.php:100
+msgid "You may use these %s tags and attributes:"
+msgstr "Anda boleh menggunakan tag dan atribut %s ini:"
+
+#: includes/users/functions.php:418
+msgid ""
+"%1$s\n"
+"\n"
+"Someone requested a change to the email address on your account.\n"
+"\n"
+"Please click the following link to confirm this change:\n"
+"%2$s\n"
+"\n"
+"If you did not request this, you can safely ignore and delete this notification.\n"
+"\n"
+"This email was sent to: %3$s\n"
+"\n"
+"Regards,\n"
+"The %4$s Team\n"
+"%5$s"
+msgstr ""
+"%1$s\n"
+"\n"
+"Seseorang meminta perubahan alamat email untuk akun Anda.\n"
+"\n"
+"Silakan klik tautan berikut untuk mengonfirmasi perubahan ini:\n"
+"%2$s\n"
+"\n"
+"Jika Anda tidak menginginkan perubahan ini, cukup abaikan dan hapus notifikasi ini.\n"
+"\n"
+"Email ini dikirimkan ke: %3$s\n"
+"\n"
+"Hormat kami,\n"
+"Tim %4$s \n"
+"%5$s"
+
+#: includes/users/functions.php:453
+msgid "[%s] New Email Address"
+msgstr "[%s] Alamat Email Baru"
+
+#: templates/default/bbpress/form-topic-tag.php:50
+msgid "Description:"
+msgstr "Deskripsi:"
+
+#: templates/default/bbpress/loop-topics.php:24
+#: templates/default/bbpress/loop-forums.php:26 includes/admin/topics.php:860
+#: includes/admin/forums.php:543
+msgid "Last Post"
+msgstr "Pos Terakhir"
+
+#: templates/default/bbpress/form-forum.php:101
+msgid "Forum Moderators:"
+msgstr "Para Moderator Forum:"
+
+#: templates/default/bbpress/loop-single-topic.php:70
+msgid "in: %1$s"
+msgstr "di: %1$s"
+
+#: templates/default/bbpress/form-topic-split.php:48
+#: templates/default/bbpress/form-reply-move.php:48
+msgid "New topic in %s titled:"
+msgstr "Topik baru di %s berjudul:"
+
+#: templates/default/bbpress/form-reply.php:138
+msgid "Reply Status:"
+msgstr "Status Balasan:"
+
+#: templates/default/bbpress/form-topic-merge.php:40
+msgid "Replies to both topics are merged chronologically, ordered by the time and date they were published. Topics may be updated to a 1 second difference to maintain chronological order based on the merge direction."
+msgstr "Balasan bagi kedua topik akan digabungkan secara kronologis, diurutkan berdasarkan waktu dan tanggal terbitnya. Topik-topik mungkin akan dimutakhirkan dengan selisih 1 detik untuk memastikan urutan kronologis berdasarkan arah penggabungan."
+
+#: templates/default/bbpress/form-reply.php:30
+msgid "Reply #%1$s in %2$s"
+msgstr "Balasan #%1$s di %2$s"
+
+#. Author of the plugin
+msgid "The bbPress Contributors"
+msgstr "Kontributor bbPress"
+
+#. translators: user role
+#: includes/common/locale.php:56
+msgctxt "User role"
+msgid "Blocked"
+msgstr "Diblokir"
+
+#. translators: user role
+#: includes/common/locale.php:47
+msgctxt "User role"
+msgid "Moderator"
+msgstr "Moderator"
+
+#. translators: user role
+#: includes/common/locale.php:44
+msgctxt "User role"
+msgid "Keymaster"
+msgstr "Keymaster"
+
+#. translators: user role
+#: includes/common/locale.php:50
+msgctxt "User role"
+msgid "Participant"
+msgstr "Peserta"
+
+#. translators: user role
+#: includes/common/locale.php:53
+msgctxt "User role"
+msgid "Spectator"
+msgstr "Penonton"
+
+#. Plugin Name of the plugin
+msgid "bbPress"
+msgstr "bbPress"
+
+#. Description of the plugin
+msgid "bbPress is forum software with a twist from the creators of WordPress."
+msgstr "bbPress merupakan peranti lunak forum dengan sentuhan khusus dari para pencipta WordPress."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://bbpress.org"
+msgstr "https://bbpress.org"
+
+#: templates/default/bbpress/form-reply.php:200
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr "Topik &#8216;%s&#8217; ditutup untuk balasan baru."
+
+#: includes/common/widgets.php:605 includes/common/widgets.php:875
+msgid "Parent Forum ID:"
+msgstr "ID Forum Induk:"
+
+#: includes/common/widgets.php:180
+msgid "Register URI:"
+msgstr "URI Pendaftaran:"
+
+#: templates/default/bbpress/form-forum.php:36
+#: templates/default/bbpress/form-topic.php:44
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "Sedang Menyunting &ldquo;%s&rdquo;"
+
+#: includes/common/widgets.php:185
+msgid "Lost Password URI:"
+msgstr "URI Kehilangan Kata Sandi:"
+
+#: includes/common/widgets.php:611 includes/common/widgets.php:881
+msgid "\"0\" to show only root - \"any\" to show all"
+msgstr "\"0\" untuk menampilkan akar saja - \"any\" untuk menampilkan semuanya"
+
+#: templates/default/bbpress/form-topic.php:47
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "Ciptakan Topik Baru di &ldquo;%s&rdquo;"
+
+#: includes/extend/buddypress/functions.php:779
+#: includes/extend/buddypress/activity.php:452
+msgid "%1$s started the topic %2$s in the forum %3$s"
+msgstr "%1$s memulai topik %2$s di forum %3$s"
+
+#: templates/default/bbpress/form-reply.php:210
+#: templates/default/bbpress/form-topic.php:237
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "Forum &#8216;%s&#8217; tertutup dari topik dan balasan baru."
+
+#: includes/extend/buddypress/functions.php:780
+#: includes/extend/buddypress/activity.php:590
+msgid "%1$s replied to the topic %2$s in the forum %3$s"
+msgstr "%1$s membalas topik %2$s di forum %3$s"
+
+#: templates/default/bbpress/feedback-logged-in.php:17
+msgid "You are already logged in."
+msgstr "Anda sudah log masuk."
+
+#: templates/default/bbpress/form-topic.php:85
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "Judul Topik (Panjang Maksimum: %d):"
+
+#: includes/forums/template.php:51 includes/admin/tools/reset.php:34
+msgid "All Forums"
+msgstr "Semua Forum"
+
+#: includes/topics/template.php:3394
+msgid "View Topic Tag"
+msgstr "Lihat Tag Topik"
+
+#: templates/default/bbpress/form-reply.php:58
+#: templates/default/bbpress/form-forum.php:62
+#: templates/default/bbpress/form-topic.php:70
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "Akun Anda memiliki kemampuan untuk mengirim konten HTML tanpa pembatasan."
+
+#: includes/common/template.php:2348
+msgid "&lsaquo;"
+msgstr "&lsaquo;"
+
+#: includes/extend/akismet.php:582 includes/extend/akismet.php:605
+msgid "Post status was changed to %s"
+msgstr "Status tulisan diubah menjadi %s"
+
+#: includes/common/template.php:2253
+msgid "Home"
+msgstr "Beranda"
+
+#: includes/extend/akismet.php:573
+msgid "Akismet caught this post as spam"
+msgstr "Akismet menangkap tulisan ini sebagai spam"
+
+#: includes/common/template.php:2348
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#. translators: 1: reporter name, 2: comment type
+#: includes/extend/akismet.php:388
+msgid "%1$s reported this %2$s as not spam"
+msgstr "%1$s melaporkan %2$s bukan sebagai spam"
+
+#. translators: 1: reporter name, 2: comment type
+#: includes/extend/akismet.php:363
+msgid "%1$s reported this %2$s as spam"
+msgstr "%1$s melaporkan %2$s sebagai spam"
+
+#: includes/extend/akismet.php:619
+msgid "Akismet was unable to check this post (response: %s), will automatically retry again later."
+msgstr "Akismet tidak mampu memeriksa tulisan ini (respon: %s), akan coba lagi secara otomatis beberapa saat nanti."
+
+#: includes/common/functions.php:410 includes/common/functions.php:468
+msgid "Spammed: %s"
+msgstr "Spam: %s"
+
+#: includes/common/functions.php:464
+msgid "Private: %s"
+msgstr "Privat: %s"
+
+#: includes/admin/topics.php:143
+msgid "Hovering over a row in the topics list will display action links that allow you to manage your topic. You can perform the following actions:"
+msgstr "Melayang di atas satu baris dalam daftar topik akan menampilkan taut tindakan yang memungkinkan Anda untuk mengelola topik Anda. Anda dapat melakukan tindakan-tindakan berikut:"
+
+#: includes/admin/topics.php:204 includes/admin/topics.php:341
+#: includes/topics/template.php:67
+msgid "Topic Attributes"
+msgstr "Atribut-atribut Topik"
+
+#: includes/admin/topics.php:713
+msgid "There was a problem opening the topic \"%1$s\"."
+msgstr "Ada masalah ketika membuka topik \"%1$s\"."
+
+#: includes/admin/topics.php:714
+msgid "Topic \"%1$s\" successfully opened."
+msgstr "Topik \"%1$s\" berhasil dibuka."
+
+#: includes/admin/topics.php:719
+msgid "There was a problem closing the topic \"%1$s\"."
+msgstr "Ada masalah ketika menutup topik \"%1$s\"."
+
+#: includes/admin/topics.php:720
+msgid "Topic \"%1$s\" successfully closed."
+msgstr "Topik \"%1$s\" berhasil ditutup."
+
+#: includes/admin/topics.php:725
+msgid "There was a problem sticking the topic \"%1$s\" to front."
+msgstr "Ada masalah ketika menempelkan topik \"%1$s\" ke depan."
+
+#: includes/admin/topics.php:731
+msgid "There was a problem sticking the topic \"%1$s\"."
+msgstr "Ada masalah ketika menempelkan topik \"%1$s\"."
+
+#: includes/admin/topics.php:737
+msgid "There was a problem unsticking the topic \"%1$s\"."
+msgstr "Ada masalah ketika mencabut topik tempelan \"%1$s\"."
+
+#: includes/admin/topics.php:743
+msgid "There was a problem marking the topic \"%1$s\" as spam."
+msgstr "Ada masalah yang menandai topik \"%1$s\" sebagai spam."
+
+#: includes/admin/topics.php:744
+msgid "Topic \"%1$s\" successfully marked as spam."
+msgstr "Topik \"%1$s\" berhasil ditandai sebagai spam."
+
+#: includes/admin/topics.php:749
+msgid "There was a problem unmarking the topic \"%1$s\" as spam."
+msgstr "Ada masalah mencabut topik \"%1$s\" dari penandaan spam."
+
+#: includes/admin/topics.php:750
+msgid "Topic \"%1$s\" successfully unmarked as spam."
+msgstr "Topik \"%1$s\" berhasil dicabut dari penandaan spam."
+
+#: includes/admin/topics.php:1002
+msgid "Close this topic"
+msgstr "Tutup topik ini"
+
+#: includes/admin/topics.php:1004
+msgid "Open this topic"
+msgstr "Buka topik ini"
+
+#: includes/admin/topics.php:1013
+msgid "Unstick this topic"
+msgstr "Cabut topik ini dari tempelan"
+
+#: includes/admin/topics.php:1016
+msgid "Stick this topic to its forum"
+msgstr "Tempel topik ini ke forumnya"
+
+#: includes/admin/topics.php:1016
+msgid "Stick this topic to front"
+msgstr "Tempel topik ini ke depan"
+
+#: includes/admin/topics.php:1025
+msgid "Mark the topic as not spam"
+msgstr "Tandai topik ini sebagai bukan spam"
+
+#: includes/admin/topics.php:1023
+msgid "Mark this topic as spam"
+msgstr "Tandai topik ini sebagai spam"
+
+#: includes/admin/topics.php:1175 includes/admin/topics.php:1187
+#: includes/topics/template.php:78
+msgid "Topic updated."
+msgstr "Topik diperbarui."
+
+#. translators: %s: date and time of the revision
+#: includes/admin/topics.php:1192
+msgid "Topic restored to revision from %s"
+msgstr "Topik dikembalikan ke revisi dari %s"
+
+#: includes/admin/topics.php:1204
+msgid "Topic saved."
+msgstr "Topik disimpan."
+
+#: templates/default/bbpress/form-user-passwords.php:17
+#: templates/default/bbpress/form-user-login.php:25
+#: includes/common/widgets.php:89
+msgid "Password"
+msgstr "Kata sandi"
+
+#: templates/default/bbpress/form-user-login.php:31
+#: includes/common/widgets.php:95
+msgid "Keep me signed in"
+msgstr "Biarkan tetap ter-log masuk"
+
+#: templates/default/bbpress/form-user-passwords.php:42
+msgid "Type your new password again."
+msgstr "Ketika kata sandi baru Anda kembali."
+
+#: templates/default/bbpress/form-user-edit.php:32
+msgid "Last Name"
+msgstr "Nama Keluarga"
+
+#: templates/default/bbpress/form-user-edit.php:27
+msgid "First Name"
+msgstr "Nama Depan"
+
+#: templates/default/bbpress/form-reply.php:153
+#: templates/default/bbpress/form-topic.php:194
+msgid "Keep a log of this edit:"
+msgstr "Simpanlah log untuk suntingan ini:"
+
+#: includes/admin/topics.php:1016 includes/topics/template.php:2688
+msgid "Stick"
+msgstr "Tempel"
+
+#: templates/default/bbpress/form-topic-split.php:44
+msgid "Split Method"
+msgstr "Metode Pemisah"
+
+#: templates/default/bbpress/form-user-edit.php:107
+#: templates/default/bbpress/form-user-register.php:29
+#: templates/default/bbpress/form-user-login.php:20
+#: includes/common/widgets.php:84
+msgid "Username"
+msgstr "Nama pengguna"
+
+#: templates/default/bbpress/form-topic-split.php:39
+msgid "If you use the existing topic option, replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted."
+msgstr "Jika Anda menggunakan pilihan topik yang ada, balasan dalam kedua topik akan digabung secara kronologis. Urutan balasan yang digabung didasarkan pada waktu dan tanggal mereka diposkan."
+
+#: templates/default/bbpress/form-topic-tag.php:110
+msgid "Any links to this tag will no longer function."
+msgstr "Setiap taut ke tag ini tidak akan berfungsi lagi."
+
+#: templates/default/bbpress/form-reply.php:157
+#: templates/default/bbpress/form-topic.php:198
+msgid "Optional reason for editing:"
+msgstr "Alasan opsional untuk menyunting:"
+
+#: includes/common/widgets.php:175 includes/common/widgets.php:320
+#: includes/common/widgets.php:437 includes/common/widgets.php:599
+#: includes/common/widgets.php:871 includes/common/widgets.php:1015
+#: includes/common/widgets.php:1218
+msgid "Title:"
+msgstr "Judul:"
+
+#: templates/default/bbpress/form-topic-split.php:107
+#: templates/default/bbpress/form-reply.php:176
+#: templates/default/bbpress/form-topic-merge.php:103
+#: templates/default/bbpress/form-forum.php:159
+#: templates/default/bbpress/form-reply-move.php:81
+#: templates/default/bbpress/form-topic.php:213
+msgid "Submit"
+msgstr "Kirim"
+
+#: templates/default/bbpress/form-user-lost-pass.php:21
+msgid "Username or Email"
+msgstr "Nama pengguna atau Surel"
+
+#: templates/default/bbpress/form-user-lost-pass.php:17
+#: includes/common/widgets.php:120
+msgid "Lost Password"
+msgstr "Kehilangan Kata sandi"
+
+#: templates/default/bbpress/form-reply.php:222
+msgid "You must be logged in to reply to this topic."
+msgstr "Anda harus log masuk untuk membalas topik ini."
+
+#: templates/default/bbpress/form-topic-tag.php:117
+msgid "Are you sure you want to delete the \"%s\" tag? This is permanent and cannot be undone."
+msgstr "Apakah Anda yakin ingin menghapus tag \"%s\"? Ini bersifat permanen dan tidak dapat dibatalkan."
+
+#: templates/default/bbpress/form-topic-split.php:76
+#: templates/default/bbpress/form-topic-merge.php:72
+msgid "Topic Extras"
+msgstr "Tambahan Topik"
+
+#: templates/default/bbpress/form-topic-split.php:49
+msgid "Split: %s"
+msgstr "Pisah:%s"
+
+#: templates/default/bbpress/form-topic-split.php:56
+#: templates/default/bbpress/form-reply-move.php:56
+msgid "Use an existing topic in this forum:"
+msgstr "Gunakan topik yang sudah ada di forum ini:"
+
+#: templates/default/bbpress/loop-single-topic.php:62
+msgid "Started by: %1$s"
+msgstr "Dimulai oleh: %1$s"
+
+#: templates/default/bbpress/loop-topics.php:19 includes/admin/topics.php:857
+msgid "Voices"
+msgstr "Suara-suara"
+
+#: templates/default/bbpress/form-user-edit.php:99
+#: templates/default/bbpress/form-user-edit.php:102
+msgid "Account"
+msgstr "Akun"
+
+#: templates/default/bbpress/form-user-edit.php:37
+msgid "Nickname"
+msgstr "Julukan"
+
+#: templates/default/bbpress/form-user-edit.php:52
+#: templates/default/bbpress/form-user-edit.php:55
+msgid "Contact Info"
+msgstr "Info Kontak"
+
+#: templates/default/bbpress/form-user-edit.php:78
+#: templates/default/bbpress/form-user-edit.php:84
+msgid "About Yourself"
+msgstr "Mengenai Diri Anda"
+
+#: templates/default/bbpress/form-user-edit.php:79
+#: templates/default/bbpress/form-user-edit.php:85
+msgid "About the user"
+msgstr "Tentang pengguna ini"
+
+#: templates/default/bbpress/form-user-edit.php:91
+msgid "Biographical Info"
+msgstr "Info Biografis"
+
+#: includes/common/template.php:2323
+msgid "(Edit)"
+msgstr "(Sunting)"
+
+#: includes/common/functions.php:414 includes/common/functions.php:472
+msgid "Trashed: %s"
+msgstr "Dibuang: %s"
+
+#: templates/default/bbpress/form-reply.php:112
+#: templates/default/bbpress/form-topic.php:178
+msgid "Notify me of follow-up replies via email"
+msgstr "Beritahu saya mengenai tindak lanjut balasan lewat surel"
+
+#: templates/default/bbpress/form-reply.php:108
+#: templates/default/bbpress/form-topic.php:174
+msgid "Notify the author of follow-up replies via email"
+msgstr "Beritahu penulis mengenai tindak lanjut balasan lewat surel"
+
+#: templates/default/bbpress/form-topic.php:143
+msgid "Topic Type:"
+msgstr "Tipe Topik:"
+
+#: templates/default/bbpress/form-topic.php:111
+msgid "Topic Tags:"
+msgstr "Tag Topik:"
+
+#: templates/default/bbpress/form-reply.php:79
+#: templates/default/bbpress/form-forum.php:90
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr "Anda dapat menggunakan tag dan atribut <abbr title=\"HyperText Markup Language\">HTML</abbr> berikut ini:"
+
+#: templates/default/extras/page-forum-statistics.php:34
+#: includes/common/widgets.php:891
+msgid "Popular Topics"
+msgstr "Topik Populer"
+
+#: templates/default/bbpress/content-statistics.php:67
+msgid "Hidden Replies"
+msgstr "Balasan Tersembunyi"
+
+#: templates/default/bbpress/content-statistics.php:56
+msgid "Hidden Topics"
+msgstr "Topik Tersembunyi"
+
+#: templates/default/bbpress/content-statistics.php:47
+msgid "Empty Topic Tags"
+msgstr "Tag Topik Kosong"
+
+#: templates/default/bbpress/content-statistics.php:20
+msgid "Registered Users"
+msgstr "Pengguna Terdaftar"
+
+#: includes/topics/template.php:3397
+msgid "New Tag Name"
+msgstr "Nama Tag Baru"
+
+#: includes/topics/template.php:3396
+msgid "Add New Tag"
+msgstr "Tambah Tag Baru"
+
+#: includes/topics/template.php:3390
+msgid "All Tags"
+msgstr "Semua Tag"
+
+#: includes/topics/template.php:3393
+msgid "Edit Tag"
+msgstr "Sunting Tag"
+
+#: includes/topics/template.php:3388
+msgid "Search Tags"
+msgstr "Cari Tag"
+
+#: includes/topics/template.php:3395
+msgid "Update Tag"
+msgstr "Perbarui Tag"
+
+#: includes/topics/template.php:3389
+msgid "Popular Tags"
+msgstr "Tag Populer"
+
+#: templates/default/bbpress/content-statistics.php:40
+#: includes/admin/tools/common.php:443 includes/topics/template.php:3385
+#: includes/topics/template.php:3386
+msgid "Topic Tags"
+msgstr "Tag Topik"
+
+#: includes/replies/template.php:63
+msgid "No replies found in Trash"
+msgstr "Tidak ada balasan ditemukan di Sampah"
+
+#: includes/replies/template.php:62
+msgid "No replies found"
+msgstr "Tiada balasan ditemukan"
+
+#: includes/replies/template.php:61
+msgid "Search Replies"
+msgstr "Cari Balasan"
+
+#: includes/replies/template.php:58 includes/replies/template.php:59
+msgid "View Reply"
+msgstr "Lihat Balasan"
+
+#: includes/replies/template.php:56
+msgid "Edit Reply"
+msgstr "Sunting Balasan"
+
+#: includes/replies/template.php:57
+msgid "New Reply"
+msgstr "Balasan Baru"
+
+#: includes/replies/template.php:54
+msgid "Create New Reply"
+msgstr "Ciptakan Balasan Baru"
+
+#: includes/forums/template.php:56
+msgid "New Forum"
+msgstr "Forum Baru"
+
+#: templates/default/bbpress/form-forum.php:40 includes/forums/template.php:53
+msgid "Create New Forum"
+msgstr "Ciptakan Forum Baru"
+
+#: templates/default/bbpress/user-details.php:74
+#: includes/forums/template.php:54 includes/common/template.php:2331
+#: includes/replies/template.php:55 includes/replies/template.php:1849
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:149
+#: includes/admin/settings.php:392 includes/topics/template.php:53
+#: includes/topics/template.php:2403
+msgid "Edit"
+msgstr "Sunting"
+
+#: includes/forums/template.php:55
+msgid "Edit Forum"
+msgstr "Sunting Forum"
+
+#: includes/forums/template.php:57 includes/forums/template.php:58
+msgid "View Forum"
+msgstr "Lihat Forum"
+
+#: includes/forums/template.php:60 includes/common/widgets.php:454
+msgid "Search Forums"
+msgstr "Cari Forum"
+
+#: includes/forums/template.php:61
+msgid "No forums found"
+msgstr "Tidak menemukan forum"
+
+#: includes/forums/template.php:62
+msgid "No forums found in Trash"
+msgstr "Tidak ada forum yang ditemukan di Sampah"
+
+#: templates/default/bbpress/form-forum.php:139 includes/forums/template.php:66
+msgid "Parent Forum:"
+msgstr "Induk Forum:"
+
+#: includes/topics/template.php:55
+msgid "New Topic"
+msgstr "Topik Baru"
+
+#: templates/default/bbpress/form-topic.php:48 includes/topics/template.php:52
+msgid "Create New Topic"
+msgstr "Ciptakan Topik Baru"
+
+#: includes/topics/template.php:54
+msgid "Edit Topic"
+msgstr "Sunting Topik"
+
+#: includes/topics/template.php:56 includes/topics/template.php:57
+msgid "View Topic"
+msgstr "Lihat Topik"
+
+#: includes/topics/template.php:59
+msgid "Search Topics"
+msgstr "Cari Topik"
+
+#: includes/topics/template.php:60
+msgid "No topics found"
+msgstr "Tidak menemukan topik"
+
+#: includes/topics/template.php:61
+msgid "No topics found in Trash"
+msgstr "Tidak menemukan topik di Sampah"
+
+#: templates/default/bbpress/form-topic-split.php:33
+msgid "When you split a topic, you are slicing it in half starting with the reply you just selected. Choose to use that reply as a new topic with a new title, or merge those replies into an existing topic."
+msgstr "Ketika Anda memisahkan topik, Anda mengirisnya menjadi dua dimulai dari balasan yang baru saja Anda pilih. Memilih untuk menggunakan balasan tadi sebagai sebuah topik baru dengan judul baru, atau menggabungkan balasan tadi ke topik yang sudah ada."
+
+#: templates/default/bbpress/form-topic-split.php:27
+msgid "Split topic \"%s\""
+msgstr "Pisah topik \"%s\""
+
+#: templates/default/bbpress/form-user-edit.php:168
+msgid "Update User"
+msgstr "Perbarui Pengguna"
+
+#: templates/default/bbpress/form-user-edit.php:144
+msgid "Grant this user super admin privileges for the Network."
+msgstr "Berikan pengguna ini hak akses admin super untuk Jaringan tersebut."
+
+#: includes/replies/template.php:1988 includes/topics/template.php:2538
+msgid "Are you sure you want to delete that permanently?"
+msgstr "Apakah Anda yakin ingin menghapusnya secara permanen?"
+
+#: templates/default/bbpress/form-user-register.php:17
+msgid "Create an Account"
+msgstr "Ciptakan sebuah Akun"
+
+#: templates/default/bbpress/form-user-register.php:23
+msgid "Your username must be unique, and cannot be changed later."
+msgstr "Nama pengguna Anda haruslah unik, dan tidak dapat diubah-ubah kembali."
+
+#: templates/default/bbpress/form-user-register.php:24
+msgid "We use your email address to email you a secure password and verify your account."
+msgstr "Kami gunakan alamat surel (surat elektronik / e-mail) Anda untuk mengirimkan surel yang berisi kata sandi yang aman untuk melakukan verifikasi akun Anda."
+
+#: templates/default/bbpress/form-user-register.php:42
+#: includes/common/widgets.php:114
+msgid "Register"
+msgstr "Daftar"
+
+#: templates/default/extras/taxonomy-topic-tag.php:17
+#: templates/default/extras/taxonomy-topic-tag-edit.php:17
+#: includes/common/template.php:2327 includes/common/template.php:2442
+#: includes/common/template.php:2687 includes/core/theme-compat.php:804
+msgid "Topic Tag: %s"
+msgstr "Tag Topik: %s"
+
+#: includes/replies/template.php:2145
+msgid "Split the topic from this reply"
+msgstr "Pisahkan topik mulai dari balasan ini"
+
+#: includes/replies/template.php:2144
+msgid "Split"
+msgstr "Pisah"
+
+#: includes/replies/template.php:2030 includes/admin/topics.php:238
+#: includes/admin/replies.php:233 includes/topics/template.php:2808
+msgid "Unspam"
+msgstr "Lepaskan tanda spam"
+
+#: includes/common/template.php:1157
+msgid "Conditional query tags do not work before the query is run. Before then, they always return false."
+msgstr "Tag kueri bersyarat tidak akan bekerja sebelum kueri dijalankan. Sebelum itu, mereka akan selalu mengembalikan jawaban <em>false</em>."
+
+#: includes/users/template.php:1279 includes/forums/template.php:833
+#: includes/topics/template.php:1781
+msgid "Subscribe"
+msgstr "Berlangganan"
+
+#: includes/users/template.php:1280 includes/forums/template.php:834
+#: includes/topics/template.php:1782
+msgid "Unsubscribe"
+msgstr "Berhenti berlangganan"
+
+#: templates/default/bbpress/feedback-no-access.php:16
+msgid "Private"
+msgstr "Privat"
+
+#: templates/default/bbpress/feedback-no-access.php:20
+msgid "You do not have permission to view this forum."
+msgstr "Anda tidak memiliki izin untuk melihat forum ini."
+
+#: templates/default/bbpress/form-topic-split.php:83
+msgid "Copy subscribers to the new topic"
+msgstr "Salin pelanggan ke topik baru"
+
+#: templates/default/bbpress/form-topic-split.php:88
+msgid "Copy favoriters to the new topic"
+msgstr "Salin para penggemar ke topik baru"
+
+#: templates/default/bbpress/form-topic-split.php:93
+msgid "Copy topic tags to the new topic"
+msgstr "Salin tag topik ke topik baru"
+
+#: templates/default/bbpress/form-topic-split.php:122
+#: templates/default/bbpress/form-topic-merge.php:118
+msgid "You cannot edit this topic."
+msgstr "Anda tidak dapat menyunting topik ini."
+
+#: templates/default/bbpress/form-topic-merge.php:27
+msgid "Merge topic \"%s\""
+msgstr "Gabungkan topik \"%s\""
+
+#: templates/default/bbpress/form-topic-merge.php:33
+msgid "Select the topic to merge this one into. The destination topic will remain the lead topic, and this one will change into a reply."
+msgstr "Pilih topik yang ingin digabungkan menjadi satu ini dengan yang ini. Topik tujuan akan tetap menjadi topik utama, dan yang ini akan berubah menjadi balasan."
+
+#: templates/default/bbpress/form-topic-merge.php:34
+msgid "To keep this topic as the lead, go to the other topic and use the merge tool from there instead."
+msgstr "Untuk membiarkan topik ini sebagai topik utama, pergi ke topik satunya lagi dan gunakan perkakas penggabungan dari sana."
+
+#: templates/default/bbpress/form-topic-merge.php:45
+msgid "Destination"
+msgstr "Tujuan"
+
+#: templates/default/bbpress/form-topic-merge.php:49
+msgid "Merge with this topic:"
+msgstr "Gabungkan dengan topik ini:"
+
+#: templates/default/bbpress/form-topic-merge.php:64
+msgid "There are no other topics in this forum to merge with."
+msgstr "Tidak menemukan topik lain pada forum ini yang dapat digabungkan."
+
+#: templates/default/bbpress/form-topic-merge.php:79
+msgid "Merge topic subscribers"
+msgstr "Gabungkan para pelanggan topik"
+
+#: templates/default/bbpress/form-topic-merge.php:84
+msgid "Merge topic favoriters"
+msgstr "Gabungkan para penggemar topik"
+
+#: templates/default/bbpress/form-topic-merge.php:89
+msgid "Merge topic tags"
+msgstr "Gabungkan tag-tag topik"
+
+#: includes/topics/template.php:2195
+msgid "Tagged:"
+msgstr "Di-tag:"
+
+#: includes/forums/template.php:2001 includes/topics/template.php:2016
+msgid "%s reply"
+msgid_plural "%s replies"
+msgstr[0] "%s balasan"
+msgstr[1] "%s balasan"
+
+#: includes/admin/topics.php:935 includes/topics/template.php:1988
+msgid "No Replies"
+msgstr "Tidak ada Balasan"
+
+#: includes/common/widgets.php:1219
+msgid "Maximum replies to show:"
+msgstr "Jumlah balasan terbanyak untuk ditampilkan:"
+
+#: includes/common/widgets.php:884 includes/common/widgets.php:1220
+msgid "Show post date:"
+msgstr "Tampilkan tanggal tulisan:"
+
+#: includes/common/widgets.php:872
+msgid "Maximum topics to show:"
+msgstr "Jumlah maksimum topik untuk ditampilkan:"
+
+#: includes/users/template.php:2006 includes/replies/template.php:1197
+#: includes/topics/template.php:1430
+msgid "Visit %s's website"
+msgstr "Kunjungi situs web %s"
+
+#: templates/default/bbpress/form-reply.php:221
+msgid "You cannot reply to this topic."
+msgstr "Anda tidak dapat membalas topik ini."
+
+#: templates/default/bbpress/form-reply.php:90
+msgid "Tags:"
+msgstr "Tag:"
+
+#: templates/default/bbpress/form-topic.php:249
+msgid "You must be logged in to create new topics."
+msgstr "Anda harus log masuk untuk membuat topik baru."
+
+#: templates/default/bbpress/form-anonymous.php:28
+msgid "Mail (will not be published) (required):"
+msgstr "Surat elektronik (tidak akan dipublikasikan) (wajib):"
+
+#: templates/default/bbpress/form-anonymous.php:23
+msgid "Name (required):"
+msgstr "Nama (wajib):"
+
+#: templates/default/bbpress/form-anonymous.php:18
+msgid "Your information:"
+msgstr "Informasi Anda:"
+
+#: templates/default/bbpress/form-topic-tag.php:19
+msgid "Manage Tag: \"%s\""
+msgstr "Atur Tag: \"%s\""
+
+#: templates/default/bbpress/form-protected.php:17
+msgid "Protected"
+msgstr "Terproteksi"
+
+#: templates/default/bbpress/form-topic-tag.php:23
+msgid "Rename"
+msgstr "Ubah nama"
+
+#: templates/default/bbpress/form-topic-tag.php:27
+msgid "Leave the slug empty to have one automatically generated."
+msgstr "Biarkan slug kosong agar dihasilkan secara otomatis."
+
+#: templates/default/bbpress/form-topic-tag.php:33
+msgid "Changing the slug affects its permalink. Any links to the old slug will stop working."
+msgstr "Mengubah slug mempengaruhi permalink-nya. Setiap taut ke slug lama tidak akan berfungsi."
+
+#: templates/default/bbpress/form-topic-tag.php:109
+msgid "Deleting a tag cannot be undone."
+msgstr "Menghapus tag tidak dapat dibalikkan."
+
+#: templates/default/bbpress/form-topic-tag.php:104
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr "Ini tidak akan menghapus topik Anda. Hanya tag-nya saja yang akan dihapus."
+
+#: templates/default/bbpress/form-topic-tag.php:100
+#: templates/default/bbpress/form-topic-tag.php:117
+#: includes/replies/template.php:1963 includes/topics/template.php:2517
+msgid "Delete"
+msgstr "Hapus"
+
+#: templates/default/bbpress/form-topic-tag.php:85
+msgid "Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr "Apakah Anda yakin ingin menggabungkan tag \"%s\" ke dalam tag yang Anda tentukan?"
+
+#: templates/default/bbpress/form-topic-tag.php:80
+msgid "Existing tag:"
+msgstr "Tag yang sudah ada:"
+
+#: templates/default/bbpress/form-topic-tag.php:73
+msgid "Merging tags together cannot be undone."
+msgstr "Penggabungan tag tidak dapat dibalikkan."
+
+#: templates/default/bbpress/form-topic-tag.php:69
+#: templates/default/bbpress/form-topic-tag.php:85
+#: includes/topics/template.php:2756
+msgid "Merge"
+msgstr "Gabungkan"
+
+#: templates/default/bbpress/form-topic-tag.php:55
+msgid "Update"
+msgstr "Perbarui"
+
+#: templates/default/bbpress/form-topic-tag.php:45
+msgid "Slug:"
+msgstr "Slug:"
+
+#: includes/admin/topics.php:1013 includes/topics/template.php:2689
+msgid "Unstick"
+msgstr "Cabut tempelan"
+
+#: includes/topics/template.php:3056
+msgid "This topic is marked as spam."
+msgstr "Topik ini ditandai sebagai spam."
+
+#: includes/topics/template.php:3061
+msgid "This topic is in the trash."
+msgstr "Topik ini ada di tempat sampah."
+
+#: includes/topics/template.php:3316
+msgid "%s voice"
+msgid_plural "%s voices"
+msgstr[0] "%s suara"
+msgstr[1] "%s suara"
+
+#: includes/common/template.php:1629
+msgid "No topics available"
+msgstr "Tidak ada topik yang tersedia"
+
+#: includes/common/template.php:1634
+msgid "No forums available"
+msgstr "Tidak ada forum yang tersedia"
+
+#: includes/common/template.php:1639
+msgid "None available"
+msgstr "Tidak ada"
+
+#: templates/default/bbpress/form-reply.php:30
+#: includes/replies/template.php:552
+msgid "Reply To: %s"
+msgstr "Balasan Untuk: %s"
+
+#: includes/common/template.php:2673
+msgid "Forum: %s"
+msgstr "Forum: %s"
+
+#: includes/common/template.php:2678
+msgid "Topic: %s"
+msgstr "Topik: %s"
+
+#: includes/common/template.php:2766
+msgid "View: %s"
+msgstr "Tampilan: %s"
+
+#: includes/replies/functions.php:2134
+msgid "All Posts"
+msgstr "Semua Tulisan"
+
+#: includes/replies/functions.php:2136 includes/replies/template.php:52
+#: includes/admin/tools/reset.php:36
+msgid "All Replies"
+msgstr "Semua Balasan"
+
+#: includes/replies/functions.php:2180 includes/topics/functions.php:3800
+msgid "Replies: %s"
+msgstr "Balasan: %s"
+
+#: includes/users/template.php:806 includes/admin/settings.php:155
+msgid "Anonymous"
+msgstr "Anonim"
+
+#: includes/users/template.php:738
+msgid "Admin"
+msgstr "Admin"
+
+#: includes/users/template.php:1375
+msgid "User updated."
+msgstr "Pengguna diperbarui."
+
+#: includes/users/template.php:1436
+msgid "You have super admin privileges."
+msgstr "Anda memiliki hak istimewa admin super."
+
+#: includes/users/template.php:1436
+msgid "This user has super admin privileges."
+msgstr "Pengguna ini memiliki hak istimewa admin super."
+
+#: includes/users/template.php:1510
+msgid "&mdash; No role for this site &mdash;"
+msgstr "&mdash; Tidak ada peran untuk situs ini &mdash;"
+
+#: includes/users/template.php:1830
+msgid "You are now logged out."
+msgstr "Anda sekarang telah log keluar."
+
+#: includes/users/template.php:1834
+msgid "New user registration is currently not allowed."
+msgstr "Pendaftaran pengguna baru saat ini tidak diperbolehkan."
+
+#: includes/users/template.php:1843
+msgid "Check your e-mail for the confirmation link."
+msgstr "Periksa surel Anda untuk taut konfirmasi."
+
+#: includes/users/template.php:1848
+msgid "Check your e-mail for your new password."
+msgstr "Periksa surel Anda untuk kata sandi baru."
+
+#: includes/users/template.php:1853
+msgid "Registration complete. Please check your e-mail."
+msgstr "Pendaftaran selesai. Silakan periksa surel Anda."
+
+#: includes/admin/tools/reset.php:35 includes/topics/functions.php:3756
+#: includes/topics/template.php:50
+msgid "All Topics"
+msgstr "Semua Topik"
+
+#: includes/forums/template.php:1170 includes/forums/template.php:2012
+msgid "%s topic"
+msgid_plural "%s topics"
+msgstr[0] "%s topik"
+msgstr[1] "%s topik"
+
+#: includes/common/formatting.php:648
+msgid "%s ago"
+msgstr "%s yang lalu"
+
+#: includes/admin/tools/repair.php:203
+msgid "Counting the number of replies in each topic&hellip; %s"
+msgstr "Menghitung jumlah balasan dalam setiap topik&hellip; %s"
+
+#: includes/admin/tools/repair.php:238 includes/admin/tools/repair.php:290
+#: includes/admin/tools/repair.php:324 includes/admin/tools/repair.php:356
+#: includes/admin/tools/repair.php:400 includes/admin/tools/repair.php:441
+#: includes/admin/tools/repair.php:483 includes/admin/tools/repair.php:531
+#: includes/admin/tools/repair.php:579 includes/admin/tools/repair.php:646
+#: includes/admin/tools/repair.php:711 includes/admin/tools/repair.php:776
+#: includes/admin/tools/repair.php:1009 includes/admin/tools/repair.php:1069
+#: includes/admin/tools/repair.php:1140 includes/admin/tools/repair.php:1203
+#: includes/admin/tools/repair.php:1254 includes/admin/tools/repair.php:1305
+msgid "Complete!"
+msgstr "Berhasil!"
+
+#: includes/admin/tools/repair.php:252
+msgid "Counting the number of voices in each topic&hellip; %s"
+msgstr "Menghitung jumlah suara di dalam masing-masing topik&hellip; %s"
+
+#: includes/admin/tools/repair.php:338
+msgid "Counting the number of topics in each forum&hellip; %s"
+msgstr "Menghitung jumlah topik dalam setiap forum&hellip; %s"
+
+#: includes/admin/tools/repair.php:414
+msgid "Counting the number of replies in each forum&hellip; %s"
+msgstr "Menghitung jumlah balasan dalam setiap forum&hellip; %s"
+
+#: includes/admin/tools/reset.php:122 includes/admin/tools/repair.php:204
+#: includes/admin/tools/repair.php:253 includes/admin/tools/repair.php:305
+#: includes/admin/tools/repair.php:339 includes/admin/tools/repair.php:370
+#: includes/admin/tools/repair.php:415 includes/admin/tools/repair.php:457
+#: includes/admin/tools/repair.php:498 includes/admin/tools/repair.php:546
+#: includes/admin/tools/repair.php:594 includes/admin/tools/repair.php:661
+#: includes/admin/tools/repair.php:726 includes/admin/tools/repair.php:795
+#: includes/admin/tools/repair.php:903 includes/admin/tools/repair.php:1024
+#: includes/admin/tools/repair.php:1136 includes/admin/tools/repair.php:1156
+#: includes/admin/tools/repair.php:1218 includes/admin/tools/upgrade.php:288
+msgid "Failed!"
+msgstr "Gagal!"
+
+#: includes/admin/tools/repair.php:545
+msgid "Counting the number of topics to which each user has replied&hellip; %s"
+msgstr "Menghitung jumlah topik yang telah dibalas oleh pengguna&hellip; %s"
+
+#: includes/admin/tools/repair.php:629 includes/admin/tools/repair.php:694
+#: includes/admin/tools/repair.php:759
+msgid "Nothing to remove!"
+msgstr "Tidak ada yang dapat disingkirkan!"
+
+#: includes/admin/tools/repair.php:660
+msgid "Removing trashed topics from user subscriptions&hellip; %s"
+msgstr "Menghapus topik yang ditandai sebagai sampah dari langganan pengguna&hellip; %s "
+
+#: includes/admin/tools/repair.php:902
+msgid "Recomputing latest post in every topic and forum&hellip; %s"
+msgstr "Menghitung ulang tulisan terakhir dalam setiap topik dan forum&hellip; %s"
+
+#: includes/admin/topics.php:131
+msgid "You can hide/display columns based on your needs and decide how many topics to list per screen using the Screen Options tab."
+msgstr "Anda dapat menyembunyikan/menampilkan kolom berdasarkan kebutuhan Anda dan memutuskan berapa banyak topik yang ditampilkan per layar menggunakan tab Pilihan Layar."
+
+#: templates/default/bbpress/form-user-edit.php:131
+#: templates/default/bbpress/form-user-edit.php:134
+msgid "User Role"
+msgstr "Peran Pengguna"
+
+#: templates/default/bbpress/form-user-edit.php:141
+msgid "Network Role"
+msgstr "Peran Jaringan"
+
+#: templates/default/bbpress/form-user-roles.php:16
+msgid "Blog Role"
+msgstr "Peran Blog"
+
+#: templates/default/bbpress/user-profile.php:18
+#: templates/default/bbpress/user-details.php:30
+msgid "Profile"
+msgstr "Profil"
+
+#: templates/default/bbpress/user-profile.php:44
+msgid "Forum Role: %s"
+msgstr "Peran Forum: %s"
+
+#: includes/admin/tools/repair.php:886
+msgid "Complete! %s users updated."
+msgstr "Selesai! %s pengguna diperbarui."
+
+#: templates/default/bbpress/form-user-roles.php:23
+#: includes/users/signups.php:30 includes/admin/users.php:98
+#: includes/admin/users.php:282
+msgid "Forum Role"
+msgstr "Peran Forum"
+
+#: includes/admin/users.php:170
+msgid "Change"
+msgstr "Ubah"
+
+#: includes/admin/users.php:278
+msgid "Site Role"
+msgstr "Peran Situs"
+
+#: includes/extend/buddypress/groups.php:496
+msgid "Save Settings"
+msgstr "Simpan Pengaturan"
+
+#: includes/extend/buddypress/groups.php:668
+msgid "Group Forum"
+msgstr "Forum Grup"
+
+#: includes/common/widgets.php:801
+msgctxt "widgets"
+msgid "by %1$s"
+msgstr "oleh %1$s"
+
+#: includes/common/widgets.php:890
+msgid "Newest Topics"
+msgstr "Topik Terbaru"
+
+#. translators: 1: reply author, 2: reply link, 3: reply timestamp
+#: includes/common/widgets.php:1146
+msgctxt "widgets"
+msgid "%1$s on %2$s %3$s"
+msgstr "%1$s pada %2$s %3$s"
+
+#: includes/replies/template.php:674 includes/topics/template.php:765
+msgctxt "date at time"
+msgid "%1$s at %2$s"
+msgstr "%1$s pada %2$s"
+
+#: includes/extend/buddypress/functions.php:341 includes/admin/settings.php:466
+#: includes/admin/tools/upgrade.php:371
+msgid "Group Forums"
+msgstr "Forum Grup"
+
+#: includes/admin/tools/upgrade.php:372
+msgid "group-forums"
+msgstr "forum-grup"
+
+#: includes/admin/tools/upgrade.php:388
+msgid "Complete! %s groups updated; %s forums updated; %s forum statuses synced."
+msgstr "Selesai! %s grup diperbarui; %s forum diperbarui; %s status forum disinkronisasi.."
+
+#: includes/admin/tools/repair.php:497
+msgid "Counting the number of topics each user has created&hellip; %s"
+msgstr "Menghitung jumlah topik yang dibuat oleh setiap pengguna&hellip; %s"
+
+#: includes/admin/tools/repair.php:725
+msgid "Removing trashed forums from user subscriptions&hellip; %s"
+msgstr "Menghapus forum yang ditandai sebagai sampah dari langganan pengguna&hellip; %s "
+
+#: includes/admin/tools/repair.php:788
+msgid "Remapping forum role for each user on this site&hellip; %s"
+msgstr "Mempetakan ulang peran forum untuk setiap pengguna dalam situs ini&hellip; %s "
+
+#: includes/admin/tools/repair.php:1023
+msgid "Repairing the sticky topic to the parent forum relationships&hellip; %s"
+msgstr "Memperbaiki hubungan topik melekat dengan forum induk&hellip; %s"
+
+#: includes/admin/tools/reset.php:62
+msgid "Backup your database before proceeding."
+msgstr "Backup database Anda sebelum melanjutkan."
+
+#: includes/admin/tools/reset.php:32
+msgid "The following data will be removed:"
+msgstr "Data berikut ini akan dihapus:"
+
+#: includes/admin/tools/reset.php:37
+msgid "All Topic Tags"
+msgstr "Semua tag topik"
+
+#: includes/admin/tools/reset.php:39
+msgid "Forum Settings"
+msgstr "Pengaturan Forum"
+
+#: includes/admin/tools/reset.php:40
+msgid "Forum Activity"
+msgstr "Aktivitas Forum"
+
+#: includes/admin/tools/reset.php:41
+msgid "Forum User Roles"
+msgstr "Peran Pengguna Forum"
+
+#: includes/admin/tools/reset.php:43
+msgid "Importer Helper Data"
+msgstr "Data Importer Helper"
+
+#: includes/admin/tools/reset.php:47
+msgid "Delete imported users?"
+msgstr "Hapus pengguna yang diimpor?"
+
+#: includes/admin/tools/reset.php:50 includes/admin/tools/reset.php:60
+msgid "Say it ain't so!"
+msgstr "Katakan ini tidak benar!"
+
+#: includes/admin/tools/reset.php:51
+msgid "This option will delete all previously imported users, and cannot be undone."
+msgstr "Opsi ini akan menghapus semua pengguna yang sebelumnya diimpor, dan tidak dapat dibalikan (di-undo)."
+
+#: templates/default/bbpress/form-topic-split.php:102
+#: templates/default/bbpress/form-topic-merge.php:98
+#: templates/default/bbpress/form-reply-move.php:76
+#: includes/admin/tools/reset.php:61
+msgid "This process cannot be undone."
+msgstr "Aksi ini tidak dapat dibatalkan."
+
+#: includes/admin/tools/reset.php:70
+msgid "Reset bbPress"
+msgstr "Reset bbPress"
+
+#: includes/admin/tools/reset.php:121
+msgid "Success!"
+msgstr "Berhasil!"
+
+#: includes/admin/tools/reset.php:208
+msgid "Deleting Topic Tags&hellip; %s"
+msgstr "Menghapus Tag Topik&hellip; %s"
+
+#: includes/admin/topics.php:121
+msgid "This screen displays the individual topics on your site. You can customize the display of this screen to suit your workflow."
+msgstr "Layar ini menampilkan topik individual pada situs Anda. Anda dapat menyesuaikan penampilan layar ini dengan alur kerja (workflow) Anda."
+
+#: includes/admin/topics.php:145
+msgid "<strong>Edit</strong> takes you to the editing screen for that topic. You can also reach that screen by clicking on the topic title."
+msgstr "<strong>Edit</strong> membawa Anda ke layar penyuntingan untuk topik itu. Anda juga dapat ke layar tsb dengan mengklik judul topik."
+
+#: includes/admin/topics.php:151
+msgid "<strong>Trash</strong> removes your topic from this list and places it in the trash, from which you can permanently delete it."
+msgstr "<strong>Sampah</strong> melenyapkan topik Anda dari daftar ini dan menempatkannya ke dalam tempat sampah, dimana Anda dapat menghapusnya secara permanen."
+
+#: includes/admin/topics.php:150
+msgid "<strong>Spam</strong> removes your topic from this list and places it in the spam queue, from which you can permanently delete it."
+msgstr "<strong>Spam</strong> menlenyapkan topik Anda dari daftar ini dan menempatkannya dalam antrian spam, dimana Anda dapat menghapusnya secara permanen."
+
+#: includes/admin/topics.php:146
+msgid "<strong>Stick</strong> will keep the selected topic &#8217;pinned&#8217; to the top the parent forum topic list."
+msgstr "<strong>Lekatkan</strong> akan menjaga topik yang terpilih ditempelkan (&#8217;pinned&#8217;) ke paling atas forum induk dimana terdapat topik tersebut."
+
+#: includes/admin/topics.php:147
+msgid "<strong>Stick <em>(to front)</em></strong> will keep the selected topic &#8217;pinned&#8217; to the top of ALL forums and be visable in any forums topics list."
+msgstr "<strong>Lekatkan <em>(ke depan)</em></strong> akan menjaga topik-topik yang terpilih ditempelkan (&#8217;pinned&#8217;) di atas SEMUA forum dan terlihat di setiap forum dimana terdapat topik-topik tersebut."
+
+#: includes/admin/topics.php:162
+msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected topics at once. To remove a topic from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr "Ketika menggunakan Sunting Massal, Anda dapat mengubah metadata (kategori, penulis, dll.) sekaligus untuk semua topik yang dipilih. Untuk menghapus topik dari penggrupan, klik x di sebelah namanya dalam wilayah Sunting Massal yang terpampang."
+
+#: includes/admin/topics.php:180
+msgid "The title field and the big topic editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "Ruas judul dan wilayah penyuntingan topik yang besar telah ditetapkan di tempat, namun Anda dapat memposisikan ulang semua kotak yang lain menggunakan drag and drop, dan dapat mengecilkan atau membesarkan mereka dengan mengklik bilah judul dari setiap kotak. Gunakan tab Opsi Layar untuk memunculkan kotak-kotak yang lain (Kutipan, Kirim Trackback, Ruas Tersesuai, Diskusi, Slug, Penulis) atau untuk memilih tata letak 1 atau 2 kolom untuk layar ini."
+
+#: includes/admin/topics.php:190
+msgid "Title and Topic Editor"
+msgstr "Penyunting Judul dan Topik"
+
+#: includes/admin/topics.php:192
+msgid "<strong>Title</strong> - Enter a title for your topic. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>Judul</strong> - Masukkan judul untuk topik Anda. Setelah Anda memasukkan judul, Anda akan melihat permalink di bawahnya, yang dapat Anda sunting."
+
+#: includes/admin/topics.php:193
+msgid "<strong>Topic Editor</strong> - Enter the text for your topic. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your topic text. You can insert media files by clicking the icons above the topic editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular topic editor."
+msgstr "<strong>Editor Topik</strong> - Masukkan teks untuk topik Anda. Terdapat 2 moda untuk penyuntingan: Visual dan HTML. Pilihlah moda dengan mengklik tab yang tersedia. Moda visual akan memunculkan editor WYSIWYG. Klik ikon terakhir dalam baris tersebut untuk mendapatkan baris kedua. Moda HTML mengijinkan Anda untuk memasukkan HTML mentah bersama dengan teks topik Anda. Anda dapat menyisipkan arsip media dengan mengklik ikon di atas editor topik dan mengikuti pentunjuknya. Anda dapat mengaktifkan layar penulisan bebas distraksi melalui ikon layar penuh dalam moda Visual (kedua terakhir dalam baris atas) atau tombol layar penuh dalam moda HTML (terakhir dalam baris). Setelah itu, Anda dapat membuat tombol-tombol jadi terlihat dengan mengapung di wilayah atas. Anda dapat keluar dari layar penuh ke editor topik yang biasa."
+
+#: includes/admin/topics.php:196
+msgid "<strong>Publish</strong> - You can set the terms of publishing your topic in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a topic or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a topic to be published in the future or backdate a topic."
+msgstr "<strong>Terbitkan</strong> - Anda dapat mengatur syarat-syarat (terms) penerbitan topik Anda dalam kotak Terbitkan. Untuk Status, Visibilitas, dan Terbitkan (segera), klik pada tautan Sunting untuk mengungkapkan opsi lainnya. Visibilitas termasuk opsi untuk kode sandi untuk melindungi topik atau membuat selalu di atas blog Anda (sticky). Terbitkan (segera) mengijinkan Anda untuk mengatur tanggal dan waktu yang akan datang atau yang lalu, sehingga Anda dapat menjadwalkan sebuah topik untuk diterbitkan di kemudian hari atau di waktu yang lalu. "
+
+#: includes/admin/topics.php:199
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your topic without inserting it. This is usually useful only if your theme makes use of the featured image as a topic thumbnail on the home page, a custom header, etc."
+msgstr "<strong>Gambar Fitur</strong> - Ini mengijinkan Anda untuk mengasosiasikan sebuah gambar dengan topik Anda tanpa menyisipkannya. Ini biasanya hanya berguna jika tema Anda menggunakan gambar fitur sebagai thumbnail topik pada beranda, tajuk tersuai, dll. "
+
+#: includes/admin/topics.php:206
+msgid "Select the attributes that your topic should have:"
+msgstr "Pilih atribut yang harus dimiliki oleh topik Anda:"
+
+#: includes/admin/topics.php:209
+msgid "<strong>Topic Type</strong> dropdown indicates the sticky status of the topic. Selecting the super sticky option would stick the topic to the front of your forums, i.e. the topic index, sticky option would stick the topic to its respective forum. Selecting normal would not stick the topic anywhere."
+msgstr "<strong>Jenis Topik</strong> dropdown mengindikasikan status sticky dari topik. Memilih opsi super sticky akan melekatkan topik ke depan forum-forum Anda, yaitu: indeks topik. Opsi sticky akan melekatkan topik ke forum yang bersangkutan. Memilih normal tidak akan melekatkan topik di manapun."
+
+#: includes/admin/topics.php:1002
+msgctxt "Close a Topic"
+msgid "Close"
+msgstr "Tutup"
+
+#: includes/admin/topics.php:1004
+msgctxt "Open a Topic"
+msgid "Open"
+msgstr "Buka"
+
+#: includes/admin/topics.php:1016 includes/topics/template.php:2690
+msgid "(to front)"
+msgstr "(ke depan)"
+
+#: includes/users/template.php:1547 includes/admin/users.php:107
+#: includes/admin/users.php:111
+msgid "&mdash; No role for these forums &mdash;"
+msgstr "&mdash; Tidak ada peran untuk forum-forum ini &mdash;"
+
+#: includes/admin/users.php:164 includes/admin/users.php:166
+msgid "Change forum role to&hellip;"
+msgstr "Ubah peran forum ke&hellip;"
+
+#: includes/common/formatting.php:646
+msgid "sometime"
+msgstr "mantan"
+
+#: includes/common/formatting.php:647
+msgid "right now"
+msgstr "saat ini"
+
+#: includes/common/formatting.php:728
+msgctxt "Separator in time since"
+msgid ","
+msgstr ","
+
+#: includes/common/functions.php:1101
+msgid ""
+"%1$s wrote:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Post Link: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"You are receiving this email because you subscribed to a forum topic.\n"
+"\n"
+"Login and visit the topic to unsubscribe from these emails."
+msgstr ""
+"%1$s menulis:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Tautan Tulisan: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"Anda menerima surel ini karena Anda berlangganan topik forum.\n"
+"\n"
+"Masuk log dan kunjungi topik tersebut untuk tidak berlangganan dari surel-surel ini."
+
+#: includes/common/functions.php:1268
+msgid ""
+"%1$s wrote:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Topic Link: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"You are receiving this email because you subscribed to a forum.\n"
+"\n"
+"Login and visit the topic to unsubscribe from these emails."
+msgstr ""
+"%1$s menulis:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Tautan Topik: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"Anda menerima surel ini karena Anda berlangganan forum.\n"
+"\n"
+"Masuk log dan kunjungi topik tersebut untuk tidak berlangganan dari surel-surel ini."
+
+#: includes/common/template.php:2651
+msgid "Forum Edit: %s"
+msgstr "Sunting Forum: %s"
+
+#: includes/common/template.php:2656
+msgid "Topic Edit: %s"
+msgstr "Sunting Topik: %s"
+
+#: includes/common/template.php:2661
+msgid "Reply Edit: %s"
+msgstr "Sunting Balasan: %s"
+
+#: includes/common/template.php:2666
+msgid "Topic Tag Edit: %s"
+msgstr "Sunting Tag Topik: %s"
+
+#: includes/common/widgets.php:34
+msgid "A simple login form with optional links to sign-up and lost password pages."
+msgstr "Formulir masuk log sederhana dengan tautan opsional untuk mendaftar dan halaman untuk kode sandi yang hilang."
+
+#: includes/common/widgets.php:38
+msgid "(bbPress) Login Widget"
+msgstr "(bbPress) Widget Masuk Log"
+
+#: includes/common/widgets.php:227
+msgid "A list of registered optional topic views."
+msgstr "Daftar tayangan topik terdaftar yang opsional."
+
+#: includes/common/widgets.php:231
+msgid "(bbPress) Topic Views List"
+msgstr "(bbPress) Daftar Tayangan Topik"
+
+#: includes/common/widgets.php:361
+msgid "The bbPress forum search form."
+msgstr "Formulir Pencarian Forum bbPress."
+
+#: includes/common/widgets.php:365
+msgid "(bbPress) Forum Search Form"
+msgstr "(bbPress) Formulir Pencarian Forum"
+
+#: includes/common/widgets.php:478
+msgid "A list of forums with an option to set the parent."
+msgstr "Daftar dari forum dengan sebuat opsi untuk mengatur induknya."
+
+#: includes/common/widgets.php:482
+msgid "(bbPress) Forums List"
+msgstr "(bbPress) Daftar Forum"
+
+#: includes/common/widgets.php:655
+msgid "(bbPress) Recent Topics"
+msgstr "(bbPress) Topik terbaru"
+
+#: includes/common/widgets.php:885
+msgid "Show topic author:"
+msgstr "Tamplikan penulis topik:"
+
+#: includes/common/widgets.php:888
+msgid "Order By:"
+msgstr "Urut berdasarkan:"
+
+#: includes/common/widgets.php:892
+msgid "Topics With Recent Replies"
+msgstr "Topik dengan balasan terbaru"
+
+#: includes/common/widgets.php:908
+msgid "Recent Topics"
+msgstr "Topik terbaru"
+
+#: includes/common/widgets.php:937
+msgid "Some statistics from your forum."
+msgstr "Beberapa statistik dari forum Anda."
+
+#: includes/common/widgets.php:941
+msgid "(bbPress) Statistics"
+msgstr "(bbPress) Statistik"
+
+#: includes/common/widgets.php:1032
+msgid "Forum Statistics"
+msgstr "Statistik Forum"
+
+#: includes/common/widgets.php:1056
+msgid "A list of the most recent replies."
+msgstr "Daftar dari balasan terbaru"
+
+#: includes/common/widgets.php:1060
+msgid "(bbPress) Recent Replies"
+msgstr "(bbPress) Balasan terbaru"
+
+#. translators: 1: reply author, 2: reply link
+#: includes/common/widgets.php:1156
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr "%1$s on %2$s"
+
+#: includes/common/widgets.php:1221
+msgid "Show reply author:"
+msgstr "Tamplikan penulis balasan:"
+
+#: includes/common/widgets.php:1235
+msgid "Recent Replies"
+msgstr "Balasan terbaru"
+
+#: includes/core/capabilities.php:501
+msgid "Editable forum roles no longer exist."
+msgstr "Peran forum yang dapat disunting tidak ada."
+
+#: includes/core/update.php:207
+msgid "General"
+msgstr "Umum"
+
+#: includes/core/update.php:211
+msgid "Hello World!"
+msgstr "Hello Dunia!"
+
+#: includes/extend/akismet.php:171 includes/extend/akismet.php:176
+#: includes/extend/akismet.php:492 includes/extend/akismet.php:497
+msgid "No response"
+msgstr "Tidak ada respon"
+
+#: includes/extend/akismet.php:596
+msgid "Akismet cleared this post as not spam"
+msgstr "Akismet membersihkan tulisan ini sebagai bukan spam"
+
+#: includes/extend/akismet.php:829 includes/extend/akismet.php:839
+msgid "Akismet History"
+msgstr "Sejarah Akismet"
+
+#: includes/extend/akismet.php:883
+msgid "No recorded history. Akismet has not checked this post."
+msgstr "Tidak ada sejarah yang tercatat. Akismet belum memeriksa tulisan ini."
+
+#: includes/extend/buddypress/activity.php:195
+msgid "New forum topic"
+msgstr "Topik forum baru"
+
+#: includes/extend/buddypress/activity.php:205
+msgid "New forum reply"
+msgstr "Balasan forum baru"
+
+#: includes/extend/buddypress/groups.php:467
+#: includes/extend/buddypress/groups.php:470
+msgid "Group Forum Settings"
+msgstr "Pengaturan Forum Grup"
+
+#: includes/extend/buddypress/groups.php:471
+#: includes/extend/buddypress/groups.php:670
+msgid "Create a discussion forum to allow members of this group to communicate in a structured, bulletin-board style fashion."
+msgstr "Ciptakan sebuah forum diskusi sehingga para anggota grup ini bisa berkomunikasi secara terstruktur dengan gaya bulletin-board."
+
+#: includes/extend/buddypress/groups.php:475
+#: includes/extend/buddypress/groups.php:673
+msgid "Yes. I want this group to have a forum."
+msgstr "Ya, saya ingin grup ini untuk memiliki sebuah forum."
+
+#: includes/extend/buddypress/groups.php:478
+msgid "Saying no will not delete existing forum content."
+msgstr "Mengatakan tidak akan menghapus konten forum yang ada."
+
+#: includes/extend/buddypress/groups.php:483
+msgid "Group Forum:"
+msgstr "Forum Grup:"
+
+#: includes/extend/buddypress/groups.php:491
+msgid "Network administrators can reconfigure which forum belongs to this group."
+msgstr "Administrator jaringan dapat mengkonfigurasi kembali forum yang mana yang dimiliki oleh grup ini."
+
+#: includes/extend/buddypress/groups.php:628
+msgctxt "group admin edit screen"
+msgid "Discussion Forum"
+msgstr "Forum Diskusi"
+
+#: includes/extend/buddypress/groups.php:1017
+msgid "This group does not currently have a forum."
+msgstr "Grup ini belum memiliki forum."
+
+#: includes/extend/buddypress/loader.php:119
+msgid "Search Forums..."
+msgstr "Cari Forum..."
+
+#: templates/default/bbpress/user-subscriptions.php:38
+#: includes/extend/buddypress/loader.php:356
+msgid "Subscribed Topics"
+msgstr "Topik yang dilanggani"
+
+#: includes/extend/buddypress/notifications.php:101
+msgid "Topic Replies"
+msgstr "Balasan Topik"
+
+#: includes/extend/buddypress/notifications.php:89
+msgid "You have %d new replies"
+msgstr "Anda memiliki %d pesan baru"
+
+#: includes/forums/functions.php:2067
+msgctxt "Open the forum"
+msgid "Open"
+msgstr "Buka"
+
+#: includes/forums/functions.php:2068
+msgctxt "Close the forum"
+msgid "Closed"
+msgstr "Telah ditutup"
+
+#: includes/forums/functions.php:2085
+msgctxt "Forum accepts new topics"
+msgid "Forum"
+msgstr "Forum"
+
+#: includes/forums/functions.php:2086
+msgctxt "Forum is a category"
+msgid "Category"
+msgstr "Kategori"
+
+#: includes/forums/functions.php:2106
+msgctxt "Make forum public"
+msgid "Public"
+msgstr "Khalayak"
+
+#: includes/forums/functions.php:2107
+msgctxt "Make forum private"
+msgid "Private"
+msgstr "Pribadi"
+
+#: includes/forums/functions.php:2108
+msgctxt "Make forum hidden"
+msgid "Hidden"
+msgstr "Disembunyikan"
+
+#: includes/forums/template.php:2045
+msgid "This forum is empty."
+msgstr "Forum ini kosong."
+
+#: includes/replies/template.php:764
+msgid "This reply was modified %1$s by %2$s. Reason: %3$s"
+msgstr "Balasan ini diubah %1$s oleh %2$s. Alasan: %3$s."
+
+#: includes/replies/template.php:766
+msgid "This reply was modified %1$s by %2$s."
+msgstr "Balasan ini diubah %1$s oleh %2$s."
+
+#: templates/default/bbpress/form-user-passwords.php:31
+#: includes/replies/template.php:1653
+msgid "Cancel"
+msgstr "Batalkan"
+
+#: includes/replies/template.php:2085
+msgid "Move"
+msgstr "Pindahkan"
+
+#: includes/replies/template.php:2086
+msgid "Move this reply"
+msgstr "Pindahkan balasan ini"
+
+#: includes/replies/template.php:2379
+msgid "Viewing %1$s reply thread"
+msgid_plural "Viewing %1$s reply threads"
+msgstr[0] "Melihat %1$s pertalian (thread) balasan"
+msgstr[1] "Melihat %1$s pertalian (thread) balasan"
+
+#: includes/replies/template.php:2386
+msgid "Viewing %1$s reply"
+msgid_plural "Viewing %1$s replies"
+msgstr[0] "Melihat %1$s balasan"
+msgstr[1] "Melihat %1$s balasan"
+
+#: includes/replies/template.php:2390
+msgid "Viewing %2$s replies (of %4$s total)"
+msgid_plural "Viewing %1$s replies - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Melihat %2$s balasan (dari total %4$s)"
+msgstr[1] "Melihat %1$s balasan - %2$s sampai %3$s (dari total %4$s)"
+
+#: includes/replies/template.php:2398
+msgid "Viewing %1$s post"
+msgid_plural "Viewing %1$s posts"
+msgstr[0] "Melihat %1$s tulisan"
+msgstr[1] "Melihat %1$s tulisan"
+
+#: includes/replies/template.php:2402
+msgid "Viewing %2$s post (of %4$s total)"
+msgid_plural "Viewing %1$s posts - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Melihat %2$s tulisan (dari total %4$s)"
+msgstr[1] "Melihat %1$s tulisan - %2$s sampai %3$s (dari total %4$s)"
+
+#: includes/search/template.php:179
+msgid "Search Results for '%s'"
+msgstr "Hasil pencarian untuk '%s'"
+
+#: includes/search/template.php:414
+msgid "Viewing %1$s result"
+msgid_plural "Viewing %1$s results"
+msgstr[0] "Melihat %1$s hasil"
+msgstr[1] "Melihat %1$s hasil"
+
+#: includes/search/template.php:418
+msgid "Viewing %2$s results (of %4$s total)"
+msgid_plural "Viewing %1$s results - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Melihat %2$s hasil (dari total %4$s)"
+msgstr[1] "Melihat %1$s hasil - %2$s sampai %3$s (dari total %4$s)"
+
+#: includes/topics/functions.php:1857 includes/topics/template.php:2581
+msgctxt "Open the topic"
+msgid "Open"
+msgstr "Buka Topik"
+
+#: includes/topics/functions.php:1858
+msgctxt "Close the topic"
+msgid "Closed"
+msgstr "Telah ditutup"
+
+#: includes/topics/functions.php:1859
+msgctxt "Spam the topic"
+msgid "Spam"
+msgstr "Spam"
+
+#: includes/topics/functions.php:1860
+msgctxt "Trash the topic"
+msgid "Trash"
+msgstr "Buang ke sampah"
+
+#: includes/topics/functions.php:1878
+msgctxt "Unstick a topic"
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/topics/functions.php:1880
+msgctxt "Make topic super sticky"
+msgid "Super Sticky"
+msgstr "Melekat sekali"
+
+#: includes/topics/template.php:928
+msgid "This topic was modified %1$s by %2$s. Reason: %3$s"
+msgstr "Topik ini diubah %1$s oleh %2$s. Alasan: %3$s."
+
+#: includes/topics/template.php:930
+msgid "This topic was modified %1$s by %2$s."
+msgstr "Topik ini diubah %1$s oleh %2$s."
+
+#: includes/users/template.php:1081 includes/topics/template.php:1829
+msgid "Favorite"
+msgstr "Kesukaan"
+
+#: includes/users/template.php:1082 includes/topics/template.php:1830
+msgid "Unfavorite"
+msgstr "Cabut kesukaan"
+
+#: includes/topics/template.php:2995
+msgid "Viewing %1$s topic"
+msgid_plural "Viewing %1$s topics"
+msgstr[0] "Melihat %1$s topik"
+msgstr[1] "Melihat %1$s topik"
+
+#: includes/topics/template.php:2999
+msgid "Viewing topic %2$s (of %4$s total)"
+msgid_plural "Viewing %1$s topics - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Melihat %2$s topik (dari total %4$s)"
+msgstr[1] "Melihat %1$s topik - %2$s sampai %3$s (dari total %4$s)"
+
+#: includes/topics/template.php:3330
+msgid "This topic has no replies."
+msgstr "Topik ini tida memiliki balasan."
+
+#: includes/users/template.php:683
+msgid "Guest"
+msgstr "Tamu"
+
+#: includes/users/template.php:687
+msgid "Inactive"
+msgstr "Non-aktif"
+
+#: includes/users/template.php:697
+msgid "Member"
+msgstr "Anggota"
+
+#: templates/default/bbpress/form-forum.php:39
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr "Ciptakan Forum baru di &ldquo;%s&rdquo;"
+
+#: templates/default/bbpress/form-forum.php:75
+msgid "Forum Name (Maximum Length: %d):"
+msgstr "Judul Forum (Panjang Maksimum: %d):"
+
+#: templates/default/bbpress/form-forum.php:112
+msgid "Forum Type:"
+msgstr "Jenis Forum:"
+
+#: templates/default/bbpress/form-forum.php:183
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr "Forum &#8216;%s&#8217; tertutup dari konten baru."
+
+#: templates/default/bbpress/form-forum.php:194
+msgid "You cannot create new forums."
+msgstr "Anda tidak dapat membuat forum baru."
+
+#: templates/default/bbpress/form-forum.php:195
+msgid "You must be logged in to create new forums."
+msgstr "Anda harus log masuk untuk membuat forum baru."
+
+#: templates/default/bbpress/form-reply-move.php:27
+msgid "Move reply \"%s\""
+msgstr "Pindahkan balasan \"%s\""
+
+#: templates/default/bbpress/form-reply-move.php:33
+msgid "You can either make this reply a new topic with a new title, or merge it into an existing topic."
+msgstr "Anda dapat membuat balasan ini menjadi topik baru dengan judul baru, atau menggabungkannya dengan topik yang ada."
+
+#: templates/default/bbpress/form-reply-move.php:39
+msgid "If you choose an existing topic, replies will be ordered by the time and date they were created."
+msgstr "Jika Anda memilih topik yang ada, balasan akan diurut berdasarkan tanggal dan jam dibuat."
+
+#: templates/default/bbpress/form-reply-move.php:44
+msgid "Move Method"
+msgstr "Pindahkan Metode"
+
+#: templates/default/bbpress/form-reply-move.php:49
+msgid "Moved: %s"
+msgstr "Telah dipindah: %s"
+
+#: templates/default/bbpress/form-reply-move.php:96
+msgid "You cannot edit this reply."
+msgstr "Anda tidak dapat menyunting balasan ini."
+
+#: templates/default/bbpress/form-search.php:18
+msgid "Search for:"
+msgstr "Cari untuk:"
+
+#: templates/default/bbpress/form-topic.php:155
+msgid "Topic Status:"
+msgstr "Status Topik:"
+
+#: templates/default/bbpress/form-topic.php:248
+msgid "You cannot create new topics."
+msgstr "Anda tidak dapat membuat topik baru."
+
+#: templates/default/bbpress/form-user-edit.php:42
+msgid "Display Name"
+msgstr "Tampilkan Nama"
+
+#: templates/default/bbpress/form-user-edit.php:167
+msgid "Update Profile"
+msgstr "Perbarui Profil"
+
+#: templates/default/bbpress/form-user-lost-pass.php:30
+msgid "Reset My Password"
+msgstr "Reset Kata Sandiku"
+
+#: templates/default/bbpress/loop-search-forum.php:17
+msgid "Last updated %s"
+msgstr "Terakhir diperbarui %s"
+
+#: templates/default/bbpress/loop-search-reply.php:22
+msgid "In reply to: "
+msgstr "Atas balasan kepada:"
+
+#: templates/default/bbpress/loop-search-topic.php:32
+msgid "in group forum "
+msgstr "dalam forum grup"
+
+#: templates/default/bbpress/loop-search-topic.php:36
+msgid "in forum "
+msgstr "dalam forum"
+
+#: templates/default/bbpress/loop-search.php:23
+#: templates/default/bbpress/loop-search.php:45
+msgid "Search Results"
+msgstr "Hasil pencarian"
+
+#: templates/default/bbpress/loop-single-reply.php:22
+msgid "in reply to: "
+msgstr "atas balasan kepada:"
+
+#. translators: user's display name
+#: templates/default/bbpress/user-details.php:30
+#: includes/common/template.php:2744
+msgid "%s's Profile"
+msgstr "Profil milik %s"
+
+#: templates/default/bbpress/user-details.php:36
+msgid "%s's Topics Started"
+msgstr "Topik yang dimulai oleh %s"
+
+#: templates/default/bbpress/user-details.php:42
+msgid "%s's Replies Created"
+msgstr "Balasan-balasan yang dibuat oleh %s"
+
+#. translators: user's display name
+#: templates/default/bbpress/user-details.php:57
+#: includes/common/template.php:2724
+msgid "%s's Favorites"
+msgstr "Kesukaan milik %s"
+
+#. translators: user's display name
+#: templates/default/bbpress/user-details.php:67
+#: includes/common/template.php:2734
+msgid "%s's Subscriptions"
+msgstr "Langganan milik %s"
+
+#: templates/default/bbpress/user-profile.php:42
+msgid "Topics Started: %s"
+msgstr "Topik yang dimulai: %s"
+
+#: templates/default/bbpress/user-profile.php:43
+msgid "Replies Created: %s"
+msgstr "Balasan-balasan telah yang dibuat: %s"
+
+#: templates/default/bbpress/user-replies-created.php:19
+msgid "Forum Replies Created"
+msgstr "Balasan Forum telah dibuat"
+
+#: templates/default/bbpress/user-subscriptions.php:23
+msgid "Subscribed Forums"
+msgstr "Forum yang dilanggani"
+
+#: templates/default/bbpress/user-topics-created.php:19
+msgid "Forum Topics Started"
+msgstr "Topik Forum yang Dimulai"
+
+#: templates/default/bbpress-functions.php:219
+msgid "Something went wrong. Refresh your browser and try again."
+msgstr "Ada yang salah. Refresh browser Anda dan coba lagi."
+
+#: templates/default/bbpress-functions.php:296
+msgid "Subscriptions are no longer active."
+msgstr "Berlangganan (subscription) tidak lagi aktif."
+
+#: templates/default/bbpress-functions.php:248
+#: templates/default/bbpress-functions.php:311
+msgid "You do not have permission to do this."
+msgstr "Anda tidak memiliki izin untuk melakukan ini."
+
+#: templates/default/bbpress-functions.php:263
+#: templates/default/bbpress-functions.php:326
+msgid "Are you sure you meant to do that?"
+msgstr "Apakah Anda yakin bermaksud melakukan ini?"
+
+#: templates/default/bbpress-functions.php:233
+msgid "Favorites are no longer active."
+msgstr "Kesukaan tidak lagi aktif."
+
+#: includes/users/template.php:2005 includes/replies/template.php:1196
+#: includes/topics/template.php:1429
+msgid "View %s's profile"
+msgstr "Lihat riwayat %s"
+
+#: includes/common/template.php:2753
+msgid "Edit Your Profile"
+msgstr "Sunting Riwayat Anda"
+
+#: templates/default/bbpress/user-details.php:74
+#: includes/common/template.php:2758
+msgid "Edit %s's Profile"
+msgstr "Sunting Riwayat %s"
+
+#: templates/default/bbpress-functions.php:273
+#: templates/default/bbpress-functions.php:336
+msgid "The request was unsuccessful. Please try again."
+msgstr "Permintaan tidak berhasil. Silakan coba lagi."
+
+#: templates/default/bbpress/user-favorites.php:19
+msgid "Favorite Forum Topics"
+msgstr "Topik Forum Favorit"
+
+#: includes/topics/functions.php:1879
+msgctxt "Make topic sticky"
+msgid "Sticky"
+msgstr "Lekatkan"
+
+#: templates/default/bbpress/form-user-login.php:17
+#: templates/default/bbpress/form-user-login.php:38
+#: includes/common/widgets.php:81 includes/common/widgets.php:102
+msgid "Log In"
+msgstr "Masuk"
+
+#: includes/common/template.php:2611
+msgid "Log Out"
+msgstr "Keluar"
+
+#: includes/admin/metaboxes.php:659 includes/admin/forums.php:540
+msgid "Moderators"
+msgstr "Moderator (Penengah)"
+
+#: templates/default/extras/page-topic-tags.php:22
+msgid "This is a collection of tags that are currently popular on our forums."
+msgstr "Ini adalah kumpulan tag yang saat ini populer di forum kita."
+
+#: templates/default/extras/page-forum-statistics.php:22
+msgid "Here are the statistics and popular topics of our forums."
+msgstr "Ini adalah statistik dan topik terpopular di forum kita."
+
+#: includes/admin/topics.php:762
+msgid "Topic \"%1$s\" successfully unapproved."
+msgstr "Topik \"%1$s\" berhasil tidak disetujui."
+
+#: includes/admin/topics.php:756
+msgid "Topic \"%1$s\" successfully approved."
+msgstr "Topik \"%1$s\" berhasil disetujui."
+
+#: includes/replies/functions.php:1656
+msgctxt "Mark reply as pending"
+msgid "Pending"
+msgstr "Tertunda"
+
+#: includes/admin/topics.php:726
+msgid "Topic \"%1$s\" successfully stuck to front."
+msgstr "Topik \"%1$s\" berhasil ditancapkan di depan."
+
+#: includes/admin/metaboxes.php:61
+msgid "%s Topic"
+msgid_plural "%s Topics"
+msgstr[0] "%s Topik"
+msgstr[1] "%s Topik"
+
+#. translators: user's display name
+#: includes/common/template.php:2714
+msgid "%s's Replies"
+msgstr "Balasan %s "
+
+#: includes/admin/tools.php:331
+msgid "Remove unpublished forums from user subscriptions"
+msgstr "Hapus forum yang belum dipublikasikan dari langganan pengguna"
+
+#: includes/admin/topics.php:161
+msgid "You can also edit, spam, or move multiple topics to the trash at once. Select the topics you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr "Anda juga dapat menyunting, menandai spam, atau memindahkan beberapa topik sekaligus ke tempat sampah. Pilih topik-topik yang Anda ingin tindak dengan menandai kotak-centang, kemudian pilih tindakan dari menu Tindakan Massal, lalu klik Aplikasikan."
+
+#: includes/admin/tools.php:283
+msgid "Recount topics for each user"
+msgstr "Hitung kembali jumlah topik untuk masing-masing pengguna"
+
+#: includes/admin/topics.php:208
+msgid "<strong>Forum</strong> dropdown determines the parent forum that the topic belongs to. Select the forum or category from the dropdown, or leave the default \"No forum\" to post the topic without an assigned forum."
+msgstr "Menu jatuh-turun <strong>Forum</strong> menentukan forum induk yang memiliki topik tersebut. Pilih forum atau kategori dari menu taruh-turun, atau biarkan nilai baku \"Tanpa forum\" untuk mengirim topik diluar forum."
+
+#: includes/admin/tools.php:319
+msgid "Remove unpublished topics from user subscriptions"
+msgstr "Hapus topik yang belum terpublikasi dari langganan pengguna"
+
+#: includes/admin/tools.php:295
+msgid "Recount replies for each user"
+msgstr "Hitung ulang balasan untuk setiap pengguna"
+
+#: includes/admin/tools.php:307
+msgid "Remove unpublished topics from user favorites"
+msgstr "Hapus topik yang belum terpublikasi dari daftar favorit pengguna"
+
+#: includes/admin/topics.php:132
+msgid "You can filter the list of topics by topic status using the text links in the upper left to show All, Published, Draft, Pending, Trashed, Closed, or Spam  topics. The default view is to show all topics."
+msgstr "Anda dapat menyaring daftar topik berdasarkan status menggunakan tautan di kiri atas untuk memperlihatkan berbagai topik: Semua, Terpublikasi, Konsep, Sampah, Tertutup, atau Spam. Tampilan baku adalah memperlihatkan semua topik."
+
+#: includes/admin/settings.php:920
+msgid "Allow topic and reply revision logging"
+msgstr "Izinkan pencatatn revisi topik dan balasan"
+
+#: includes/admin/metaboxes.php:190
+msgid "Users &amp; Moderation"
+msgstr "Pengguna &amp; Moderasi"
+
+#: includes/admin/settings.php:2075
+msgid "%s page"
+msgstr "%s halaman"
+
+#: includes/admin/settings.php:2025
+msgid "Pages"
+msgstr "Halaman"
+
+#: includes/admin/topics.php:1118 includes/admin/replies.php:914
+msgid "Empty Spam"
+msgstr "Kosongkan Spam"
+
+#: includes/admin/settings.php:2028
+msgid "Menus"
+msgstr "Menu"
+
+#: includes/admin/settings.php:190 includes/admin/settings.php:2026
+msgid "Revisions"
+msgstr "Revisi"
+
+#: includes/admin/settings.php:2039
+msgid "Forums base"
+msgstr "Basis forum"
+
+#: includes/admin/settings.php:2042
+msgid "Topics base"
+msgstr "Basis topik"
+
+#: includes/admin/replies.php:728
+msgid "(Mismatch)"
+msgstr "(Tak cocok)"
+
+#: includes/admin/settings.php:2034
+msgid "Category base"
+msgstr "Basis kategori"
+
+#: includes/admin/settings.php:2031
+msgid "Tag base"
+msgstr "Basis tag"
+
+#: includes/admin/settings.php:2027
+msgid "Attachments"
+msgstr "Lampiran"
+
+#: templates/default/bbpress/form-user-edit.php:17
+#: templates/default/bbpress/form-user-edit.php:22
+#: includes/admin/metaboxes.php:608
+msgid "Name"
+msgstr "Nama"
+
+#: templates/default/bbpress/form-anonymous.php:33
+#: includes/admin/metaboxes.php:619
+msgid "Website:"
+msgstr "Situs Web:"
+
+#: templates/default/bbpress/form-user-edit.php:60
+#: includes/admin/metaboxes.php:620
+msgid "Website"
+msgstr "Situs web"
+
+#: includes/replies/template.php:1983 includes/admin/topics.php:1037
+#: includes/admin/replies.php:833 includes/topics/template.php:2534
+msgid "Move this item to the Trash"
+msgstr "Pindahkan item ini ke Sampah"
+
+#: templates/default/bbpress/loop-search.php:19
+#: templates/default/bbpress/loop-search.php:41
+#: templates/default/bbpress/loop-replies.php:18
+#: templates/default/bbpress/loop-replies.php:44 includes/admin/topics.php:858
+#: includes/admin/replies.php:667
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:59
+msgid "Author"
+msgstr "Penulis"
+
+#: bbpress.php:724
+msgid "Topics with no replies"
+msgstr "Topik tanpa balasan"
+
+#: bbpress.php:640
+msgctxt "post"
+msgid "Hidden"
+msgstr "Tersembunyi"
+
+#: bbpress.php:626
+msgctxt "post"
+msgid "Orphan"
+msgstr "Yatim"
+
+#: bbpress.php:612
+msgctxt "post"
+msgid "Spam"
+msgstr "Spam"
+
+#: bbpress.php:599
+msgctxt "post"
+msgid "Closed"
+msgstr "Ditutup"
+
+#: bbpress.php:567
+msgid "bbPress Replies"
+msgstr "Balasan bbPress"
+
+#: templates/default/bbpress/loop-search-topic.php:25
+#: includes/admin/metaboxes.php:522
+msgid "Topic:"
+msgstr "Topik:"
+
+#: templates/default/bbpress/loop-forums.php:20 includes/forums/template.php:50
+#: includes/extend/buddypress/groups.php:51
+#: includes/extend/buddypress/groups.php:52 includes/admin/actions.php:192
+#: includes/admin/actions.php:204 includes/admin/topics.php:855
+#: includes/admin/replies.php:665 includes/admin/settings.php:352
+#: includes/admin/metaboxes.php:113 includes/admin/metaboxes.php:432
+#: includes/admin/metaboxes.php:496 includes/admin/forums.php:537
+msgid "Forum"
+msgid_plural "Forums"
+msgstr[0] "Forum"
+msgstr[1] ""
+
+#: bbpress.php:515
+msgid "bbPress Forums"
+msgstr "Forum bbPress"
+
+#: templates/default/bbpress/loop-search-forum.php:25
+#: templates/default/bbpress/form-topic.php:124
+#: includes/extend/buddypress/groups.php:1347 includes/admin/metaboxes.php:431
+#: includes/admin/metaboxes.php:495 includes/topics/template.php:65
+msgid "Forum:"
+msgstr "Forum:"
+
+#: bbpress.php:541
+msgid "bbPress Topics"
+msgstr "Topik bbPress"
+
+#: templates/default/bbpress/form-user-edit.php:161
+#: includes/admin/settings.php:1533
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: includes/replies/template.php:2029 includes/admin/topics.php:240
+#: includes/admin/topics.php:1023 includes/admin/replies.php:235
+#: includes/admin/replies.php:818
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:91
+#: includes/topics/template.php:2807
+msgid "Spam"
+msgstr "Spam"
+
+#: includes/replies/template.php:1988 includes/admin/topics.php:1041
+#: includes/admin/replies.php:837 includes/topics/template.php:2538
+msgid "Delete this item permanently"
+msgstr "Hapus item ini secara permanen"
+
+#: templates/default/bbpress/content-single-topic-lead.php:19
+#: templates/default/bbpress/content-single-topic-lead.php:87
+#: includes/admin/forums.php:541
+msgid "Creator"
+msgstr "Pencipta"
+
+#: includes/replies/template.php:1961 includes/admin/topics.php:1037
+#: includes/admin/replies.php:833
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:92
+#: includes/topics/template.php:2515
+msgid "Trash"
+msgstr "Sampah"
+
+#: includes/replies/template.php:1962 includes/admin/topics.php:1035
+#: includes/admin/replies.php:831 includes/topics/template.php:2516
+msgid "Restore"
+msgstr "Mengembalikan"
+
+#: includes/replies/template.php:1979 includes/admin/topics.php:1035
+#: includes/admin/replies.php:831 includes/topics/template.php:2532
+msgid "Restore this item from the Trash"
+msgstr "Kembalikan item ini dari Sampah"
+
+#: templates/default/bbpress/form-topic-tag.php:40
+#: includes/admin/metaboxes.php:607
+msgid "Name:"
+msgstr "Nama:"
+
+#: includes/forums/template.php:581 includes/admin/forums.php:595
+msgid "No Topics"
+msgstr "Tiada Topik"
+
+#: includes/admin/metaboxes.php:105
+msgid "Discussion"
+msgstr "Diskusi"
+
+#: includes/admin/metaboxes.php:198
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Pengguna"
+msgstr[1] "Pengguna"
+
+#: includes/admin/metaboxes.php:217
+msgid "Hidden Topic"
+msgid_plural "Hidden Topics"
+msgstr[0] "Topik Tersembunyi"
+msgstr[1] "Topik-topik Tersembunyi"
+
+#: includes/admin/metaboxes.php:239
+msgid "Hidden Reply"
+msgid_plural "Hidden Replies"
+msgstr[0] "Balasan Tersembunyi"
+msgstr[1] "Balasan-balasan Tersembunyi"
+
+#: includes/admin/metaboxes.php:261
+msgid "Empty Topic Tag"
+msgid_plural "Empty Topic Tags"
+msgstr[0] "Tag Topik Kosong"
+msgstr[1] "Tag-tag Topik Kosong"
+
+#: includes/admin/metaboxes.php:285
+msgid "You are using <span class=\"b\">bbPress %s</span>."
+msgstr "Anda sekarang menggunakan <span class=\"b\">bbPress %s</span>."
+
+#: includes/admin/metaboxes.php:317 includes/admin/metaboxes.php:318
+#: includes/admin/metaboxes.php:404
+msgid "Type:"
+msgstr "Tipe:"
+
+#: templates/default/bbpress/form-forum.php:121
+#: includes/admin/metaboxes.php:329 includes/admin/metaboxes.php:330
+#: includes/admin/metaboxes.php:416 includes/admin/metaboxes.php:479
+msgid "Status:"
+msgstr "Status:"
+
+#: templates/default/bbpress/form-forum.php:130
+#: includes/admin/metaboxes.php:341 includes/admin/metaboxes.php:342
+msgid "Visibility:"
+msgstr "Penampakan:"
+
+#: includes/admin/metaboxes.php:355
+msgid "Parent:"
+msgstr "Induk:"
+
+#: includes/admin/metaboxes.php:356
+msgid "Forum Parent"
+msgstr "Induk Forum"
+
+#: includes/admin/metaboxes.php:376
+msgid "Order:"
+msgstr "Urutan:"
+
+#: includes/admin/metaboxes.php:377
+msgid "Forum Order"
+msgstr "Urutan Forum"
+
+#: templates/default/bbpress/form-user-edit.php:112
+#: templates/default/bbpress/form-user-register.php:34
+#: includes/admin/metaboxes.php:614
+msgid "Email"
+msgstr "Surel"
+
+#: includes/admin/metaboxes.php:636
+msgid "IP Address"
+msgstr "Alamat IP"
+
+#: includes/admin/settings.php:1879
+msgid "Main Settings"
+msgstr "Pengaturan Utama"
+
+#: includes/admin/settings.php:1913
+msgid "Per Page"
+msgstr "Per Halaman"
+
+#: includes/admin/settings.php:331
+msgid "Forum Prefix"
+msgstr "Awalan Forum"
+
+#: includes/admin/settings.php:2045
+msgid "Forum slug"
+msgstr "Slug Forum"
+
+#: includes/admin/settings.php:2048
+msgid "Topic slug"
+msgstr "Slug Topik"
+
+#: includes/admin/settings.php:2051
+msgid "Reply slug"
+msgstr "Slug Balasan"
+
+#: includes/admin/settings.php:2057
+msgid "User base"
+msgstr "Basis pengguna"
+
+#: includes/admin/settings.php:2060
+msgid "View base"
+msgstr "Basis tampilan"
+
+#: includes/admin/classes/class-bbp-admin.php:727
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: includes/admin/classes/class-bbp-admin.php:1288
+#: includes/admin/classes/class-bbp-admin.php:1338
+msgid "Go Back"
+msgstr "Kembali"
+
+#: includes/admin/settings.php:719
+msgid "Allow guest users without accounts to create topics and replies"
+msgstr "Izinkan pengguna dengan akun tamu untuk menciptakan topik dan balasan"
+
+#: includes/admin/settings.php:1022 includes/admin/settings.php:1036
+#: includes/admin/settings.php:1065 includes/admin/settings.php:1079
+msgid "per page"
+msgstr "per halaman"
+
+#: includes/admin/settings.php:1883
+msgid "You can choose to lock a post after a certain number of minutes. \"Locking post editing\" will prevent the author from editing some amount of time after saving a post."
+msgstr "Anda dapat memilih untuk mengunci tulisan setelah beberapa menit. \"Mengunci penyuntingan tulisan\" akan mencegah penulis dari menyuntingnya selama beberapa saat setelah menyimpan tulisan."
+
+#: includes/admin/settings.php:1884
+msgid "\"Throttle time\" is the amount of time required between posts from a single author. The higher the throttle time, the longer a user will need to wait between posting to the forum."
+msgstr "\"Waktu Katup\" adalah jumlah waktu yang diperlukan antar penulisan dari penulis yang sama. Semakin tinggi waktu katup, semakin lama pengguna harus menunggu sebelum dapat menulis kembali ke forum."
+
+#: includes/admin/settings.php:1893
+msgid "You must click the Save Changes button at the bottom of the screen for new settings to take effect."
+msgstr "Anda harus klik tombol Simpan Perubahan di bagian bawah layar agar pengaturan baru diberlakukan."
+
+#: includes/admin/forums.php:113
+msgid "You can hide/display columns based on your needs and decide how many forums to list per screen using the Screen Options tab."
+msgstr "Anda dapat menyembunyikan/menampilkan kolom berdasarkan kebutuhan Anda dan memutuskan berapa banyak forum yang ditampilkan per layar menggunakan tab Pilihan Layar."
+
+#: includes/admin/forums.php:114
+msgid "You can filter the list of forums by forum status using the text links in the upper left to show All, Published, or Trashed forums. The default view is to show all forums."
+msgstr "Anda dapat menyaring daftar forum berdasarkan status forum menggunakan taut teks di kiri atas untuk menunjukkan Semua forum, forum telah Terbit, atau forum Sampah. Tampilan bawaannya akan menampilkan semua forum."
+
+#: includes/admin/forums.php:115
+msgid "You can refine the list to show only forums from a specific month by using the dropdown menus above the forums list. Click the Filter button after making your selection. You also can refine the list by clicking on the forum creator in the forums list."
+msgstr "Anda dapat mempersempit daftar untuk menunjukkan hanya forum dari satu bulan tertentu dengan menggunakan menu dropdown di atas daftar forum. Klik tombol Saring setelah memilih pilihan Anda. Anda juga dapat mempersempit daftar dengan mengklik pencipta forum dari daftar forum."
+
+#: includes/admin/forums.php:124
+msgid "Hovering over a row in the forums list will display action links that allow you to manage your forum. You can perform the following actions:"
+msgstr "Melayang di atas baris pada daftar forum akan menampilkan taut tindakan yang memungkinkan Anda untuk mengelola forum Anda. Anda dapat melakukan tindakan-tindakan berikut:"
+
+#: includes/forums/template.php:68 includes/admin/forums.php:181
+#: includes/admin/forums.php:214
+msgid "Forum Attributes"
+msgstr "Atribut-atribut Forum"
+
+#: includes/admin/topics.php:859 includes/admin/replies.php:668
+#: includes/admin/forums.php:542
+msgid "Created"
+msgstr "Telah diciptakan"
+
+#: includes/admin/topics.php:1181 includes/admin/replies.php:977
+#: includes/admin/forums.php:716
+msgid "Custom field updated."
+msgstr "Ruas tersuai telah diperbarui."
+
+#: includes/admin/topics.php:1184 includes/admin/replies.php:980
+#: includes/admin/forums.php:719
+msgid "Custom field deleted."
+msgstr "Ruas tersuai telah dihapus."
+
+#: includes/forums/template.php:79 includes/admin/forums.php:710
+#: includes/admin/forums.php:722
+msgid "Forum updated."
+msgstr "Forum telah diperbarui."
+
+#. translators: %s: date and time of the revision
+#: includes/admin/forums.php:727
+msgid "Forum restored to revision from %s"
+msgstr "Forum dikembalikan ke revisi dari %s"
+
+#: includes/admin/forums.php:739
+msgid "Forum saved."
+msgstr "Forum telah disimpan."
+
+#. translators: Publish box date format, see http://php.net/date
+#: includes/admin/topics.php:1220 includes/admin/replies.php:1016
+#: includes/admin/forums.php:755
+msgid "M j, Y @ G:i"
+msgstr "j M Y @ G:i"
+
+#: includes/admin/replies.php:129
+msgid "You can view replies in a simple title list or with an excerpt. Choose the view you prefer by clicking on the icons at the top of the list on the right."
+msgstr "Anda dapat melihat balasan dalam daftar judul yang sederhana atau dengan kutipan. Pilih tampilan yang Anda inginkan dengan mengklik ikon di bagian atas daftar tepatnya di sebelah kanan."
+
+#: includes/admin/replies.php:139
+msgid "Hovering over a row in the replies list will display action links that allow you to manage your reply. You can perform the following actions:"
+msgstr "Melayang di atas sebuah baris dalam daftar balasan akan menampilkan taut-taut tindakan yang mengizinkan Anda mengelola balasan Anda. Anda dapat melakukan tindakan-tindakan berikut:"
+
+#: includes/replies/template.php:69 includes/admin/replies.php:198
+#: includes/admin/replies.php:336
+msgid "Reply Attributes"
+msgstr "Atribut-atribut Balasan"
+
+#: templates/default/bbpress/form-anonymous.php:18
+#: includes/admin/topics.php:364 includes/admin/replies.php:361
+msgid "Author Information"
+msgstr "Informasi Penulis"
+
+#: includes/admin/replies.php:562
+msgid "There was a problem marking the reply \"%1$s\" as spam."
+msgstr "Ada masalah ketika menandai balasan \"%1$s\" sebagai spam."
+
+#: includes/admin/replies.php:563
+msgid "Reply \"%1$s\" successfully marked as spam."
+msgstr "Balasan \"%1$s\" berhasil ditandai sebagai spam."
+
+#: includes/admin/replies.php:568
+msgid "There was a problem unmarking the reply \"%1$s\" as spam."
+msgstr "Ada masalah mencabut balasan \"%1$s\" dari spam."
+
+#: includes/admin/replies.php:569
+msgid "Reply \"%1$s\" successfully unmarked as spam."
+msgstr "Balasan \"%1$s\" berhasil dicabut tandanya sebagai spam."
+
+#: includes/admin/replies.php:664
+msgid "Title"
+msgstr "Judul"
+
+#: includes/admin/topics.php:975 includes/admin/topics.php:994
+#: includes/admin/replies.php:796
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:144
+#: includes/admin/users.php:260
+msgid "View"
+msgstr "Tampil"
+
+#: includes/admin/topics.php:975 includes/admin/topics.php:994
+#: includes/admin/replies.php:796
+msgid "View &#8220;%s&#8221;"
+msgstr "Tampilkan &#8220;%s&#8221;"
+
+#: includes/admin/replies.php:820
+msgid "Mark the reply as not spam"
+msgstr "Tandai balasan sebagai bukan spam"
+
+#: includes/admin/replies.php:818
+msgid "Mark this reply as spam"
+msgstr "Tandai balasan ini sebagai spam"
+
+#: includes/admin/topics.php:1041 includes/admin/replies.php:837
+msgid "Delete Permanently"
+msgstr "Hapus secara Permanen"
+
+#: includes/admin/topics.php:1095 includes/admin/replies.php:891
+msgid "In all forums"
+msgstr "Di semua forum"
+
+#: includes/replies/template.php:80 includes/admin/replies.php:971
+#: includes/admin/replies.php:983
+msgid "Reply updated."
+msgstr "Balasan telah diperbarui."
+
+#. translators: %s: date and time of the revision
+#: includes/admin/replies.php:988
+msgid "Reply restored to revision from %s"
+msgstr "Balasan berhasil dikembalikan ke revisi dari %s"
+
+#: includes/admin/replies.php:1000
+msgid "Reply saved."
+msgstr "Balasan telah disimpan."
+
+#: includes/admin/tools.php:151
+msgid "Recalculate last activity in each topic and forum"
+msgstr "Hitung ulang kegiatan terakhir di setiap topik dan forum"
+
+#: includes/admin/classes/class-bbp-admin.php:1097
+msgid "Theme Compatibility"
+msgstr "Kompatibilitas Tema"
+
+#: includes/admin/metaboxes.php:635
+msgid "IP:"
+msgstr "IP:"
+
+#: includes/admin/classes/class-bbp-admin.php:1150
+msgid "Founding Developer"
+msgstr "Pengembang Pendiri"
+
+#: includes/admin/classes/class-bbp-admin.php:1154
+msgid "Lead Developer"
+msgstr "Pengembang Utama"
+
+#: includes/admin/settings.php:222
+msgid "Topic tags"
+msgstr "Tag Topik"
+
+#: includes/admin/settings.php:1523
+msgid "Forums Settings"
+msgstr "Pengaturan Forum"
+
+#: includes/admin/classes/class-bbp-admin.php:1066
+#: includes/admin/classes/class-bbp-admin.php:1140
+msgid "Credits"
+msgstr "Kredit"
+
+#: includes/admin/classes/class-bbp-admin.php:1182
+msgid "Feature Developer"
+msgstr "Pengembang Fitur"
+
+#: includes/admin/classes/class-bbp-admin.php:1166
+msgid "Contributing Developers"
+msgstr "Pengembang kontributor"
+
+#: includes/admin/tools.php:523 includes/admin/tools/help.php:30
+msgid "Repair Forums"
+msgstr "Perbaiki Forum"
+
+#: includes/admin/classes/class-bbp-admin.php:834
+msgctxt "admin color scheme"
+msgid "Mint"
+msgstr "Mentol"
+
+#: includes/admin/classes/class-bbp-admin.php:1108
+msgid "Roles and capabilities have been swept through, cleaned up, and simplified."
+msgstr "Peran dan kemampuan telah direnovasi, dibersihkan, dan disederhanakan."
+
+#: includes/admin/classes/class-bbp-admin.php:1107
+msgid "User capabilities"
+msgstr "Kemampuan Pengguna"
+
+#: includes/admin/classes/class-bbp-admin.php:1103
+msgid "bbPress fully supports automatic translation updates."
+msgstr "bbPress mendukung sepenuhnya pembaruan terjemahan secara otomatis."
+
+#: includes/admin/classes/class-bbp-admin.php:1102
+msgid "Polyglot support"
+msgstr "Mendukung banyak bahasa (polyglot support)"
+
+#: includes/admin/classes/class-bbp-admin.php:1091
+msgid "We&#8217;re all abuzz about the hive of new importers, AEF, Drupal, FluxBB, Kunena Forums for Joomla, MyBB, Phorum, PHPFox, PHPWind, PunBB, SMF, Xenforo and XMB. Existing importers are now sweeter than honey with improved importing stickies, topic tags, forum categories and the sting is now gone if you need to remove imported users."
+msgstr "Kita semua berisik tentang sarang lebah pengimpor yang baru, AEF, Drupal, FluxBB, Forum Kunena untuk Joomla, MyBB, Phorum, PHPFox, PHPWind, PunBB, SMF, Xenforo dan XMB. Pengimpor yang ada sekarang lebih manis dari madu dengan pengimporan tempelan (sticky), tag topik, kategori forum, dan tidak ada lagi penyengat bila Anda perlu menghilangkan pengguna yang diimpor."
+
+#: includes/admin/classes/class-bbp-admin.php:1087
+msgid "Converters"
+msgstr "Pengkonversi"
+
+#: includes/admin/classes/class-bbp-admin.php:1080
+msgid "Manage Subscriptions"
+msgstr "Kelola Langganan"
+
+#: includes/admin/classes/class-bbp-admin.php:1076
+msgid "Now your users can subscribe to new topics in specific forums."
+msgstr "Sekarang pengguna Anda dapat berlangganan untuk topik baru di forum spesifik."
+
+#: includes/admin/classes/class-bbp-admin.php:1075
+msgid "Subscribe to Forums"
+msgstr "Berlangganan ke Forum"
+
+#: includes/admin/classes/class-bbp-admin.php:1071
+msgid "Forum Subscriptions"
+msgstr "Langganan Forum"
+
+#: includes/admin/classes/class-bbp-admin.php:1064
+#: includes/admin/classes/class-bbp-admin.php:1138
+msgid "What&#8217;s New"
+msgstr "Apa yang baru"
+
+#: includes/admin/classes/class-bbp-admin.php:1036
+msgid "Welcome to bbPress %s"
+msgstr "Selamat Datang di bbPress %s"
+
+#: includes/admin/classes/class-bbp-admin.php:843
+msgctxt "admin color scheme"
+msgid "Evergreen"
+msgstr "Hijau abadi"
+
+#: includes/admin/classes/class-bbp-admin.php:514
+#: includes/admin/classes/class-bbp-admin.php:515
+#: includes/admin/classes/class-bbp-admin.php:536
+#: includes/admin/classes/class-bbp-admin.php:537
+#: includes/admin/classes/class-bbp-admin.php:1319
+#: includes/admin/classes/class-bbp-admin.php:1417
+msgid "Update Forums"
+msgstr "Perbarui Forum"
+
+#: templates/default/bbpress/user-profile.php:34
+#: templates/default/bbpress/content-statistics.php:25
+#: includes/forums/template.php:48 includes/forums/template.php:49
+#: includes/forums/template.php:67 includes/common/widgets.php:626
+#: includes/extend/buddypress/loader.php:42
+#: includes/extend/buddypress/loader.php:189
+#: includes/extend/buddypress/loader.php:311
+#: includes/extend/buddypress/loader.php:376 includes/admin/tools.php:30
+#: includes/admin/classes/class-bbp-admin.php:467
+#: includes/admin/classes/class-bbp-admin.php:468
+#: includes/admin/classes/class-bbp-admin.php:477
+#: includes/admin/classes/class-bbp-admin.php:478
+#: includes/admin/tools/common.php:434 includes/admin/users.php:93
+msgid "Forums"
+msgstr "Forum"
+
+#: includes/admin/tools.php:550 includes/admin/tools/help.php:66
+msgid "Reset Forums"
+msgstr "Reset Forum"
+
+#: bbpress.php:613
+msgctxt "post"
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] "Spam <span class=\"count\">(%s)</span>"
+msgstr[1] "Spam <span class=\"count\">(%s)</span>"
+
+#: includes/admin/classes/class-bbp-admin.php:1114
+#: includes/admin/classes/class-bbp-admin.php:1254
+msgid "Go to Forum Settings"
+msgstr "Pergi ke Pengaturan Forum"
+
+#: bbpress.php:146 bbpress.php:153
+msgid "Cheatin&#8217; huh?"
+msgstr "Curang, yah?"
+
+#: bbpress.php:600
+msgctxt "post"
+msgid "Closed <span class=\"count\">(%s)</span>"
+msgid_plural "Closed <span class=\"count\">(%s)</span>"
+msgstr[0] "Ditutup <span class=\"count\">%s</span>"
+msgstr[1] "Ditutup <span class=\"count\">%s</span>"
+
+#: bbpress.php:711
+msgid "Most popular topics"
+msgstr "Topik Paling Disukai"
+
+#: bbpress.php:627
+msgctxt "post"
+msgid "Orphan <span class=\"count\">(%s)</span>"
+msgid_plural "Orphans <span class=\"count\">(%s)</span>"
+msgstr[0] "Yatim <span class=\"count\">%s</span>"
+msgstr[1] "Yatim <span class=\"count\">%s</span>"
+
+#: bbpress.php:641
+msgctxt "post"
+msgid "Hidden <span class=\"count\">(%s)</span>"
+msgid_plural "Hidden <span class=\"count\">(%s)</span>"
+msgstr[0] "Tersembunyi <span class=\"count\">%s</span>"
+msgstr[1] "Tersembunyi <span class=\"count\">%s</span>"
+
+#: includes/admin/tools.php:541
+msgid "Import Forums"
+msgstr "Impor Forum"
+
+#: includes/admin/classes/class-bbp-admin.php:1146
+msgid "Project Leaders"
+msgstr "Pemimpin Proyek"
+
+#: includes/admin/classes/class-bbp-admin.php:1144
+msgid "bbPress is created by a worldwide swarm of busy, busy bees."
+msgstr "bbPress diciptakan oleh pasukan lebah internasional yang sangat sibuk."
+
+#: includes/admin/classes/class-bbp-admin.php:732
+msgid "About"
+msgstr "Tentang"
+
+#: includes/admin/classes/class-bbp-admin.php:1098
+msgid "Better handling of styles and scripts in the template stack."
+msgstr "Menangani gaya (style) dan skrip (script) dalam tumpukan templat (template stack) secara lebih baik. "
+
+#: includes/admin/classes/class-bbp-admin.php:490
+#: includes/admin/classes/class-bbp-admin.php:491
+#: includes/admin/classes/class-bbp-admin.php:499
+#: includes/admin/classes/class-bbp-admin.php:500
+msgid "Welcome to bbPress"
+msgstr "Selamat Datang di bbPress"
+
+#: includes/admin/classes/class-bbp-admin.php:1275
+#: includes/admin/classes/class-bbp-admin.php:1298
+msgid "Update Forum"
+msgstr "Perbarui Forum"
+
+#: includes/admin/classes/class-bbp-admin.php:1287
+#: includes/admin/classes/class-bbp-admin.php:1337
+msgid "All done!"
+msgstr "Semuanya beres!"
+
+#: includes/admin/classes/class-bbp-admin.php:1297
+msgid "You can update your forum through this page. Hit the link below to update."
+msgstr "Anda dapat memperbarui forum Anda melalui laman ini. Klik tautan di bawah ini untuk memperbarui."
+
+#: includes/admin/classes/class-bbp-admin.php:1397
+msgid "If your browser doesn&#8217;t start loading the next page automatically, click this link:"
+msgstr "Jika browser Anda tidak memuat laman berikutnya secara otomatis, klik tautan berikut ini:"
+
+#: includes/admin/classes/class-bbp-admin.php:1398
+msgid "Next Forums"
+msgstr "Forum berikutnya"
+
+#: includes/admin/settings.php:83 includes/admin/tools/help.php:104
+msgid "Database Settings"
+msgstr "Pengaturan basis data"
+
+#: includes/admin/settings.php:501
+msgid "Select Platform"
+msgstr "Plih Platform"
+
+#: includes/admin/settings.php:509
+msgid "Database Server"
+msgstr "Server basis data"
+
+#: includes/admin/settings.php:517
+msgid "Database Port"
+msgstr "Port Basis Data"
+
+#: includes/admin/settings.php:525
+msgid "Database Name"
+msgstr "Nama Basis Data"
+
+#: includes/admin/settings.php:533
+msgid "Database User"
+msgstr "Pengguna Basis data"
+
+#: includes/admin/settings.php:541
+msgid "Database Password"
+msgstr "Basis Data Kata Sandi"
+
+#: includes/admin/settings.php:549
+msgid "Table Prefix"
+msgstr "Awalan Tabel"
+
+#: includes/admin/settings.php:88
+msgid "Options"
+msgstr "Opsi"
+
+#: includes/admin/settings.php:561
+msgid "Rows Limit"
+msgstr "Batas Baris (Rows Limit)"
+
+#: includes/admin/settings.php:569
+msgid "Delay Time"
+msgstr "Waktu Tunda"
+
+#: includes/admin/settings.php:577
+msgid "Convert Users"
+msgstr "Konversikan pengguna"
+
+#: includes/admin/settings.php:593
+msgid "Start Over"
+msgstr "Mulai lagi dari depan"
+
+#: includes/admin/classes/class-bbp-converter.php:562
+msgid "No passwords to clear"
+msgstr "Tidak ada kode sandi yang akan dibersihkan (to clear)"
+
+#: includes/admin/topics.php:119 includes/admin/replies.php:115
+#: includes/admin/settings.php:1871 includes/admin/tools/help.php:95
+#: includes/admin/forums.php:101
+msgid "Overview"
+msgstr "Ikhtisar"
+
+#: includes/admin/forums.php:103
+msgid "This screen displays the individual forums on your site. You can customize the display of this screen to suit your workflow."
+msgstr "Layar ini menampilkan forum individual pada situs Anda. Anda dapat menyesuaikan penampilan layar ini dengan alur kerja (workflow) Anda."
+
+#: includes/admin/topics.php:127 includes/admin/replies.php:123
+#: includes/admin/forums.php:109
+msgid "Screen Content"
+msgstr "Konten Layar"
+
+#: includes/admin/topics.php:129 includes/admin/replies.php:125
+#: includes/admin/forums.php:111
+msgid "You can customize the display of this screen&#8217;s contents in a number of ways:"
+msgstr "Anda dapat menyesuaikan penampilan konten dari layar ini dengan sejumlah cara:"
+
+#: includes/admin/topics.php:141 includes/admin/replies.php:137
+#: includes/admin/forums.php:122
+msgid "Available Actions"
+msgstr "Tindakan yang tersedia"
+
+#: includes/admin/forums.php:126
+msgid "<strong>Edit</strong> takes you to the editing screen for that forum. You can also reach that screen by clicking on the forum title."
+msgstr "<strong>Edit</strong> membawa Anda ke layar penyuntingan untuk forum itu. Anda juga dapat ke layar tsb dengan mengklik judul forum."
+
+#: includes/admin/forums.php:128
+msgid "<strong>Trash</strong> removes your forum from this list and places it in the trash, from which you can permanently delete it."
+msgstr "<strong>Sampah</strong> melenyapkan forum Anda dari daftar ini dan menempatkannya ke dalam tempat sampah, dimana Anda dapat menghapusnya secara permanen."
+
+#: includes/admin/topics.php:159 includes/admin/replies.php:153
+#: includes/admin/tools/repair.php:63 includes/admin/tools/repair.php:180
+#: includes/admin/tools/upgrade.php:60 includes/admin/tools/upgrade.php:192
+#: includes/admin/forums.php:136
+msgid "Bulk Actions"
+msgstr "Tindakan Massal"
+
+#: includes/admin/forums.php:138
+msgid "You can also edit or move multiple forums to the trash at once. Select the forums you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr "Anda juga dapat mengubah atau membuang beberapa forum sekaligus ke tempat sampah. Pilih forum-forum yang Anda ingin tindak dengan mengklik kotak periksa (checkbox), kemudian pilih tindakan dari menu Tindakan Massal, lalu klik Terapkan. "
+
+#: includes/admin/forums.php:139
+msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected forums at once. To remove a forum from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr "Ketika menggunakan Sunting Massal, Anda dapat mengubah metadata (kategori, penulis, dll.) sekaligus untuk semua forum yang dipilih. Untuk menghapus forum dari penggrupan, klik x di sebelah namanya dalam wilayah Sunting Massal yang terpampang."
+
+#: includes/admin/topics.php:167 includes/admin/topics.php:220
+#: includes/admin/replies.php:161 includes/admin/replies.php:215
+#: includes/admin/settings.php:1937 includes/admin/tools/help.php:43
+#: includes/admin/tools/help.php:72 includes/admin/tools/help.php:130
+#: includes/admin/forums.php:144 includes/admin/forums.php:200
+msgid "For more information:"
+msgstr "Untuk informasi lebih lanjut:"
+
+#: includes/admin/forums.php:157
+msgid "The title field and the big forum editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "Ruas judul dan wilayah penyuntingan forum yang besar telah ditetapkan di tempat, namun Anda dapat memposisikan ulang semua kotak yang lain menggunakan drag and drop, dan dapat mengecilkan atau membesarkan mereka dengan mengklik bilah judul dari setiap kotak. Gunakan tab Opsi Layar untuk memunculkan kotak-kotak yang lain (Kutipan, Kirim Trackback, Ruas Tersesuai, Diskusi, Slug, Penulis) atau untuk memilih tata letak 1 atau 2 kolom untuk layar ini."
+
+#: includes/admin/topics.php:184 includes/admin/replies.php:178
+#: includes/admin/forums.php:161
+msgid "Customizing This Display"
+msgstr "Menyesuaikan Tampilan ini"
+
+#: includes/admin/forums.php:167
+msgid "Title and Forum Editor"
+msgstr "Penyunting Judul dan Forum"
+
+#: includes/admin/forums.php:169
+msgid "<strong>Title</strong> - Enter a title for your forum. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>Judul</strong> - Masukkan judul untuk forum Anda. Setelah Anda memasukkan judul, Anda akan melihat permalink di bawahnya, yang dapat Anda sunting."
+
+#: includes/admin/forums.php:170
+msgid "<strong>Forum Editor</strong> - Enter the text for your forum. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your forum text. You can insert media files by clicking the icons above the forum editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular forum editor."
+msgstr "<strong>Editor Forum</strong> - Masukkan teks untuk forum Anda. Terdapat 2 moda untuk penyuntingan: Visual dan HTML. Pilihlah moda dengan mengklik tab yang tersedia. Moda visual akan memunculkan editor WYSIWYG. Klik ikon terakhir dalam baris tersebut untuk mendapatkan baris kedua. Moda HTML mengijinkan Anda untuk memasukkan HTML mentah bersama dengan teks forum Anda. Anda dapat menyisipkan arsip media dengan mengklik ikon di atas editor forum dan mengikuti pentunjuknya. Anda dapat mengaktifkan layar penulisan bebas distraksi melalui ikon layar penuh dalam moda Visual (kedua terakhir dalam baris atas) atau tombol layar penuh dalam moda HTML (terakhir dalam baris). Setelah itu, Anda dapat membuat tombol-tombol jadi terlihat dengan mengapung di wilayah atas. Anda dapat keluar dari layar penuh ke editor forum yang regular."
+
+#: includes/admin/forums.php:176
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your forum without inserting it. This is usually useful only if your theme makes use of the featured image as a forum thumbnail on the home page, a custom header, etc."
+msgstr "<strong>Gambar Fitur</strong> - Ini mengijinkan Anda untuk mengasosiasikan sebuah gambar dengan forum Anda tanpa menyisipkannya. Ini biasanya hanya berguna jika tema Anda menggunakan gambar fitur sebagai thumbnail forum pada beranda, tajuk tersuai, dll. "
+
+#: includes/admin/forums.php:183
+msgid "Select the attributes that your forum should have:"
+msgstr "Pilih atribut yang harus dimiliki oleh forum Anda:"
+
+#: includes/admin/forums.php:185
+msgid "<strong>Type</strong> indicates if the forum is a category or forum. Categories generally contain other forums."
+msgstr "<strong>Jenis</strong> mengindikasikan jika forum ini adalah sebuah kategori atau forum. Kategori biasanya berisi forum yang lain."
+
+#: includes/admin/forums.php:186
+msgid "<strong>Status</strong> allows you to close a forum to new topics and forums."
+msgstr "<strong>Status </strong> mengijinkan Anda menutup forum dari topik dan forum baru."
+
+#: includes/admin/forums.php:187
+msgid "<strong>Visibility</strong> lets you pick the scope of each forum and what users are allowed to access it."
+msgstr "<strong>Visibility</strong> membolehkan Anda memilih lingkup dari setiap forum dan apa saja yang dapat di-akses oleh pengguna."
+
+#: includes/admin/forums.php:189
+msgid "<strong>Order</strong> allows you to order your forums numerically."
+msgstr "<strong>Urut </strong> mengijinkan Anda untuk mengurut forum-forum Anda secara numerik."
+
+#: includes/admin/forums.php:173
+msgid "<strong>Publish</strong> - You can set the terms of publishing your forum in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a forum or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a forum to be published in the future or backdate a forum."
+msgstr "<strong>Terbitkan</strong> - Anda dapat mengatur syarat-syarat (terms) penerbitan forum Anda dalam kotak Terbitkan. Untuk Status, Visibilitas, dan Terbitkan (segera), klik pada tautan Sunting untuk mengungkapkan opsi lainnya. Visibilitas termasuk opsi untuk kode sandi untuk melindungi forum atau membuat selalu di atas blog Anda (sticky). Terbitkan (segera) mengijinkan Anda untuk mengatur tanggal dan waktu yang akan datang atau yang lalu, sehingga Anda dapat menjadwalkan sebuah forum untuk diterbitkan di kemudian hari atau di waktu yang lalu. "
+
+#: includes/admin/topics.php:215 includes/admin/replies.php:210
+#: includes/admin/forums.php:195
+msgid "Publish Box"
+msgstr "Kotak Penerbitan"
+
+#: templates/default/bbpress/content-statistics.php:30
+#: templates/default/bbpress/loop-forums.php:21
+#: includes/forums/template.php:2660
+#: includes/extend/buddypress/activity.php:197
+#: includes/extend/buddypress/activity.php:391 includes/admin/actions.php:180
+#: includes/admin/topics.php:854 includes/admin/settings.php:281
+#: includes/admin/settings.php:302 includes/admin/tools/common.php:437
+#: includes/admin/forums.php:538 includes/topics/template.php:47
+#: includes/topics/template.php:48
+msgid "Topics"
+msgstr "Topik"
+
+#: templates/default/bbpress/loop-replies.php:20
+#: templates/default/bbpress/loop-replies.php:46
+#: templates/default/bbpress/loop-topics.php:21
+#: templates/default/bbpress/content-statistics.php:35
+#: templates/default/bbpress/loop-forums.php:23
+#: includes/forums/template.php:2714 includes/replies/template.php:49
+#: includes/replies/template.php:50 includes/extend/buddypress/activity.php:207
+#: includes/extend/buddypress/activity.php:392 includes/admin/actions.php:185
+#: includes/admin/actions.php:197 includes/admin/topics.php:390
+#: includes/admin/topics.php:856 includes/admin/settings.php:289
+#: includes/admin/settings.php:310 includes/admin/tools/common.php:440
+#: includes/admin/forums.php:539 includes/core/theme-compat.php:704
+msgid "Replies"
+msgstr "Balasan"
+
+#: templates/default/bbpress/loop-topics.php:18
+#: templates/default/bbpress/content-single-topic-lead.php:23
+#: templates/default/bbpress/content-single-topic-lead.php:91
+#: includes/admin/actions.php:209 includes/admin/replies.php:666
+#: includes/admin/settings.php:360 includes/admin/metaboxes.php:130
+#: includes/admin/metaboxes.php:523 includes/topics/template.php:49
+msgid "Topic"
+msgid_plural "Topics"
+msgstr[0] "Topik"
+msgstr[1] "Topik"
+
+#: includes/admin/metaboxes.php:147
+msgid "Reply"
+msgid_plural "Replies"
+msgstr[0] "Balasan"
+msgstr[1] "Balasan"
+
+#: includes/admin/settings.php:368 includes/admin/metaboxes.php:166
+#: includes/topics/template.php:3387
+msgid "Topic Tag"
+msgid_plural "Topic Tags"
+msgstr[0] "Tag Topik"
+msgstr[1] "Tag Topik"
+
+#: templates/default/bbpress/form-forum.php:144
+#: includes/admin/settings.php:1447 includes/admin/metaboxes.php:369
+msgid "&mdash; No parent &mdash;"
+msgstr "&mdash; Tidak ada induk &mdash;"
+
+#: includes/admin/metaboxes.php:405
+msgid "Topic Type"
+msgstr "Tipe Topik:"
+
+#: includes/admin/metaboxes.php:418
+msgid "Select whether to open or close the topic."
+msgstr "Pilih apakah akan membuka atau menutup topik ini."
+
+#: templates/default/bbpress/form-reply.php:129
+#: includes/admin/metaboxes.php:535
+msgid "Reply To:"
+msgstr "Balas ke:"
+
+#: includes/admin/metaboxes.php:536
+msgid "Reply To"
+msgstr "Balas ke"
+
+#: includes/admin/metaboxes.php:613
+msgid "Email:"
+msgstr "Surel:"
+
+#: includes/admin/metaboxes.php:627
+msgid "ID:"
+msgstr "ID:"
+
+#: includes/admin/metaboxes.php:628
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/replies.php:117
+msgid "This screen provides access to all of your replies. You can customize the display of this screen to suit your workflow."
+msgstr "Layar ini menyediakan akses ke semua pengaturan balasan. Anda dapat menyesuaikan penampilan layar ini dengan alur kerja (workflow) Anda."
+
+#: includes/admin/replies.php:127
+msgid "You can hide/display columns based on your needs and decide how many replies to list per screen using the Screen Options tab."
+msgstr "Anda dapat menyembunyikan/menampilkan kolom berdasarkan kebutuhan Anda dan memutuskan berapa banyak balasan yang ditampilkan per layar menggunakan tab Pilihan Layar."
+
+#: includes/admin/replies.php:141
+msgid "<strong>Edit</strong> takes you to the editing screen for that reply. You can also reach that screen by clicking on the reply title."
+msgstr "<strong>Edit</strong> membawa Anda ke layar penyuntingan untuk balasan itu. Anda juga dapat ke layar tsb dengan mengklik judul balasan."
+
+#: includes/admin/replies.php:143
+msgid "<strong>Trash</strong> removes your reply from this list and places it in the trash, from which you can permanently delete it."
+msgstr "<strong>Sampah</strong> melenyapkan balasan Anda dari daftar ini dan menempatkannya ke dalam tempat sampah, dimana Anda dapat menghapusnya secara permanen."
+
+#: includes/admin/replies.php:144
+msgid "<strong>Spam</strong> removes your reply from this list and places it in the spam queue, from which you can permanently delete it."
+msgstr "<strong>Spam</strong> menlenyapkan balasan Anda dari daftar ini dan menempatkannya dalam antrian spam, dimana Anda dapat menghapusnya secara permanen."
+
+#: includes/admin/replies.php:156
+msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected replies at once. To remove a reply from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr "Ketika menggunakan Sunting Massal, Anda dapat mengubah metadata (kategori, penulis, dll.) sekaligus untuk semua balasan yang dipilih. Untuk menghapus balasan dari penggrupan, klik x di sebelah namanya dalam wilayah Sunting Massal yang terpampang."
+
+#: includes/admin/replies.php:174
+msgid "The title field and the big reply editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "Ruas judul dan wilayah penyuntingan balasan yang besar telah ditetapkan di tempat, namun Anda dapat memposisikan ulang semua kotak yang lain menggunakan drag and drop, dan dapat mengecilkan atau membesarkan mereka dengan mengklik bilah judul dari setiap kotak. Gunakan tab Opsi Layar untuk memunculkan kotak-kotak yang lain (Kutipan, Kirim Trackback, Ruas Tersesuai, Diskusi, Slug, Penulis) atau untuk memilih tata letak 1 atau 2 kolom untuk layar ini."
+
+#: includes/admin/replies.php:184
+msgid "Title and Reply Editor"
+msgstr "Penyunting Judul dan Balasan"
+
+#: includes/admin/replies.php:186
+msgid "<strong>Title</strong> - Enter a title for your reply. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>Judul</strong> - Masukkan judul untuk balasan Anda. Setelah Anda memasukkan judul, Anda akan melihat permalink di bawahnya, yang dapat Anda sunting."
+
+#: includes/admin/replies.php:187
+msgid "<strong>Reply Editor</strong> - Enter the text for your reply. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your reply text. You can insert media files by clicking the icons above the reply editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular reply editor."
+msgstr "<strong>Editor Balasan</strong> - Masukkan teks untuk balasan Anda. Terdapat 2 moda untuk penyuntingan: Visual dan HTML. Pilihlah moda dengan mengklik tab yang tersedia. Moda visual akan memunculkan editor WYSIWYG. Klik ikon terakhir dalam baris tersebut untuk mendapatkan baris kedua. Moda HTML mengijinkan Anda untuk memasukkan HTML mentah bersama dengan teks balasan Anda. Anda dapat menyisipkan arsip media dengan mengklik ikon di atas editor balasan dan mengikuti pentunjuknya. Anda dapat mengaktifkan layar penulisan bebas distraksi melalui ikon layar penuh dalam moda Visual (kedua terakhir dalam baris atas) atau tombol layar penuh dalam moda HTML (terakhir dalam baris). Setelah itu, Anda dapat membuat tombol-tombol jadi terlihat dengan mengapung di wilayah atas. Anda dapat keluar dari layar penuh ke editor balasan yang regular."
+
+#: includes/admin/replies.php:190
+msgid "<strong>Publish</strong> - You can set the terms of publishing your reply in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a reply or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a reply to be published in the future or backdate a reply."
+msgstr "<strong>Terbitkan</strong> - Anda dapat mengatur syarat-syarat (terms) penerbitan balasan Anda dalam kotak Terbitkan. Untuk Status, Visibilitas, dan Terbitkan (segera), klik pada tautan Sunting untuk mengungkapkan opsi lainnya. Visibilitas termasuk opsi untuk kode sandi untuk melindungi balasan atau membuat selalu di atas blog Anda (sticky). Terbitkan (segera) mengijinkan Anda untuk mengatur tanggal dan waktu yang akan datang atau yang lalu, sehingga Anda dapat menjadwalkan sebuah balasan untuk diterbitkan di kemudian hari atau di waktu yang lalu. "
+
+#: includes/admin/replies.php:193
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your reply without inserting it. This is usually useful only if your theme makes use of the featured image as a reply thumbnail on the home page, a custom header, etc."
+msgstr "<strong>Gambar Fitur</strong> - Ini mengijinkan Anda untuk mengasosiasikan sebuah gambar dengan balasan Anda tanpa menyisipkannya. Ini biasanya hanya berguna jika tema Anda menggunakan gambar fitur sebagai thumbnail balasan pada beranda, tajuk tersuai, dll. "
+
+#: includes/admin/replies.php:200
+msgid "Select the attributes that your reply should have:"
+msgstr "Pilih atribut yang harus dimiliki oleh balasan Anda:"
+
+#: includes/admin/replies.php:202
+msgid "<strong>Forum</strong> dropdown determines the parent forum that the reply belongs to. Select the forum, or leave the default (Use Forum of Topic) to post the reply in forum of the topic."
+msgstr "<strong>Forum</strong> dropdown menentukan forum induk yang dimiliki balasan tsb. Pilihlah forum, atau biarkanlah default (Gunakan Forum dari Topik) untuk mempostingkan balasan dalam forum dari topik tersebut."
+
+#: includes/admin/replies.php:203
+msgid "<strong>Topic</strong> determines the parent topic that the reply belongs to."
+msgstr "<strong>Topik</strong> menentukan topik induk yang dimiliki oleh balasan."
+
+#: includes/admin/replies.php:204
+msgid "<strong>Reply To</strong> determines the threading of the reply."
+msgstr "<strong>Balas ke</strong> menentukan pertalian (threading) dari balasan."
+
+#: includes/admin/settings.php:29
+msgid "Forum User Settings"
+msgstr "Pengaturan Pengguna Forum"
+
+#: includes/admin/settings.php:34
+msgid "Forum Features"
+msgstr "Fitur Forum"
+
+#: includes/admin/settings.php:39
+msgid "Forum Theme Packages"
+msgstr "Bingkisan (Package) Tema Forum"
+
+#: includes/admin/settings.php:44
+msgid "Topics and Replies Per Page"
+msgstr "Topik dan Balasan per Halaman"
+
+#: includes/admin/settings.php:49
+msgid "Topics and Replies Per RSS Page"
+msgstr "Topik dan Balasan per Halaman RSS"
+
+#: includes/admin/settings.php:54
+msgid "Forum Root Slug"
+msgstr "Slug Akar Forum"
+
+#: includes/admin/settings.php:64
+msgid "Forum User Slugs"
+msgstr "Slug Pengguan Forum"
+
+#: templates/default/bbpress/user-details.php:57
+#: includes/extend/buddypress/loader.php:247 includes/admin/topics.php:450
+#: includes/admin/settings.php:198 includes/admin/tools/common.php:449
+msgid "Favorites"
+msgstr "Kesukaan"
+
+#: templates/default/bbpress/user-details.php:67
+#: includes/extend/buddypress/loader.php:260 includes/admin/topics.php:480
+#: includes/admin/settings.php:206 includes/admin/settings.php:445
+#: includes/admin/tools/common.php:452 includes/admin/forums.php:267
+msgid "Subscriptions"
+msgstr "Berlangganan (subscription)"
+
+#: templates/default/bbpress/form-search.php:21
+#: templates/default/bbpress/form-topic-search.php:20
+#: templates/default/bbpress/form-reply-search.php:20
+#: includes/search/template.php:175 includes/common/template.php:2446
+#: includes/admin/settings.php:230 includes/admin/settings.php:400
+msgid "Search"
+msgstr "Cari"
+
+#: includes/admin/settings.php:238
+msgid "Post Formatting"
+msgstr "Pemformatan tulisan"
+
+#: includes/admin/settings.php:168
+msgid "Auto-embed links"
+msgstr "Tautan terpasang otomatis (auto-embed)"
+
+#: includes/admin/settings.php:176
+msgid "Reply Threading"
+msgstr "Pertalian Balasan"
+
+#: includes/admin/settings.php:268
+msgid "Current Package"
+msgstr "Package Sekarang (Current Package)"
+
+#: includes/admin/settings.php:323
+msgid "Forum Root"
+msgstr "Akar Forum"
+
+#: includes/admin/settings.php:339
+msgid "Forum root should show"
+msgstr "Akar Forum seharusnya menampilkan"
+
+#: includes/admin/settings.php:376
+msgid "Topic View"
+msgstr "Tayangan Topik"
+
+#: includes/admin/settings.php:413
+msgid "User Base"
+msgstr "Basis pengguna"
+
+#: templates/default/bbpress/user-details.php:36
+#: includes/extend/buddypress/loader.php:211
+#: includes/extend/buddypress/loader.php:319 includes/admin/settings.php:421
+msgid "Topics Started"
+msgstr "Topik yang Dimulai"
+
+#: templates/default/bbpress/user-details.php:42
+#: includes/extend/buddypress/loader.php:222
+#: includes/extend/buddypress/loader.php:327 includes/admin/settings.php:429
+msgid "Replies Created"
+msgstr "Balasan-balasan telah dibuat"
+
+#: includes/extend/buddypress/loader.php:346 includes/admin/settings.php:437
+msgid "Favorite Topics"
+msgstr "Topik Favorit"
+
+#: includes/admin/settings.php:487
+msgid "Use Akismet"
+msgstr "Gunakan Akismet"
+
+#: includes/admin/settings.php:654
+msgid "Setting time limits and other user posting capabilities"
+msgstr "Mengatur batas waktu dan kemampuan penulisan (posting) pengguna yang lain"
+
+#: includes/admin/settings.php:753
+msgid "Automatically give registered visitors the %s forum role"
+msgstr "Beri %s peran forum secara otomatis ke pengunjung yang terdaftar"
+
+#: includes/admin/settings.php:770
+msgid "Forum features that can be toggled on and off"
+msgstr "Fitur forum yang tidak dapat diaktifkan atau di-nonaktifkan (toggle on and off)"
+
+#: includes/admin/settings.php:784
+msgid "Allow users to mark topics as favorites"
+msgstr "Ijinkan pengguna untuk menandai topik sebagai kesukaan"
+
+#: includes/admin/settings.php:798
+msgid "Allow users to subscribe to forums and topics"
+msgstr "Ijinkan pengguna untuk berlangganan ke forum dan topik"
+
+#: includes/admin/settings.php:826
+msgid "Allow topics to have tags"
+msgstr "Ijinkan topik untuk memiliki tag"
+
+#: includes/admin/settings.php:870
+msgid "Allow forum wide search"
+msgstr "Ijinkan pencarian berskala forum (forum wide)"
+
+#: includes/admin/settings.php:905
+msgid "Enable threaded (nested) replies %s levels deep"
+msgstr "Aktifkan balasan bertali (threaded) / bersarang (nested) dengan kedalaman %s tingkat"
+
+#: includes/admin/settings.php:934
+msgid "Add toolbar & buttons to textareas to help with HTML formatting"
+msgstr "Tambahkan barisan alat (tool bar) dan tombol ke wilayah teks untuk membantu memformat HTML"
+
+#: includes/admin/settings.php:947
+msgid "How your forum content is displayed within your existing theme."
+msgstr "Bagaimana konten forum Anda ditampilkan dalam tema yang ada."
+
+#: includes/common/classes.php:493 includes/replies/template.php:2565
+#: includes/admin/classes/class-bbp-admin.php:938
+#: includes/admin/classes/class-bbp-admin.php:1018
+msgid "%1$s - %2$s"
+msgstr "%1$s - %2$s"
+
+#: includes/admin/settings.php:975
+msgid "will serve all bbPress templates"
+msgstr "kana melayani semua templat bbPress"
+
+#: includes/admin/settings.php:979
+msgid "No template packages available."
+msgstr "Tidak bingkisan (package) templat yang tersedia."
+
+#: includes/admin/settings.php:993
+msgid "Embed media (YouTube, Twitter, Flickr, etc...) directly into topics and replies"
+msgstr "Sisipkan media (YouTube, Twitter, Flickr, etc...) langsung ke topik dan balasan"
+
+#: includes/admin/settings.php:1008
+msgid "How many topics and replies to show per page"
+msgstr "Jumlah topik dan balasan yang ditampilkan per halaman"
+
+#: includes/admin/settings.php:1051
+msgid "How many topics and replies to show per RSS page"
+msgstr "Jumlah topik dan balasan yang ditampilkan per halaman RSS"
+
+#: includes/admin/settings.php:1098
+msgid "Customize your Forums root. Partner with a WordPress Page and use Shortcodes for more flexibility."
+msgstr "Sesuaikan akar Forum Anda. Bermitra dengan Laman WordPress dan menggunakan kode pendek (shortcode) untuk lebih fleksibel."
+
+#: includes/admin/settings.php:1127
+msgid "Prefix all forum content with the Forum Root slug (Recommended)"
+msgstr "Berikan awalan untuk semua konten forum dengan slug Akar Forum (disarankan)"
+
+#: includes/admin/settings.php:1145
+msgid "Forum Index"
+msgstr "Index Forum"
+
+#: includes/admin/settings.php:1185
+msgid "Customize your user profile slugs."
+msgstr "Sesuaikan slug profil pengguna Anda."
+
+#: includes/admin/settings.php:1411
+msgid "Forum settings for BuddyPress"
+msgstr "Pengaturan Forum untuk BuddyPress"
+
+#: includes/admin/settings.php:1425
+msgid "Allow BuddyPress Groups to have their own forums"
+msgstr "Ijinkan Grup BuddyPress untuk memiliki forum mereka sendiri"
+
+#: includes/admin/settings.php:1492
+msgid "Forum settings for Akismet"
+msgstr "Pengaturan Forum untuk Akismet"
+
+#: includes/admin/settings.php:1507
+msgid "Allow Akismet to actively prevent forum spam."
+msgstr "Ijinkan Akismet untuk secara aktif mencegah spam forum."
+
+#: includes/admin/settings.php:1650
+msgid "Name of the database with your old forum data"
+msgstr "Nama basis data dengan data forum Anda yang lama"
+
+#: includes/admin/settings.php:1663
+msgid "Some optional parameters to help tune the conversion process."
+msgstr "Beberapa parameter opsional untuk membantu menyesuaikan (tune) proses konversi."
+
+#: includes/admin/settings.php:1692
+msgid "Keep this low if you experience out-of-memory issues."
+msgstr "Jagalah ini rendah jika Anda mengalami out-of-memory."
+
+#: includes/admin/settings.php:1707
+msgid "Keep this high to prevent too-many-connection issues."
+msgstr "Jagalah ini tinggi untuk mencegah terlalu-banyak-koneksi."
+
+#: includes/admin/classes/class-bbp-converter.php:162
+#: includes/admin/settings.php:1794
+msgid "Start"
+msgstr "Mulai"
+
+#: includes/admin/settings.php:1872
+msgid "This screen provides access to all of the Forums settings."
+msgstr "Layar ini menyediakan akses ke semua pengaturan Forum."
+
+#: includes/admin/settings.php:1885
+msgid "Favorites are a way for users to save and later return to topics they favor. This is enabled by default."
+msgstr "Kesukaan adalah sebuah cara bagi penggguna untuk menyimpan dan kembali ke topik ini di kemudian hari. Ini diaktifkan dari asalnya (default)."
+
+#: includes/admin/settings.php:1886
+msgid "Subscriptions allow users to subscribe for notifications to topics that interest them. This is enabled by default."
+msgstr "Berlangganan (subscription) mengijinkan pengguna berlangganan untuk pemberitahuan ke topik yang menarik bagi mereka. Ini aktif dari asalnya (default)."
+
+#: includes/admin/settings.php:1887
+msgid "Topic-Tags allow users to filter topics between forums. This is enabled by default."
+msgstr "Tag-Topik mengijinkan pengguna untuk memfilter topik antara forum-forum. Ini diaktifkan dari asalnya (default)."
+
+#: includes/admin/settings.php:1888
+msgid "\"Anonymous Posting\" allows guest users who do not have accounts on your site to both create topics as well as replies."
+msgstr "\"Penulisan (Posting) Anonim\" mengijinkan pengguna tamu yang tidak punya akun di situs Anda untuk membuat topik dan membalas."
+
+#: includes/admin/settings.php:1889
+msgid "The Fancy Editor brings the luxury of the Visual editor and HTML editor from the traditional WordPress dashboard into your theme."
+msgstr "Editor Mewah (Fancy) membawa kemewahan editor visual dan editor HTML dari dasbor WordPress yang tradisional ke tema Anda."
+
+#: includes/admin/settings.php:1890
+msgid "Auto-embed will embed the media content from a URL directly into the replies. For example: links to Flickr and YouTube."
+msgstr "Terpasang otomatis (auto-embed) akan memasang konten media dari URL secara langsung di dalam balasan. Contohnya: tautan ke Flickr dan YouTube."
+
+#: includes/admin/settings.php:1916
+msgid "This is comparable to the WordPress \"Reading Settings\" page, where you can set the number of posts that should show on blog pages and in feeds."
+msgstr "Ini dapat dibandingkan dengan laman WordPress \"Pengaturan Membaca\", dimana Anda dapat mengatur jumlah tulisan yang seharusnya tampil di laman blog dan dalam umpan (feed)."
+
+#: includes/admin/settings.php:1917
+msgid "These are broken up into two separate groups: one for what appears in your theme, another for RSS feeds."
+msgstr "Ini dipecah menjadi 2 grup yang terpisah: satu untuk yang muncul di tema Anda, dan satunya lagi untuk umpan RSS."
+
+#: includes/admin/settings.php:1925
+msgid "Slugs"
+msgstr "Slug"
+
+#: includes/admin/settings.php:1928
+msgid "\"Archive Slugs\" are used as the \"root\" for your forums and topics. If you combine these values with existing page slugs, bbPress will attempt to output the most correct title and content."
+msgstr "\"Slug arsip (archive)\" digunakan sebagai \"akar\" untuk forum dan topik Anda. Jika Anda menggabungkan nilai-nilai ini dengan slug laman yang sudah ada, bbPress akan mencoba membuat judul dan konten yang paling benar."
+
+#: includes/admin/settings.php:1929
+msgid "\"Single Slugs\" are used as a prefix when viewing an individual forum, topic, reply, user, or view."
+msgstr "\"Slug Tunggal\" digunakan sebagai prefix ketika melihat forum, topik, balasan, pengguna, dan tampilan secara satu per satu."
+
+#: includes/admin/settings.php:1930
+msgid "In the event of a slug collision with WordPress or BuddyPress, a warning will appear next to the problem slug(s)."
+msgstr "Bila slug konflik dengan WordPress atau BuddyPress, peringatan akan muncul di sebelah slug yang menjadi masalah."
+
+#: includes/admin/settings.php:2063
+msgid "Topic tag slug"
+msgstr "Slug Tag Topik"
+
+#: includes/admin/settings.php:2098
+msgid "Possible %1$s conflict: %2$s"
+msgstr "Kemungkinan konflik %1$s: %2$s"
+
+#: includes/admin/tools.php:139
+msgid "Recalculate private and hidden forums"
+msgstr "Hitung ulang forum privat dan tersembunyi"
+
+#: includes/admin/classes/class-bbp-admin.php:1081
+msgid "Your users can manage all of their subscriptions in one convenient location."
+msgstr "Pengguna Anda bisa mengelola semua langganan mereka dari satu lokasi mudah."
+
+#: includes/admin/classes/class-bbp-admin.php:1416
+msgid "You can update all the forums on your network through this page. It works by calling the update script of each site automatically. Hit the link below to update."
+msgstr "Anda bisa memutakhirkan semua forum dalam jaringan Anda dari laman ini. Ia bekerja dengan memanggil update script dari masing-masing situs secara otomatis. Klik tautan di bawah ini untuk memutakhirkan."
+
+#: templates/default/bbpress/loop-replies.php:21
+#: templates/default/bbpress/loop-replies.php:47
+#: templates/default/bbpress/loop-topics.php:22
+#: templates/default/bbpress/loop-forums.php:24
+#: includes/admin/settings.php:2024
+msgid "Posts"
+msgstr "Tulisan-tulisan"
+
+#: includes/admin/topics.php:168 includes/admin/topics.php:221
+#: includes/admin/replies.php:162 includes/admin/replies.php:216
+#: includes/admin/settings.php:1938 includes/admin/tools/help.php:44
+#: includes/admin/tools/help.php:73 includes/admin/tools/help.php:131
+#: includes/admin/forums.php:145 includes/admin/forums.php:201
+msgid "<a href=\"https://codex.bbpress.org\" target=\"_blank\">bbPress Documentation</a>"
+msgstr "<a href=\"https://codex.bbpress.org\" target=\"_blank\">Dokumentasi bbPress</a>"
+
+#: includes/admin/topics.php:169 includes/admin/topics.php:222
+#: includes/admin/replies.php:163 includes/admin/replies.php:217
+#: includes/admin/settings.php:1939 includes/admin/tools/help.php:45
+#: includes/admin/tools/help.php:74 includes/admin/tools/help.php:132
+#: includes/admin/forums.php:146 includes/admin/forums.php:202
+msgid "<a href=\"https://bbpress.org/forums/\" target=\"_blank\">bbPress Support Forums</a>"
+msgstr "<a href=\"https://bbpress.org/forums/\" target=\"_blank\">Forum Dukungan bbPress</a>"
+
+#: includes/admin/tools.php:163
+msgid "Recalculate sticky relationship of each topic"
+msgstr "Menghitung ulang relasi sticky dari masing-masing topic"
+
+#: includes/admin/tools/help.php:105
+msgid "In the Database Settings you have a number of options:"
+msgstr "Dalam Pengaturan Database, Anda memiliki sejumlah opsi:"
+
+#: includes/admin/settings.php:1873 includes/admin/tools/help.php:97
+msgid "Please see the additional help tabs for more information on each individual section."
+msgstr "Silakan lihat tab bantuan tambahan untuk informasi lebih lanjut mengenai masing-masing bagian."
+
+#: includes/admin/replies.php:155
+msgid "You can also edit, spam, or move multiple replies to the trash at once. Select the replies you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr "Anda juga dapat mengubah, menandai spam, atau membuang beberapa balasan sekaligus ke tempat sampah. Pilih balasan yang Anda ingin tindak dengan mengklik kotak centang, kemudian pilih tindakan dari menu Tindakan Massal, lalu klik Terapkan."
+
+#: includes/admin/replies.php:128
+msgid "You can filter the list of replies by reply status using the text links in the upper left to show All, Published, Draft, Pending, Trashed, or Spam replies. The default view is to show all replies."
+msgstr "Anda dapat menyaring daftar balasan berdasarkan status menggunakan tautandi kiri atas untuk memperlihatkan balasan: Semua, Terpublikasi, Konsep, Sampah, atau Spam. Tampilan baku adalah untuk menampilkan semua balasan."
+
+#: includes/admin/classes/class-bbp-admin.php:1372
+msgid "Warning! Problem updating %1$s. Your server may not be able to connect to sites running on it. Error message: %2$s"
+msgstr "Peringatan! Ada masalah membarui %1$s. Server Anda mungkin tidak bisa terkoneksi dengan situs-situsnya. Pesan galat: %2$s"
+
+#: includes/admin/forums.php:188
+msgid "<strong>Parent</strong> dropdown determines the parent forum. Select the forum or category from the dropdown, or leave the default \"No parent\" to create the forum at the root of your forums."
+msgstr "Menu jatuh-turun <strong>Induk</strong> menentukan forum induk. Pilih forum atau kategori dari menu taruh-turun, atau biarkan nilai baku \"Tanpa Induk\" untuk membuat forum pada akar dari forum-forum Anda."

@@ -1,0 +1,41 @@
+# Translation of Plugins - WordPress Login Form - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WordPress Login Form - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-23 11:09:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WordPress Login Form - Development (trunk)\n"
+
+#: main.php:77
+msgid "Please visit the <a target=\"_blank\" href=\"%s\">WP Login Form</a> documentation page for usage instructions."
+msgstr "Por favor, visita la página de documentación de <a target=\"_blank\" href=\"%s\">WP Login Form</a> para las instrucciones de uso."
+
+#. Author URI of the plugin
+msgid "https://noorsplugin.com/"
+msgstr "https://noorsplugin.com/"
+
+#. Author of the plugin
+msgid "naa986"
+msgstr "naa986"
+
+#. Description of the plugin
+msgid "Create a simple login form for use anywhere within WordPress."
+msgstr "Crea un sencillo formulario de acceso para utilizarlo en cualquier lugar dentro de WordPress."
+
+#. Plugin URI of the plugin
+msgid "https://noorsplugin.com/wordpress-login-form-plugin/"
+msgstr "https://noorsplugin.com/wordpress-login-form-plugin/"
+
+#. Plugin Name of the plugin
+#: main.php:70
+msgid "WP Login Form"
+msgstr "WP Login Form"
+
+#: main.php:56
+msgid "Settings"
+msgstr "Ajustes"

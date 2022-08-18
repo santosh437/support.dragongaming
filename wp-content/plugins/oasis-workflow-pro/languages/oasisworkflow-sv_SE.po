@@ -1,0 +1,4077 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: oasis-workflow\n"
+"POT-Creation-Date: 2020-12-12 11:13-0800\n"
+"PO-Revision-Date: 2020-12-12 11:13-0800\n"
+"Last-Translator: Oasis Workflow <support@oasisworkflow.com>\n"
+"Language-Team: support@oasisworkflow.com\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext;esc_html__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js/lib/textedit\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: src/block.js\n"
+
+#: includes/class-ow-api.php:50 includes/class-ow-process-flow.php:77
+#: includes/class-ow-process-flow.php:284
+#: includes/class-ow-process-flow.php:463
+#: includes/class-ow-process-flow.php:536
+#: includes/class-ow-process-flow.php:674
+#: includes/class-ow-process-flow.php:2240
+#: includes/class-ow-process-flow.php:2636
+#: includes/class-ow-process-flow.php:4811
+#: includes/class-ow-process-flow.php:5960
+#: includes/class-ow-process-flow.php:6349
+msgid "You are not allowed to create/edit post."
+msgstr "Du tillåts inte att skapa eller redigera inlägget."
+
+#: includes/class-ow-api.php:66
+msgid "No users found for this workflow. Please check for your workflow setup."
+msgstr ""
+"Inga användare hittades för detta arbetsflöde. Vänligen kontrollera din "
+"arbetsflödesinstallationen."
+
+#: includes/class-ow-api.php:83
+msgid "No users found for this team. Please check for your team setup."
+msgstr ""
+"Inga användare hittades för det här laget. Kontrollera i dina team-"
+"inställningar."
+
+#: includes/class-ow-auto-submit-settings.php:43 oasis-workflow-pro.php:640
+msgid "15 minutes"
+msgstr "15 minuter"
+
+#: includes/class-ow-auto-submit-settings.php:44 oasis-workflow-pro.php:641
+msgid "30 minutes"
+msgstr "30 minuter"
+
+#: includes/class-ow-auto-submit-settings.php:45 oasis-workflow-pro.php:642
+msgid "45 minutes"
+msgstr "45 Minuter"
+
+#: includes/class-ow-auto-submit-settings.php:46
+#: includes/class-ow-email-settings.php:73
+msgid "1 hour"
+msgstr "1 timmar"
+
+#: includes/class-ow-auto-submit-settings.php:47
+#: includes/class-ow-email-settings.php:74 oasis-workflow-pro.php:643
+msgid "4 hours"
+msgstr "4 timmar"
+
+#: includes/class-ow-auto-submit-settings.php:48
+#: includes/class-ow-email-settings.php:75 oasis-workflow-pro.php:644
+msgid "8 hours"
+msgstr "8 timmar"
+
+#: includes/class-ow-auto-submit-settings.php:79
+msgid "Auto submit triggered successfully. "
+msgstr "Auto skicka utlöste framgångsrikt. "
+
+#: includes/class-ow-auto-submit-settings.php:100
+msgid "Please select atleast one Post/Page status."
+msgstr "Vänligen välj iallafall ett inlägg/sida status."
+
+#: includes/class-ow-auto-submit-settings.php:116
+msgid "Please enter a numeric value for due date."
+msgstr "Ange ett numeriskt värde för due date."
+
+#: includes/class-ow-auto-submit-settings.php:123
+msgid "Please enter a value for due date."
+msgstr "Ange ett värde för due date."
+
+#: includes/class-ow-auto-submit-settings.php:142
+msgid "Please enter a numeric value for post count."
+msgstr "Ange ett numeriskt värde för inläggsantal."
+
+#: includes/class-ow-auto-submit-settings.php:149
+msgid "Please enter the number of posts/pages to be processed at one time."
+msgstr "Ange antalet inlägg/sidor som ska bearbetas på en gång."
+
+#: includes/class-ow-auto-submit-settings.php:218
+msgid ""
+"Please provide keywords for the workflows to participate in auto submit "
+"process."
+msgstr "Ange sökord för arbetsflöden att delta i auto skicka processen."
+
+#: includes/class-ow-auto-submit-settings.php:271
+msgid "Enable Auto Submit?"
+msgstr "Aktivera automatisk skicka?"
+
+#: includes/class-ow-auto-submit-settings.php:279
+msgid "Post/Page status(es) to be selected for auto submit:"
+msgstr "Post/sida status(es) väljas för auto skicka:"
+
+#: includes/class-ow-auto-submit-settings.php:293
+msgid "Include the following in keyword search:"
+msgstr "Inkludera följande i sökordssökning:"
+
+#: includes/class-ow-auto-submit-settings.php:301
+#: includes/class-ow-history-service.php:194
+#: includes/class-ow-history-service.php:207
+#: includes/class-ow-history-service.php:917
+#: includes/class-ow-report-service.php:271
+#: includes/class-ow-workflow-service.php:1361
+#: includes/pages/subpages/workflow-copy-popup.php:21
+msgid "Title"
+msgstr "Titel"
+
+#: includes/class-ow-auto-submit-settings.php:308
+#: includes/pages/revision-compare.php:110
+msgid "Tags"
+msgstr "Etiketter"
+
+#: includes/class-ow-auto-submit-settings.php:315
+msgid "Categories"
+msgstr "Kategorier"
+
+#: includes/class-ow-auto-submit-settings.php:324
+msgid "Taxonomies / Terms"
+msgstr "Taxonomies/ Terms"
+
+#: includes/class-ow-auto-submit-settings.php:331
+msgid "Set Due date as CURRENT DATE + "
+msgstr "Ange förfallodatum som aktuellt datum + "
+
+#: includes/class-ow-auto-submit-settings.php:338
+#: includes/class-ow-workflow-settings.php:367
+msgid "day(s)."
+msgstr "dag(ar)."
+
+#: includes/class-ow-auto-submit-settings.php:346
+msgid "Auto submit comments:"
+msgstr "Auto skicka kommentarer:"
+
+#: includes/class-ow-auto-submit-settings.php:359
+msgid "Process "
+msgstr "Process "
+
+#: includes/class-ow-auto-submit-settings.php:366
+msgid "posts/pages at one time."
+msgstr "inlägg/sidor på en gång."
+
+#: includes/class-ow-auto-submit-settings.php:370
+msgid ""
+"(Limit the number of posts/pages to be processed at one time for optimum "
+"server performance.)"
+msgstr ""
+"(Begränsa antalet inlägg/sidor som ska bearbetas på en gång för optimal "
+"prestanda.)"
+
+#: includes/class-ow-auto-submit-settings.php:377
+msgid "Run Auto Submit Engine every:"
+msgstr "Kör automatisk lämna in motorn varje:"
+
+#: includes/class-ow-auto-submit-settings.php:381
+#: includes/class-ow-email-settings.php:653
+msgid "Please Select"
+msgstr "Vänligen välj"
+
+#: includes/class-ow-auto-submit-settings.php:396
+msgid "(How often do you wish to run the auto submit process?)"
+msgstr "(Hur ofta du vill köra automatiskt skicka processen?)"
+
+#: includes/class-ow-auto-submit-settings.php:405
+msgid "Applicable Workflows for auto submit:"
+msgstr "Tillämpliga arbetsflöden för automatisk inlämning:"
+
+#: includes/class-ow-auto-submit-settings.php:409
+msgid ""
+"(Provide keywords(comma separated) for the workflows to participate in auto "
+"submit process.)"
+msgstr ""
+"(Ge sökord (kommaavgränsad) för arbetsflöden att delta i auto skicka "
+"processen.)"
+
+#: includes/class-ow-auto-submit-settings.php:413
+msgid "Assigned Workflows"
+msgstr "Tilldelade arbetsflöden"
+
+#: includes/class-ow-auto-submit-settings.php:414
+msgid "Keywords"
+msgstr "Nyckelord"
+
+#: includes/class-ow-auto-submit-settings.php:425
+#: includes/class-ow-auto-submit-settings.php:447
+msgid "Keywords for Auto Submit(comma separated)"
+msgstr "Sökord för automatisk Submit(comma separated)"
+
+#: includes/class-ow-auto-submit-settings.php:457
+msgid ""
+"No applicable workflows found. Click the \"+ Assign Workflow\" button to add "
+"workflows."
+msgstr ""
+"Inga tillämpliga arbetsflöden hittade. Klicka på knappen \"+ Tilldela "
+"arbetsflöde\" för att lägga till arbetsflöden."
+
+#: includes/class-ow-auto-submit-settings.php:462
+msgid "+ Assign Workflow"
+msgstr "+ Tilldela arbetsflöde"
+
+#: includes/class-ow-auto-submit-settings.php:474
+#: includes/class-ow-document-revision-settings.php:269
+#: includes/class-ow-email-settings.php:728
+#: includes/class-ow-external-user-settings.php:216
+#: includes/class-ow-license-settings.php:131
+#: includes/class-ow-workflow-settings.php:509
+#: includes/pages/subpages/connection-info-content.php:95
+#: includes/pages/subpages/reassign.php:112
+#: includes/pages/subpages/step-info-content.php:419
+#: includes/pages/subpages/workflow-create-popup.php:38
+#: includes/pages/workflow-create.php:355
+#: includes/pages/workflow-create.php:381
+msgid "Save"
+msgstr "Spara"
+
+#: includes/class-ow-auto-submit-settings.php:478
+msgid "Trigger Auto Submit - Just One Time"
+msgstr "Utlösa Auto Skicka - bara en gång"
+
+#: includes/class-ow-custom-capabilities.php:201
+#: includes/class-ow-process-flow.php:1642
+#: includes/class-ow-process-flow.php:1810
+#: includes/class-ow-process-flow.php:1843
+#: includes/class-ow-process-flow.php:2019
+#: includes/class-ow-process-flow.php:2506
+#: includes/class-ow-process-flow.php:2613
+#: includes/class-ow-process-flow.php:2851
+#: includes/class-ow-process-flow.php:2987
+#: includes/class-ow-process-flow.php:4680
+#: includes/class-ow-process-flow.php:4968
+#: includes/class-ow-process-flow.php:5904
+#: includes/class-ow-process-flow.php:6057
+#: includes/class-ow-process-flow.php:6171
+#: includes/class-ow-process-flow.php:6246
+#: includes/class-ow-revision-service.php:89
+#: includes/class-ow-revision-service.php:131
+#: includes/class-ow-revision-service.php:190
+#: includes/class-ow-revision-service.php:274
+#: includes/class-ow-revision-service.php:565
+#: includes/class-ow-tools-service.php:1243
+#: includes/class-ow-tools-service.php:1262 includes/class-ow-utility.php:1077
+#: includes/class-ow-workflow-service.php:425
+#: includes/class-ow-workflow-service.php:1240
+msgid "Unauthorized access."
+msgstr "Obehörig åtkomst."
+
+#: includes/class-ow-custom-capabilities.php:206
+msgid "You are not allowed to invoke this api."
+msgstr "Du får inte anropa detta API."
+
+#: includes/class-ow-custom-statuses.php:103
+msgid "You are not allowed to create custom statuses."
+msgstr "Du får inte skapa egna statusar."
+
+#: includes/class-ow-custom-statuses.php:126
+#: includes/class-ow-custom-statuses.php:162
+msgid "Could not add status: "
+msgstr "Kunde inte lägga till status: "
+
+#: includes/class-ow-custom-statuses.php:144
+msgid "You are not allowed to edit/update the custom status."
+msgstr "Du får inte redigera/uppdatera anpassade status."
+
+#: includes/class-ow-custom-statuses.php:179
+msgid "You are not allowed to delete the custom status."
+msgstr "Du får inte ta bort den anpassade statusen."
+
+#: includes/class-ow-custom-statuses.php:220
+msgid "Custom status has been added successfully."
+msgstr "Anpassade status har lagts till."
+
+#: includes/class-ow-custom-statuses.php:232
+msgid "Custom status already exist."
+msgstr "Anpassad status finns redan."
+
+#: includes/class-ow-custom-statuses.php:244
+msgid "Custom status has been updated successfully."
+msgstr "Anpassade status har uppdaterats."
+
+#: includes/class-ow-custom-statuses.php:283
+#: includes/pages/ow-custom-statuses.php:90
+msgid "Name"
+msgstr "Namn"
+
+#: includes/class-ow-custom-statuses.php:284
+#: includes/pages/ow-custom-statuses.php:98
+msgid "Slug"
+msgstr "Permalänk"
+
+#: includes/class-ow-custom-statuses.php:285
+#: includes/pages/ow-custom-statuses.php:106
+#: includes/pages/subpages/workflow-copy-popup.php:30
+msgid "Description"
+msgstr "Beskrivning"
+
+#: includes/class-ow-document-revision-settings.php:162
+msgid "Activate Revision process?"
+msgstr "Aktivera översynen?"
+
+#: includes/class-ow-document-revision-settings.php:169
+msgid "Title prefix:"
+msgstr "Titeln prefix:"
+
+#: includes/class-ow-document-revision-settings.php:175
+msgid ""
+"Prefix to be added before the original title, e.g. \"Copy of\" (blank for no "
+"prefix)"
+msgstr ""
+"Prefix som ska läggas innan den ursprungliga titeln, t.ex. \"Kopia av"
+"\" (tomt för inget prefix)"
+
+#: includes/class-ow-document-revision-settings.php:181
+msgid "Title suffix:"
+msgstr "Titeln suffix:"
+
+#: includes/class-ow-document-revision-settings.php:187
+msgid ""
+"Suffix to be added after the original title, e.g. \"(dup)\" (blank for no "
+"suffix)"
+msgstr ""
+"Suffix som ska läggas till efter den ursprungliga titeln, t.ex. "
+"\"(DUP)\" (tomt för inget suffix)"
+
+#: includes/class-ow-document-revision-settings.php:196
+msgid "Revise children articles on parent revision?"
+msgstr "Revidera barn artiklar om förälder revidering?"
+
+#: includes/class-ow-document-revision-settings.php:200
+msgid "(Applicable to hierarchical post types)"
+msgstr "(Gäller hierarkiska post typer)"
+
+#: includes/class-ow-document-revision-settings.php:210
+msgid "Preserve the revisions of the revised article?"
+msgstr "Bevara revideringar av reviderade artikeln?"
+
+#: includes/class-ow-document-revision-settings.php:213
+msgid "(Useful for strict auditing purposes)"
+msgstr "(Användbart för strikt granskning)"
+
+#: includes/class-ow-document-revision-settings.php:217
+msgid ""
+"(When updating the published article with revised content, copy the "
+"revisions of the revised article.)"
+msgstr ""
+"(När du uppdaterar den publicerade artikeln med reviderade innehåll, kopiera "
+"revideringar av reviderade artikeln.)"
+
+#: includes/class-ow-document-revision-settings.php:228
+msgid "Delete the revision after it's copied over to the original article?"
+msgstr "Ta bort översynen efter kopieras över till den ursprungliga artikeln?"
+
+#: includes/class-ow-document-revision-settings.php:232
+msgid ""
+"(The workflow history of the revision will get added to the workflow history "
+"of the original article.)"
+msgstr ""
+"(Arbetsflödeshistoriken för översynen läggs till den ursprungliga artikeln "
+"arbetsflöde historia.)"
+
+#: includes/class-ow-document-revision-settings.php:242
+msgid "Hide Compare Button?"
+msgstr "Dölj jämför knappen?"
+
+#: includes/class-ow-document-revision-settings.php:249
+msgid "Make Revision Overlay Message:"
+msgstr "Göra överlägg ändringsmeddelande:"
+
+#: includes/class-ow-document-revision-settings.php:253
+msgid ""
+"(For published articles, display a popup window with a message to let users "
+"know that they need to revise the article before making any changes.)"
+msgstr ""
+"(För publicerade artiklar, Visa ett popup-fönster med ett meddelande att "
+"användarna vet att de behöver se över artikeln innan du gör några ändringar.)"
+
+#: includes/class-ow-duplicate-service.php:57
+#: includes/class-ow-duplicate-service.php:72
+#: includes/class-ow-workflow-terminology-settings.php:192
+#: includes/class-ow-workflow-terminology-settings.php:370
+msgid "Duplicate Post"
+msgstr "Duplicera post"
+
+#: includes/class-ow-duplicate-service.php:115
+msgid "You are not allowed to duplicate the post."
+msgstr "Du får inte duplicera inlägget."
+
+#: includes/class-ow-duplicate-service.php:135
+msgid "You are not allowed to make duplication of post."
+msgstr "Du får inte göra dubbelarbete."
+
+#: includes/class-ow-duplicate-service.php:140
+msgid "No post for duplication has been supplied!"
+msgstr "Inget inlägg för dubbelarbete har levererats!"
+
+#: includes/class-ow-duplicate-service.php:154
+msgid "Duplication failed, could not find original:"
+msgstr "Duplikation falerade, kunde inte hitta original:"
+
+#: includes/class-ow-email-settings-helper.php:61
+msgid "Post Publish Notification"
+msgstr "Inlägget publicera anmälan"
+
+#: includes/class-ow-email-settings-helper.php:62
+msgid "Revised Post Published Notification"
+msgstr "Reviderade Post publicerade anmälan"
+
+#: includes/class-ow-email-settings-helper.php:63
+msgid "Unauthorized Update Notification"
+msgstr "Obehörig uppdateringsmeddelande"
+
+#: includes/class-ow-email-settings-helper.php:64
+msgid "Task Claimed Notification"
+msgstr "Uppgift hävdade anmälan"
+
+#: includes/class-ow-email-settings-helper.php:65
+msgid "Post Submit Notification"
+msgstr "Inlägget lämna in anmälan"
+
+#: includes/class-ow-email-settings-helper.php:66
+msgid "Workflow Abort Notification"
+msgstr "Arbetsflödet abortera anmälan"
+
+#: includes/class-ow-email-settings-helper.php:96
+msgid "Post Author(s)"
+msgstr "Inläggsförfattare"
+
+#: includes/class-ow-email-settings-helper.php:97
+msgid "Administrator(s)"
+msgstr "Administratör(er)"
+
+#: includes/class-ow-email-settings-helper.php:98
+#: includes/class-ow-email-settings-helper.php:801
+#: includes/class-ow-utility.php:727 includes/class-ow-utility.php:1165
+msgid "Post Submitter"
+msgstr "Bokför inlämnare"
+
+#: includes/class-ow-email-settings-helper.php:99
+#: includes/class-ow-email-settings-helper.php:806
+msgid "Current Task Assignees"
+msgstr "Nuvarande uppgiftstilldelningar"
+
+#: includes/class-ow-email-settings-helper.php:148
+msgid " Your article has been published."
+msgstr " Din artikel har publicerats."
+
+#: includes/class-ow-email-settings-helper.php:160
+#: includes/class-ow-email-settings-helper.php:187
+#: includes/class-ow-email-settings-helper.php:214
+#: includes/class-ow-email-settings-helper.php:243
+#: includes/class-ow-email-settings-helper.php:271
+#: includes/class-ow-email-settings-helper.php:299
+msgid "Hello "
+msgstr "Hej "
+
+#: includes/class-ow-email-settings-helper.php:161
+#: includes/class-ow-email-settings-helper.php:272
+#: includes/class-ow-email-settings-helper.php:300
+msgid "Your article "
+msgstr "Din artikel "
+
+#: includes/class-ow-email-settings-helper.php:162
+#: includes/class-ow-email-settings-helper.php:189
+msgid " has been published on "
+msgstr " har varit publicerats på "
+
+#: includes/class-ow-email-settings-helper.php:163
+#: includes/class-ow-email-settings-helper.php:190
+#: includes/class-ow-email-settings-helper.php:219
+#: includes/class-ow-email-settings-helper.php:247
+#: includes/class-ow-email-settings-helper.php:275
+#: includes/class-ow-email-settings-helper.php:305
+msgid "Thanks."
+msgstr "Tack."
+
+#: includes/class-ow-email-settings-helper.php:175
+msgid " Your revised article has been published."
+msgstr " Din reviderade artikeln har publicerats."
+
+#: includes/class-ow-email-settings-helper.php:188
+msgid "Your revised article "
+msgstr "Din reviderade artikel "
+
+#: includes/class-ow-email-settings-helper.php:202
+msgid " Article was updated outside the workflow."
+msgstr " Artikeln uppdaterades utanför arbetsflödet."
+
+#: includes/class-ow-email-settings-helper.php:216
+msgid "who is not part of the assignee list has updated the article "
+msgstr ""
+"som inte är del av listan aktuella förvärvaren har uppdaterat artikeln "
+
+#: includes/class-ow-email-settings-helper.php:218
+msgid " outside the workflow on "
+msgstr " utanför arbetsflödet. "
+
+#: includes/class-ow-email-settings-helper.php:231
+msgid " Task claimed."
+msgstr " Uppgift hävdade."
+
+#: includes/class-ow-email-settings-helper.php:244
+msgid "Another user has claimed the task for the article "
+msgstr "En annan användare har gjort anspråk på uppgiften för artikeln "
+
+#: includes/class-ow-email-settings-helper.php:246
+msgid " Please ignore the task. "
+msgstr " Vänligen ignorera uppgiften. "
+
+#: includes/class-ow-email-settings-helper.php:259
+msgid " Your article has been submitted."
+msgstr " Din artikel har lämnats in."
+
+#: includes/class-ow-email-settings-helper.php:273
+msgid " has been successfully submitted to the workflow on "
+msgstr " har skickats till arbetsflödet på "
+
+#: includes/class-ow-email-settings-helper.php:287
+msgid " Workflow has been aborted."
+msgstr " Workflow har avbrutits."
+
+#: includes/class-ow-email-settings-helper.php:301
+msgid " has been aborted from the workflow on "
+msgstr " har avbrutits från arbetsflödet. "
+
+#: includes/class-ow-email-settings-helper.php:303
+msgid ""
+"If you have further questions regarding your article, please contact the "
+"administrator. "
+msgstr ""
+"Om du har ytterligare frågor angående din artikel, kontakta administratören. "
+
+#: includes/class-ow-email-settings-helper.php:357
+msgid ""
+"Available template placeholders for email subject and content (Applicable to "
+"email recipients in the 'To' list only):"
+msgstr ""
+"Tillgängliga mallplatshållare för e-postämne och innehåll (Gäller endast e-"
+"postmottagare i listan Till):"
+
+#: includes/class-ow-email-settings-helper.php:800
+#: includes/class-ow-utility.php:197 includes/class-ow-utility.php:242
+#: includes/class-ow-utility.php:723 includes/class-ow-utility.php:1164
+#: oasis-workflow-pro.php:978 oasis-workflow-pro.php:3413
+#: oasis-workflow-pro.php:3519
+msgid "Post Author"
+msgstr "Författare"
+
+#: includes/class-ow-email-settings-helper.php:811
+#: includes/class-ow-utility.php:1168
+msgid "Roles"
+msgstr "Roller"
+
+#: includes/class-ow-email-settings-helper.php:847
+#: includes/class-ow-utility.php:1209
+msgid "Users"
+msgstr "Användare"
+
+#: includes/class-ow-email-settings-helper.php:875
+#: includes/class-ow-settings-base.php:52
+msgid "External Users"
+msgstr "Externa användare"
+
+#: includes/class-ow-email-settings.php:76 oasis-workflow-pro.php:645
+msgid "12 hours"
+msgstr "12 timmar"
+
+#: includes/class-ow-email-settings.php:234
+msgid ""
+"Please select at least one \"To\" email recipient for \"Post Publish "
+"Notification\"."
+msgstr "Välj minst en \"Till\" -mottagare för \"Post Publiceringsmeddelande\"."
+
+#: includes/class-ow-email-settings.php:280
+msgid ""
+"Please select at least one \"To\" email recipient for \"Revised Post Publish "
+"Notification\"."
+msgstr ""
+"Välj minst en \"till\" e-postmottagare för \"Revised Post Publicering "
+"Notification\"."
+
+#: includes/class-ow-email-settings.php:327
+msgid ""
+"Please select at least one \"To\" email recipient for \"Post Submit "
+"Notification\"."
+msgstr "Välj minst en \"till\" e-postmottagare för \"Skicka meddelande\"."
+
+#: includes/class-ow-email-settings.php:373
+msgid ""
+"Please select at least one \"To\" email recipient for \"Unauthorized Update "
+"Notification\"."
+msgstr ""
+"Välj minst en \"Till\"-e-postmottagare för \"Obehörig uppdateringsmeddelande"
+"\"."
+
+#: includes/class-ow-email-settings.php:420
+msgid ""
+"Please select at least one \"To\" email recipient for \"Task Claimed "
+"Notification\"."
+msgstr ""
+"Välj minst en \"Till\"-e-postmottagare för \"Uppgiftsanfordrat meddelande\"."
+
+#: includes/class-ow-email-settings.php:466
+msgid ""
+"Please select at least one \"To\" email recipient for \"Workflow Abort "
+"Notification\"."
+msgstr ""
+"Välj minst en \"Till\"-e-postmottagare för \"Meddelande om avbrott i "
+"arbetsflödet\"."
+
+#: includes/class-ow-email-settings.php:554
+msgid "From Name:"
+msgstr "Från Namn:"
+
+#: includes/class-ow-email-settings.php:561
+msgid ""
+"(Name to be used for sending the workflow related emails. If left blank, the "
+"emails will be sent from the blog name.)"
+msgstr ""
+"(Namn som ska användas för att skicka arbetsflödet med e-post. Om tomt "
+"kommer e-post att skickas från bloggnamnet.)"
+
+#: includes/class-ow-email-settings.php:567
+msgid "From Email:"
+msgstr "Från email:"
+
+#: includes/class-ow-email-settings.php:574
+msgid ""
+"(Email address to be used for sending the workflow related emails. If left "
+"blank, the default email will be used.)"
+msgstr ""
+"(E-postadress som ska användas för att skicka arbetsflödet med e-post. Om "
+"tomma kommer standard e-post att användas.)"
+
+#: includes/class-ow-email-settings.php:580
+msgid "Task Assignment/Reminder Settings"
+msgstr "Tilldelning/påminnelse Aktivitetsinställningar"
+
+#: includes/class-ow-email-settings.php:587
+msgid "Check this box if you want to send emails when tasks are assigned."
+msgstr ""
+"Markera denna ruta om du vill skicka e-post när uppgifter som är tilldelade."
+
+#: includes/class-ow-email-settings.php:597
+msgid ""
+"Check this box if you want to send reminder emails about a pending task."
+msgstr ""
+"Markera denna ruta om du vill skicka e-post påminnelse om en pågående "
+"aktivitet."
+
+#: includes/class-ow-email-settings.php:604
+#: includes/class-ow-email-settings.php:619
+msgid " Send Reminder Email"
+msgstr " Skicka påminnelsemail"
+
+#: includes/class-ow-email-settings.php:611
+msgid "day(s) before due date."
+msgstr "dag(ar) innan slutdatum."
+
+#: includes/class-ow-email-settings.php:626
+msgid "day(s) after due date."
+msgstr "dag(ar) efter slutdatum."
+
+#: includes/class-ow-email-settings.php:636
+msgid "Enable Digest Email"
+msgstr "Aktivera sammanfattad Email"
+
+#: includes/class-ow-email-settings.php:640
+msgid ""
+"(An email digest is an email that combines all assignment emails generated "
+"in the last one hour  into "
+msgstr ""
+"(En email sammanfattad är ett email som kombinerar alla uppdrag email som "
+"genereras i den senaste en timmen in i "
+
+#: includes/class-ow-email-settings.php:641
+msgid "one single message"
+msgstr "ett enskilt meddelande"
+
+#: includes/class-ow-email-settings.php:645
+msgid ""
+"This will reduce the number of emails your users get from the workflow "
+"system."
+msgstr ""
+"Detta kommer att minska antalet e-postmeddelanden dina användare få från "
+"arbetsflödessystemet."
+
+#: includes/class-ow-email-settings.php:650
+msgid "Run Email Digest every:"
+msgstr "Kör email Digest var:"
+
+#: includes/class-ow-email-settings.php:672
+msgid "Other Email Settings"
+msgstr "Andra e-postinställningar"
+
+#: includes/class-ow-email-settings.php:675
+msgid "Select Email Type:"
+msgstr "Välj e-typ:"
+
+#: includes/class-ow-email-settings.php:748
+#: includes/class-ow-email-settings.php:921
+#: includes/class-ow-email-settings.php:1096
+#: includes/class-ow-email-settings.php:1273
+#: includes/class-ow-email-settings.php:1446
+#: includes/class-ow-email-settings.php:1619
+msgid "Is Active?:"
+msgstr "Är aktiv?:"
+
+#: includes/class-ow-email-settings.php:761
+#: includes/class-ow-email-settings.php:935
+#: includes/class-ow-email-settings.php:1111
+#: includes/class-ow-email-settings.php:1286
+#: includes/class-ow-email-settings.php:1459
+#: includes/class-ow-email-settings.php:1632
+msgid "Email Recipients:"
+msgstr "E-postmottagare:"
+
+#: includes/class-ow-email-settings.php:768
+#: includes/class-ow-email-settings.php:942
+#: includes/class-ow-email-settings.php:1118
+#: includes/class-ow-email-settings.php:1293
+#: includes/class-ow-email-settings.php:1466
+#: includes/class-ow-email-settings.php:1639
+msgid "To:"
+msgstr "Till:"
+
+#: includes/class-ow-email-settings.php:802
+#: includes/class-ow-email-settings.php:975
+#: includes/class-ow-email-settings.php:1152
+#: includes/class-ow-email-settings.php:1327
+#: includes/class-ow-email-settings.php:1500
+#: includes/class-ow-email-settings.php:1673
+msgid "Cc:"
+msgstr "Cc:"
+
+#: includes/class-ow-email-settings.php:836
+#: includes/class-ow-email-settings.php:1009
+#: includes/class-ow-email-settings.php:1186
+#: includes/class-ow-email-settings.php:1361
+#: includes/class-ow-email-settings.php:1534
+#: includes/class-ow-email-settings.php:1707
+msgid "Bcc:"
+msgstr "Bcc:"
+
+#: includes/class-ow-email-settings.php:870
+#: includes/class-ow-email-settings.php:1043
+#: includes/class-ow-email-settings.php:1220
+#: includes/class-ow-email-settings.php:1395
+#: includes/class-ow-email-settings.php:1568
+#: includes/class-ow-email-settings.php:1741
+msgid " Email Subject:"
+msgstr " Ämnesrad :"
+
+#: includes/class-ow-email-settings.php:887
+#: includes/class-ow-email-settings.php:1061
+#: includes/class-ow-email-settings.php:1238
+#: includes/class-ow-email-settings.php:1412
+#: includes/class-ow-email-settings.php:1585
+#: includes/class-ow-email-settings.php:1758
+msgid " Email Content:"
+msgstr " Innehåll i e-postmeddelande:"
+
+#: includes/class-ow-email.php:463
+msgid "You have an assignment"
+msgstr "Du har en arbetsuppgift"
+
+#: includes/class-ow-email.php:465
+msgid "You have an assignment related to post - "
+msgstr "Du har en arbetsuppgift gällande post - "
+
+#: includes/class-ow-email.php:535 includes/class-ow-inbox-service.php:211
+#: includes/class-ow-report-service.php:130
+#: includes/class-ow-workflow-terminology-settings.php:190
+#: includes/class-ow-workflow-terminology-settings.php:354
+#: includes/pages/subpages/submit-step.php:65
+#: includes/pages/subpages/submit-workflow.php:53
+#: src/components/ow-task-priority-select-control.js:18
+msgid "Priority"
+msgstr "Prioritet"
+
+#: includes/class-ow-email.php:569 includes/class-ow-history-service.php:199
+#: includes/class-ow-history-service.php:211
+#: includes/class-ow-history-service.php:947
+msgid "Sign off date"
+msgstr "Signerat"
+
+#: includes/class-ow-email.php:576 includes/class-ow-inbox-service.php:209
+#: includes/class-ow-report-service.php:71
+#: includes/class-ow-workflow-terminology-settings.php:180
+#: includes/class-ow-workflow-terminology-settings.php:279
+#: includes/pages/subpages/submit-step.php:63
+#: includes/pages/subpages/submit-workflow.php:49
+#: src/components/ow-signoff.js:31 src/components/ow-submit-to-workflow.js:41
+msgid "Due Date"
+msgstr "Slutdatum"
+
+#: includes/class-ow-email.php:591 includes/class-ow-process-flow.php:2706
+msgid "Additionally,"
+msgstr "Dessutom,"
+
+#: includes/class-ow-email.php:592 includes/class-ow-process-flow.php:2707
+msgid "added the following comments"
+msgstr "gav följande kommentarer"
+
+#: includes/class-ow-external-user-settings.php:98
+#: includes/class-ow-external-user-settings.php:104
+msgid "Row "
+msgstr "Rad "
+
+#: includes/class-ow-external-user-settings.php:99
+msgid " of external user details requires either First Name or Last Name."
+msgstr " av externa användaruppgifter kräver antingen förnamn eller efternamn."
+
+#: includes/class-ow-external-user-settings.php:105
+msgid " of external user details requires Email Address."
+msgstr " av externa användaruppgifter kräver e-postadress."
+
+#: includes/class-ow-external-user-settings.php:148
+msgid "Manage external users (non-WordPress users) for workflow notifications."
+msgstr ""
+"Hantera externa användare (icke-WordPress-användare) för "
+"arbetsflödesmeddelanden."
+
+#: includes/class-ow-external-user-settings.php:150
+msgid ""
+"These users will be available on the Email tab under \"Other Email Settings"
+"\" section."
+msgstr ""
+"Dessa användare kommer att vara tillgängliga på fliken E-post under \"Andra "
+"e-postinställningar\"."
+
+#: includes/class-ow-external-user-settings.php:157 oasis-workflow-pro.php:972
+#: oasis-workflow-pro.php:3408 oasis-workflow-pro.php:3513
+msgid "First Name"
+msgstr "Förnamn"
+
+#: includes/class-ow-external-user-settings.php:158 oasis-workflow-pro.php:973
+#: oasis-workflow-pro.php:3409 oasis-workflow-pro.php:3514
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: includes/class-ow-external-user-settings.php:159
+#: includes/class-ow-settings-base.php:40
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/class-ow-external-user-settings.php:202
+msgid ""
+"No external users found. Click the \"+ Add User\" button to add external "
+"users."
+msgstr ""
+"Inga externa användare hittades. Klicka på knappen \"+ Lägg till användare\" "
+"om du vill lägga till externa användare."
+
+#: includes/class-ow-external-user-settings.php:207
+msgid "+ Add User"
+msgstr "+ Lägg till användare"
+
+#: includes/class-ow-history-service.php:46
+msgid "You are not allowed to delete workflow history."
+msgstr "Du får inte ta bort arbetsflödeshistorik."
+
+#: includes/class-ow-history-service.php:175
+msgid "You are not allowed to download workflow history."
+msgstr "Du får inte ladda ner arbetsflödeshistorik."
+
+#: includes/class-ow-history-service.php:195
+#: includes/class-ow-history-service.php:931
+msgid "Actor"
+msgstr "Aktör"
+
+#: includes/class-ow-history-service.php:196
+#: includes/class-ow-history-service.php:208
+msgid "Workflow (version)"
+msgstr "Arbetsflöde(version)"
+
+#: includes/class-ow-history-service.php:197
+#: includes/class-ow-history-service.php:209 src/components/ow-signoff.js:603
+#: src/components/ow-submit-to-workflow.js:532
+msgid "Step"
+msgstr "Steg"
+
+#: includes/class-ow-history-service.php:198
+#: includes/class-ow-history-service.php:210
+msgid "Assigned Date"
+msgstr "Tilldelat"
+
+#: includes/class-ow-history-service.php:200
+#: includes/class-ow-history-service.php:212
+#: includes/class-ow-history-service.php:948
+msgid "Result"
+msgstr "Resultat"
+
+#: includes/class-ow-history-service.php:201
+#: includes/class-ow-history-service.php:213
+#: includes/class-ow-history-service.php:949
+#: includes/class-ow-inbox-service.php:269 src/components/ow-abort.js:190
+#: src/components/ow-reassign.js:254 src/components/ow-signoff-last-step.js:318
+#: src/components/ow-signoff.js:678 src/components/ow-submit-to-workflow.js:642
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: includes/class-ow-history-service.php:202
+#: includes/class-ow-history-service.php:214
+msgid "Workflow Meta"
+msgstr "Workflow Meta"
+
+#: includes/class-ow-history-service.php:246
+#: includes/class-ow-history-service.php:323
+msgid "No comments found."
+msgstr "Hittade inga kommentarer."
+
+#: includes/class-ow-history-service.php:253
+#: includes/class-ow-history-service.php:331
+msgid "Pre Publish Checklist: "
+msgstr "Pre Publish Checklista: "
+
+#: includes/class-ow-history-service.php:305
+#: includes/class-ow-process-flow.php:4253
+#: includes/pages/workflow-history.php:300
+msgid "No Action Taken"
+msgstr "Ingen åtgärd gjord"
+
+#: includes/class-ow-history-service.php:308
+#: includes/class-ow-process-flow.php:4272
+#: includes/pages/workflow-history.php:303
+msgid "Workflow completed"
+msgstr "Arbetsflöde slutfört"
+
+#: includes/class-ow-history-service.php:311
+#: includes/class-ow-process-flow.php:4275
+#: includes/pages/workflow-history.php:306
+msgid "Cancelled"
+msgstr "Avbruten"
+
+#: includes/class-ow-history-service.php:442
+msgid "You are not allowed to view workflow history."
+msgstr "Det är inte tillåtet att visa arbetsflödet historia."
+
+#: includes/class-ow-history-service.php:937
+#: includes/class-ow-inbox-service.php:252
+msgid "Workflow [Step]"
+msgstr "Arbetsflödet [Step]"
+
+#: includes/class-ow-history-service.php:943
+msgid "Assigned date"
+msgstr "Tilldelat"
+
+#: includes/class-ow-inbox-service.php:218
+#: includes/class-ow-report-service.php:99
+msgid "Post/Page"
+msgstr "Inlägg/sida"
+
+#: includes/class-ow-inbox-service.php:236
+#: includes/class-ow-report-service.php:283
+msgid "Type"
+msgstr "Typ"
+
+#: includes/class-ow-inbox-service.php:243
+#: includes/class-ow-report-service.php:295
+msgid "Author"
+msgstr "Författare"
+
+#: includes/class-ow-inbox-service.php:249
+msgid "Last Signed off By"
+msgstr "Senast signerat av"
+
+#: includes/class-ow-inbox-service.php:254
+#: includes/pages/revision-compare.php:126 oasis-workflow-pro.php:975
+#: oasis-workflow-pro.php:3411 oasis-workflow-pro.php:3516
+msgid "Category"
+msgstr "Kategori"
+
+#: includes/class-ow-inbox-service.php:374
+#: includes/class-ow-process-flow.php:5478 src/components/ow-claim.js:131
+msgid "Claim"
+msgstr "Gör anspråk på"
+
+#: includes/class-ow-inbox-service.php:380
+msgid "Claim and Edit"
+msgstr "Göra anspråk på och redigera"
+
+#: includes/class-ow-inbox-service.php:499
+#: includes/pages/workflow-dashboard-widget.php:36
+msgid " But there are currently "
+msgstr " Men det finns för närvarande "
+
+#: includes/class-ow-inbox-service.php:503
+#: includes/pages/workflow-dashboard-widget.php:40
+#: includes/pages/workflow-dashboard-widget.php:46
+msgid " unclaimed task(s)."
+msgstr " ej utlösta uppgifter."
+
+#: includes/class-ow-inbox-service.php:508
+#: includes/class-ow-inbox-service.php:515
+#: includes/pages/workflow-dashboard-widget.php:64
+msgid "Hurray! No assignments."
+msgstr "Hurra! Inga arbetsuppgifter."
+
+#: includes/class-ow-inbox-service.php:529
+msgid "Select a user to reassign the task."
+msgstr "Välj en användare att tilldela om aktiviteten."
+
+#: includes/class-ow-inbox-service.php:531
+#: includes/class-ow-process-flow.php:5509
+#: includes/class-ow-process-flow.php:5663
+#: includes/class-ow-process-flow.php:5873 oasis-workflow-pro.php:4378
+msgid "Please add comments."
+msgstr "Lägg till kommentarer."
+
+#: includes/class-ow-inbox-service.php:558
+#: includes/class-ow-process-flow.php:5472
+#: includes/class-ow-workflow-terminology-settings.php:172
+#: includes/class-ow-workflow-terminology-settings.php:233
+#: includes/pages/subpages/submit-step.php:59
+#: src/components/ow-signoff-last-step.js:23 src/components/ow-signoff.js:29
+msgid "Sign Off"
+msgstr "Signera"
+
+#: includes/class-ow-inbox-service.php:560
+#: includes/class-ow-process-flow.php:5861
+#: includes/class-ow-workflow-terminology-settings.php:184
+#: includes/class-ow-workflow-terminology-settings.php:309
+#: includes/pages/subpages/abort-workflow-comment.php:4
+#: src/components/ow-abort.js:17
+msgid "Abort Workflow"
+msgstr "Avbryt arbetsflöde"
+
+#: includes/class-ow-inbox-service.php:567
+#: includes/class-ow-workflow-service.php:1408
+#: includes/pages/ow-custom-statuses.php:40
+#: includes/pages/workflow-create.php:409
+#: includes/pages/workflow-create.php:416
+msgid "Edit"
+msgstr "Redigera"
+
+#: includes/class-ow-inbox-service.php:575
+msgid "Edit with Elementor"
+msgstr "Redigera med Elementor"
+
+#: includes/class-ow-inbox-service.php:580
+msgid "View"
+msgstr "Visa"
+
+#: includes/class-ow-inbox-service.php:587
+#: includes/class-ow-revision-service.php:1329
+#: includes/class-ow-revision-service.php:1330
+msgid "Compare"
+msgstr "Jämför"
+
+#: includes/class-ow-inbox-service.php:599
+#: includes/class-ow-process-flow.php:5480
+#: includes/pages/subpages/reassign.php:58 src/components/ow-reassign.js:21
+msgid "Reassign"
+msgstr "Tilldela annan"
+
+#: includes/class-ow-inbox-service.php:612
+msgid "View History"
+msgstr "Visa historik"
+
+#: includes/class-ow-license-settings.php:63
+msgid ""
+"License cannot be deactivated. Either the license key is invalid or the "
+"licensing server cannot be reached."
+msgstr ""
+"Licens kan inte inaktiveras. Licensnyckeln är ogiltig eller "
+"licensieringsservern inte kan nås."
+
+#: includes/class-ow-license-settings.php:82
+msgid ""
+"License cannot be activated. Either the license key is invalid or your "
+"activation limit is reached."
+msgstr ""
+"Licens kan inte aktiveras. Licensnyckeln är ogiltig eller din aktiveringen "
+"gränsen nås."
+
+#: includes/class-ow-license-settings.php:111
+msgid "license key"
+msgstr "licensnyckel"
+
+#: includes/class-ow-license-settings.php:120
+msgid "Deactivate License"
+msgstr "Deaktivera licensnyckel"
+
+#: includes/class-ow-plugin-updater.php:211
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+
+#: includes/class-ow-plugin-updater.php:220
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+
+#: includes/class-ow-plugin-updater.php:387
+msgid "You do not have permission to install plugin updates"
+msgstr "Du har inte behörighet att installera plugin uppdateringar"
+
+#: includes/class-ow-plugin-updater.php:388
+msgid "Error"
+msgstr "Fel"
+
+#: includes/class-ow-process-flow.php:134
+#: includes/class-ow-process-flow.php:588
+#: includes/class-ow-process-flow.php:5486
+#: includes/class-ow-process-flow.php:5636 src/components/ow-signoff.js:245
+#: src/components/ow-submit-to-workflow.js:175
+msgid "No users found to assign the task."
+msgstr "Inga användare hittades i uppdrag."
+
+#: includes/class-ow-process-flow.php:325
+#: includes/class-ow-process-flow.php:767
+#: includes/class-ow-process-flow.php:6007 src/components/ow-signoff.js:391
+#: src/components/ow-submit-to-workflow.js:342
+msgid "Due date must be greater than the current date."
+msgstr "Vederbörlig datum måste vara större än det aktuella datumet."
+
+#: includes/class-ow-process-flow.php:341
+#: includes/class-ow-workflow-terminology-settings.php:174
+#: includes/class-ow-workflow-terminology-settings.php:218
+#: src/components/ow-submit-to-workflow.js:42
+msgid "Continue to Submit"
+msgstr "Fortsätt att Skicka"
+
+#: includes/class-ow-process-flow.php:781
+#: includes/class-ow-process-flow.php:2316
+#: includes/class-ow-workflow-terminology-settings.php:176
+#: includes/class-ow-workflow-terminology-settings.php:248
+msgid "Continue to Sign off"
+msgstr "Fortsätt till Sign off"
+
+#: includes/class-ow-process-flow.php:906
+msgid ""
+"No users found for the assigned Team and Workflow role. Please contact the "
+"administrator."
+msgstr ""
+"Inga användare hittades för den tilldelade Team och arbetsflöde roller. "
+"Kontakta administratören."
+
+#: includes/class-ow-process-flow.php:1646
+msgid "You are not allowed to signoff."
+msgstr "Du får inte signera."
+
+#: includes/class-ow-process-flow.php:1751
+#: includes/class-ow-process-flow.php:5510
+msgid "The task was successfully signed off."
+msgstr "Uppgiften har signerats."
+
+#: includes/class-ow-process-flow.php:1814
+msgid "You are not allowed to claim."
+msgstr "Du får inte göra anspråk på detta."
+
+#: includes/class-ow-process-flow.php:1847
+msgid "You are not allowed to claim the task."
+msgstr "Du får inte göra anspråk på uppgiften."
+
+#: includes/class-ow-process-flow.php:1955
+msgid "Sorry, You can't claim the task. It is already claimed by another user."
+msgstr ""
+"Du kan tyvärr inte göra anspråk på uppgiften. Det har redan begärts av en "
+"annan användare."
+
+#: includes/class-ow-process-flow.php:1970
+msgid "The post was successfully claimed."
+msgstr "Inlägget har begärts."
+
+#: includes/class-ow-process-flow.php:1999
+msgid "Claim Error"
+msgstr "Påstående fel"
+
+#: includes/class-ow-process-flow.php:2024
+#: includes/class-ow-process-flow.php:4972
+msgid "You are not allowed to reassign task."
+msgstr "Du får inte tilldela om uppgift."
+
+#: includes/class-ow-process-flow.php:2046
+msgid "You are not allowed to reassign tasks."
+msgstr "Du får inte tilldela om uppgifter."
+
+#: includes/class-ow-process-flow.php:2118
+#: includes/class-ow-process-flow.php:2159
+#: includes/class-ow-process-flow.php:2200
+msgid "The post was successfully reassigned."
+msgstr "Inlägget har omtilldelas."
+
+#: includes/class-ow-process-flow.php:2211
+msgid "The post can not be reassigned."
+msgstr "Inlägget kan inte omtilldelas."
+
+#: includes/class-ow-process-flow.php:2511
+msgid "You are not allowed to publish post."
+msgstr "Du får inte publicera inlägg."
+
+#: includes/class-ow-process-flow.php:2583
+#: includes/class-ow-process-flow.php:2594
+msgid "The workflow is complete."
+msgstr "Arbets flödet är slutfört."
+
+#: includes/class-ow-process-flow.php:2618
+msgid "You are not allowed to end the workflow process."
+msgstr "Du får inte avsluta arbets flödes processen."
+
+#: includes/class-ow-process-flow.php:2699
+#, php-format
+msgid ""
+"<div>Hello %1$s,</div><p>The post <a href=\"%2$s\" title=\"%3$s\">%3$s</a> "
+"has been cancelled from the workflow.</p>"
+msgstr ""
+"<div>Hej %1$s,</div><p>Inlägget <a href=\"%2$s\" title=\"%3$s\">%3$s</a> har "
+"strukits från arbetsflödet.</p>"
+
+#: includes/class-ow-process-flow.php:2711
+msgid "<p>Thanks.</p>"
+msgstr "<p>Tack.</p>"
+
+#: includes/class-ow-process-flow.php:2722
+msgid "The workflow was successfully aborted from the last step."
+msgstr "Arbets flödet avbröts från det sista steget."
+
+#: includes/class-ow-process-flow.php:2770
+#: includes/class-ow-process-flow.php:2857
+#: includes/class-ow-process-flow.php:2898
+#: includes/class-ow-process-flow.php:5154
+msgid "You are not allowed to abort the workflow."
+msgstr "Du får inte avbryta arbetsflödet."
+
+#: includes/class-ow-process-flow.php:2876
+msgid "The workflow was successfully aborted."
+msgstr "Arbets flödet avbröts."
+
+#: includes/class-ow-process-flow.php:2991
+msgid "You are not allowed delete the post"
+msgstr "Du får inte ta bort inlägget"
+
+#: includes/class-ow-process-flow.php:3065
+msgid ""
+"You cannot claim additional tasks, since you already have more than 2 "
+"assignments."
+msgstr ""
+"Du kan inte begära ytterligare uppgifter, eftersom du redan har mer än 2 "
+"uppdrag."
+
+#: includes/class-ow-process-flow.php:4247
+msgid "Submitted"
+msgstr "Inskickad"
+
+#: includes/class-ow-process-flow.php:4250
+msgid "Aborted"
+msgstr "Avbruten"
+
+#: includes/class-ow-process-flow.php:4256
+#: includes/pages/workflow-inbox.php:105
+msgid "Unclaimed"
+msgstr "Ej tilldelad"
+
+#: includes/class-ow-process-flow.php:4259
+msgid "Claimed"
+msgstr "Tilldelad"
+
+#: includes/class-ow-process-flow.php:4262
+#: includes/class-ow-process-flow.php:4316
+msgid "Reassigned"
+msgstr "Tilldelad"
+
+#: includes/class-ow-process-flow.php:4290
+#: includes/class-ow-process-flow.php:4334
+#: includes/class-ow-workflow-service.php:445
+#: includes/pages/subpages/step-info-content.php:269
+#: includes/pages/subpages/submit-step.php:45
+msgid "Approved"
+msgstr "Godkänd"
+
+#: includes/class-ow-process-flow.php:4293
+#: includes/class-ow-process-flow.php:4337
+msgid "Rejected"
+msgstr "Ej godkänd"
+
+#: includes/class-ow-process-flow.php:4298
+msgid "Completed"
+msgstr "Slutförd"
+
+#: includes/class-ow-process-flow.php:4301
+#: includes/class-ow-process-flow.php:4344
+#: includes/class-ow-workflow-service.php:453
+#: includes/pages/subpages/step-info-content.php:267
+#: includes/pages/subpages/submit-step.php:48
+msgid "Unable to Complete"
+msgstr "Kan ej slutföra"
+
+#: includes/class-ow-process-flow.php:4341
+#: includes/class-ow-workflow-service.php:445
+#: includes/pages/subpages/step-info-content.php:266
+#: includes/pages/subpages/submit-step.php:45
+msgid "Complete"
+msgstr "Slutförd"
+
+#: includes/class-ow-process-flow.php:4685 src/ow-sidebar.js:209
+#: src/ow-sidebar.js:219
+msgid "You are not allowed to submit to workflow."
+msgstr "Du får inte skicka till arbets flödet."
+
+#: includes/class-ow-process-flow.php:4791
+#: includes/class-ow-process-flow.php:5664
+msgid "The post was successfully submitted to the workflow."
+msgstr "Inlägget skickades med lyckat resultat till arbets flödet."
+
+#: includes/class-ow-process-flow.php:5474
+#: includes/class-ow-process-flow.php:5631
+#: includes/class-ow-process-flow.php:5864
+#: includes/class-ow-revision-service.php:140
+msgid ""
+"Preparing the revision compare. If the page doesn't get redirected to the "
+"compare page in 10 seconds,"
+msgstr ""
+"Förbereder revideringen jämför. Om sidan inte får omdirigeras till sidan "
+"jämför i 10 sekunder,"
+
+#: includes/class-ow-process-flow.php:5476
+#: includes/class-ow-process-flow.php:5633
+#: includes/class-ow-process-flow.php:5866
+#: includes/class-ow-revision-service.php:142
+msgid "click here"
+msgstr "klicka här"
+
+#: includes/class-ow-process-flow.php:5479
+msgid "Go to Workflow Inbox"
+msgstr "Gå till inkorg för arbetsflöde"
+
+#: includes/class-ow-process-flow.php:5482
+msgid ""
+"There are no further steps defined in the workflow.</br> Do you want to "
+"cancel the post/page from the workflow?"
+msgstr ""
+"Det finns inga ytterligare steg som definieras i arbetsflödet. </br> Vill du "
+"avbryta uppläggningen / sida från arbetsflödet?"
+
+#: includes/class-ow-process-flow.php:5484
+msgid ""
+"This is the last step in the workflow. Are you ready to complete the "
+"workflow?"
+msgstr ""
+"Det här är det sista steget i arbetsflödet. Är du säker på att du vill "
+"slutföra arbetsflödet?"
+
+#: includes/class-ow-process-flow.php:5487
+msgid "Please select an action."
+msgstr "Välj en åtgärd."
+
+#: includes/class-ow-process-flow.php:5488
+#: includes/class-ow-process-flow.php:5641 src/components/ow-signoff.js:383
+#: src/components/ow-submit-to-workflow.js:334
+msgid "Please select a step."
+msgstr "Välj ett steg."
+
+#: includes/class-ow-process-flow.php:5489
+#: includes/class-ow-process-flow.php:5643 src/components/ow-signoff.js:387
+#: src/components/ow-submit-to-workflow.js:338
+msgid "Please enter a due date."
+msgstr "Ange ett slutdatum."
+
+#: includes/class-ow-process-flow.php:5490
+#: includes/class-ow-process-flow.php:5646 src/components/ow-reassign.js:178
+#: src/components/ow-signoff.js:395 src/components/ow-submit-to-workflow.js:346
+msgid "No assigned actor(s)."
+msgstr "Inga tilldelade aktörer."
+
+#: includes/class-ow-process-flow.php:5491
+#: includes/class-ow-process-flow.php:5637
+msgid "You can select multiple users only for review step. Selected step is"
+msgstr ""
+"Du kan markera flera användare endast för översyn steg. Valda steget är"
+
+#: includes/class-ow-process-flow.php:5493
+#: includes/class-ow-process-flow.php:5639
+msgid "step."
+msgstr "steg."
+
+#: includes/class-ow-process-flow.php:5497
+msgid ""
+"No users found for the assigned Team and Workflow assignee(s). Please "
+"contact the administrator."
+msgstr ""
+"Inga användare hittades för den tilldelade Team och arbetsflöde assignee(s). "
+"Kontakta administratören."
+
+#: includes/class-ow-process-flow.php:5499
+msgid "No team assigned. Please contact the administrator."
+msgstr "Inget lag tilldelas. Kontakta administratören."
+
+#: includes/class-ow-process-flow.php:5500
+#: includes/class-ow-process-flow.php:5654
+#: includes/class-ow-process-flow.php:5868
+#: src/components/ow-compare-revision.js:61
+msgid "Compare With Original"
+msgstr "Jämför med originalet"
+
+#: includes/class-ow-process-flow.php:5511
+msgid "The post was successfully published."
+msgstr "Inlägget har publicerats."
+
+#: includes/class-ow-process-flow.php:5512
+#: includes/class-ow-process-flow.php:5666
+msgid "Exit to Dashboard"
+msgstr "Avsluta till instrumentpanelen"
+
+#: includes/class-ow-process-flow.php:5626
+#: includes/class-ow-workflow-service.php:1156
+#: includes/class-ow-workflow-terminology-settings.php:170
+#: includes/class-ow-workflow-terminology-settings.php:203
+#: src/components/ow-submit-to-workflow.js:38 src/ow-sidebar.js:175
+msgid "Submit to Workflow"
+msgstr "Skicka till arbetsflöde"
+
+#: includes/class-ow-process-flow.php:5629
+msgid "All steps are not defined.\\n Please check the workflow."
+msgstr "Det saknas steg.\\n Var vänlig kontrollera arbetsflödet."
+
+#: includes/class-ow-process-flow.php:5634
+msgid "The selected workflow is not valid.\\n Please check this workflow."
+msgstr ""
+"Det valda arbetsflödet är inte giltigt.\\n Var vänlig kontrollera "
+"arbetsflödet."
+
+#: includes/class-ow-process-flow.php:5640
+#: src/components/ow-submit-to-workflow.js:330
+msgid "Please select a workflow."
+msgstr "Välj ett arbetsflöde."
+
+#: includes/class-ow-process-flow.php:5642
+msgid "This step is not defined."
+msgstr "Det här steget är inte definierat."
+
+#: includes/class-ow-process-flow.php:5644
+msgid "You have not selected any pre publish checklist "
+msgstr "Du har inte valt någon pre publicerar checklista "
+
+#: includes/class-ow-process-flow.php:5645
+msgid "Please select all pre publish checklist "
+msgstr "Välj alla pre publicerar checklista "
+
+#: includes/class-ow-process-flow.php:5651
+msgid "Please select a team."
+msgstr "Välj ett team."
+
+#: includes/class-ow-process-flow.php:5652
+msgid ""
+"No users found for the given Team and Workflow assignee(s). Please check the "
+"team."
+msgstr ""
+"Inga användare hittades för viss laget och arbetsflöde assignee(s). Vänligen "
+"kontrollera laget."
+
+#: includes/class-ow-process-flow.php:5684
+#: includes/class-ow-revision-service.php:1293
+#: includes/class-ow-revision-service.php:1314
+#: includes/class-ow-workflow-terminology-settings.php:188
+#: includes/class-ow-workflow-terminology-settings.php:339
+#: includes/pages/subpages/make-revision-overlay.php:18
+#: includes/pages/subpages/make-revision-overlay.php:23
+#: src/components/ow-make-revision.js:20
+msgid "Make Revision"
+msgstr "Göra översyn"
+
+#: includes/class-ow-process-flow.php:5869
+msgid "Are you sure to terminate the workflow?"
+msgstr "Är du säker på att avsluta arbetsflödet?"
+
+#: includes/class-ow-process-flow.php:5888
+msgid "Update Published Article"
+msgstr "Uppdatera publicerad artikel"
+
+#: includes/class-ow-process-flow.php:5909
+#: includes/class-ow-process-flow.php:6062
+#: includes/class-ow-process-flow.php:6176
+#: includes/class-ow-process-flow.php:6251
+msgid "You are not allowed to get workflow step details."
+msgstr "Du får inte få information om arbets flödes steg."
+
+#: includes/class-ow-report-service.php:89
+msgid "Assigned User"
+msgstr "Tilldelad användare"
+
+#: includes/class-ow-report-service.php:110
+#: includes/class-ow-settings-base.php:37
+msgid "Workflow"
+msgstr "Arbetsflöde"
+
+#: includes/class-ow-report-service.php:121
+msgid "Workflow Step"
+msgstr "Arbetsflöde Steg"
+
+#: includes/class-ow-report-service.php:170
+msgid "- "
+msgstr "- "
+
+#: includes/class-ow-report-service.php:219
+msgid "No current assignments."
+msgstr "Inga aktuella uppdrag."
+
+#: includes/class-ow-report-service.php:307
+msgid "Last Update Date"
+msgstr "Datum för uppdatering"
+
+#: includes/class-ow-report-service.php:364
+msgid "No Posts/Pages found in any workflows."
+msgstr "Inga inlägg/sidor finns i alla arbetsflöden."
+
+#: includes/class-ow-revision-service.php:95
+msgid "You are not allowed to check for revision."
+msgstr "Du får inte söka efter revidering."
+
+#: includes/class-ow-revision-service.php:136
+msgid "You are not allowed to compare revision"
+msgstr "Du får inte jämföra revidering"
+
+#: includes/class-ow-revision-service.php:196
+#: includes/class-ow-revision-service.php:280
+msgid "You are not allowed to create revision of the post."
+msgstr "Du får inte skapa en revision av inlägget."
+
+#: includes/class-ow-revision-service.php:413
+#: includes/class-ow-revision-service.php:439
+msgid "You are not allowed to make the revision."
+msgstr "Du får inte avbryta arbetsflödet."
+
+#: includes/class-ow-revision-service.php:444
+msgid "No post to copy has been supplied!"
+msgstr "Ingen post kopiera har levererats!"
+
+#: includes/class-ow-revision-service.php:458
+msgid "Copy failed, could not find original:"
+msgstr "Duplikation falerade, kunde inte hitta original:"
+
+#: includes/class-ow-revision-service.php:570
+msgid "You are not allowed to create revision of the post"
+msgstr "Du får inte skapa en revision av inlägget"
+
+#: includes/class-ow-settings-base.php:34
+msgid "License"
+msgstr "Licens"
+
+#: includes/class-ow-settings-base.php:43
+msgid "Auto Submit"
+msgstr "Auto-Submit"
+
+#: includes/class-ow-settings-base.php:46
+msgid "Document Revision"
+msgstr "Dokument Omar"
+
+#: includes/class-ow-settings-base.php:49
+msgid "Workflow Terminology"
+msgstr "Arbetsflödet terminologi"
+
+#: includes/class-ow-settings-base.php:68
+#: includes/class-ow-settings-base.php:69
+msgid "Settings"
+msgstr "Inställningar"
+
+#: includes/class-ow-tools-service.php:41
+msgid "You are not allowed to export workflows and the settings"
+msgstr "Du får inte exportera arbetsflöden och inställningarna"
+
+#: includes/class-ow-tools-service.php:57
+msgid "You are not allowed to import workflows and the settings"
+msgstr "Du får inte importera arbetsflöden och inställningarna"
+
+#: includes/class-ow-tools-service.php:655
+msgid "Imported Workflow - "
+msgstr "Importerade arbetsflöde- "
+
+#: includes/class-ow-tools-service.php:691
+msgid "Imported Team - "
+msgstr "Importerade Team- "
+
+#: includes/class-ow-tools-service.php:712
+#: includes/class-ow-tools-service.php:718
+#: includes/class-ow-tools-service.php:786
+#: includes/class-ow-tools-service.php:792
+msgid "Error - "
+msgstr "Fel - "
+
+#: includes/class-ow-tools-service.php:713
+#: includes/class-ow-tools-service.php:719
+#: includes/class-ow-tools-service.php:787
+#: includes/class-ow-tools-service.php:793
+msgid " not available in the target system."
+msgstr " inte finns i målsystemet."
+
+#: includes/class-ow-tools-service.php:764
+msgid "Imported Group - "
+msgstr "Importerade grupp- "
+
+#: includes/class-ow-tools-service.php:869
+msgid "Imported "
+msgstr "Importerad "
+
+#: includes/class-ow-tools-service.php:1173
+msgid "Please select at least one option to export."
+msgstr "Vänligen välj minst ett alternativ att exportera."
+
+#: includes/class-ow-tools-service.php:1181
+msgid "There is no data to export."
+msgstr "Det finns ingen data att exportera."
+
+#: includes/class-ow-tools-service.php:1189
+msgid "No file selected."
+msgstr "Ingen fil markerad."
+
+#: includes/class-ow-tools-service.php:1197
+msgid "Error uploading file. Please try again."
+msgstr "Fel uppstod vid uppladdning av fil. Försök igen."
+
+#: includes/class-ow-tools-service.php:1205
+msgid "Incorrect file type"
+msgstr "Felaktig filtyp"
+
+#: includes/class-ow-tools-service.php:1213
+msgid "Import file empty"
+msgstr "Importerad fil är tom"
+
+#: includes/class-ow-tools-service.php:1221
+msgid "Data imported successfully"
+msgstr "Data importeras framgångsrikt"
+
+#: includes/class-ow-tools-service.php:1249
+#: includes/class-ow-workflow-service.php:1246
+msgid "You are not allowed to fetch workflow settings."
+msgstr "Du får inte hämta arbets flödes inställningar."
+
+#: includes/class-ow-tools-service.php:1268
+msgid "You are not allowed to view editorial comments."
+msgstr "Du får inte Visa redaktionella kommentarer."
+
+#: includes/class-ow-utility.php:552
+#, php-format
+msgid "Displaying %s-%s of %s"
+msgstr "Visar %s-%s av %s"
+
+#: includes/class-ow-utility.php:1035
+msgid "There's something wrong with your code..."
+msgstr "Det är något fel med din kod..."
+
+#: includes/class-ow-utility.php:1081
+msgid "You are not allowed to get workflow priorities"
+msgstr "Du får inte få arbets flödes prioriteter"
+
+#: includes/class-ow-utility.php:1105
+msgid "Low"
+msgstr "Lägst"
+
+#: includes/class-ow-utility.php:1106
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/class-ow-utility.php:1107
+msgid "High"
+msgstr "Hög"
+
+#: includes/class-ow-utility.php:1108
+msgid "Urgent"
+msgstr "Brådskande"
+
+#: includes/class-ow-utility.php:1138
+msgid "assignment"
+msgstr "tilldelning"
+
+#: includes/class-ow-utility.php:1139
+msgid "review"
+msgstr "recension"
+
+#: includes/class-ow-utility.php:1140
+msgid "publish"
+msgstr "publicera"
+
+#: includes/class-ow-utility.php:1340
+msgid "1 Month ago"
+msgstr "1 månad sedan"
+
+#: includes/class-ow-utility.php:1341
+msgid "3 Months ago"
+msgstr "3 månader sedan"
+
+#: includes/class-ow-utility.php:1342
+msgid "6 Months ago"
+msgstr "6 månader sedan"
+
+#: includes/class-ow-utility.php:1343
+msgid "12 Months ago"
+msgstr "12 månader sedan"
+
+#: includes/class-ow-utility.php:1344
+msgid "Since the beginning"
+msgstr "Sedan början"
+
+#: includes/class-ow-utility.php:1355
+msgid "--Select Workflow--"
+msgstr "--Välj arbetsflöde--"
+
+#: includes/class-ow-utility.php:1388
+msgid "No Due Date"
+msgstr "Inget förfallodatum"
+
+#: includes/class-ow-utility.php:1389
+#: includes/pages/workflow-dashboard-widget.php:84
+msgid "Overdue"
+msgstr "Förfallen"
+
+#: includes/class-ow-utility.php:1390
+#: includes/pages/workflow-dashboard-widget.php:89
+msgid "Due Today"
+msgstr "Att betala idag"
+
+#: includes/class-ow-utility.php:1391
+#: includes/pages/workflow-dashboard-widget.php:94
+msgid "Due Tomorrow"
+msgstr "Att betala imorgon"
+
+#: includes/class-ow-utility.php:1392
+#: includes/pages/workflow-dashboard-widget.php:99
+msgid "Due in 7 days"
+msgstr "Förfaller i 7 dagar"
+
+#: includes/class-ow-utility.php:1443
+#, php-format
+msgid "Please <a href=\"%s\">enter and activate</a> your license key for "
+msgstr "Ange <a href=\"%s\">och aktivera din</a> licensnyckel för "
+
+#: includes/class-ow-utility.php:1444
+msgid " to enable automatic updates."
+msgstr " för att möjliggöra automatiska uppdateringar."
+
+#: includes/class-ow-utility.php:1470
+msgid "Your license for "
+msgstr "Din licens för "
+
+#: includes/class-ow-utility.php:1471
+msgid ""
+" has been expired. Please update to get access for new features, bug fix, "
+"security improvement and our support."
+msgstr ""
+" har löpt ut. Vänligen uppdatera för att få tillgång för nya funktioner, "
+"buggfix, säkerhetsförbättring och vår support."
+
+#: includes/class-ow-workflow-service.php:59
+msgid "You are not allowed to create workflows."
+msgstr "Du får inte skapa arbetsflöden."
+
+#: includes/class-ow-workflow-service.php:149
+#: includes/class-ow-workflow-service.php:188
+#: includes/class-ow-workflow-service.php:475
+#: includes/class-ow-workflow-service.php:560
+#: includes/class-ow-workflow-service.php:683
+#: includes/class-ow-workflow-service.php:749
+#: includes/class-ow-workflow-service.php:1565
+msgid "You are not allowed to create/edit workflows."
+msgstr "Du tillåts inte att skapa eller redigera arbetsflöden."
+
+#: includes/class-ow-workflow-service.php:236
+#: includes/class-ow-workflow-service.php:259
+msgid "You are not allowed to delete workflows."
+msgstr "Du får inte ta bort arbetsflöden."
+
+#: includes/class-ow-workflow-service.php:430
+msgid "You are not allowed to get step process details."
+msgstr "Du får inte få steg process detaljer."
+
+#: includes/class-ow-workflow-service.php:452
+#: includes/pages/subpages/step-info-content.php:270
+#: includes/pages/subpages/submit-step.php:48
+msgid "Reject"
+msgstr "Avslå"
+
+#: includes/class-ow-workflow-service.php:1260
+msgid "You are not allowed to get workflows."
+msgstr "Du får inte få arbets flöden."
+
+#: includes/class-ow-workflow-service.php:1357
+msgid "Workflow ID"
+msgstr "Arbetsflöde ID"
+
+#: includes/class-ow-workflow-service.php:1366
+msgid "Version"
+msgstr "Version"
+
+#: includes/class-ow-workflow-service.php:1371
+msgid "Start Date"
+msgstr "Startdatum"
+
+#: includes/class-ow-workflow-service.php:1379
+msgid "End Date"
+msgstr "Slutdatum"
+
+#: includes/class-ow-workflow-service.php:1387
+msgid "Post/Pages in workflow"
+msgstr "Inlägg/sidor i arbetsflöde"
+
+#: includes/class-ow-workflow-service.php:1392
+msgid "Is Valid?"
+msgstr "Är korrekt?"
+
+#: includes/class-ow-workflow-service.php:1415
+#: includes/pages/ow-custom-statuses.php:54
+#: includes/pages/subpages/delete-workflow.php:27
+#: includes/pages/workflow-create.php:410
+#: includes/pages/workflow-create.php:419
+msgid "Delete"
+msgstr "Ta bort"
+
+#: includes/class-ow-workflow-service.php:1421
+#: includes/pages/subpages/workflow-copy-popup.php:40
+#: includes/pages/workflow-create.php:363
+#: includes/pages/workflow-create.php:387
+#: includes/pages/workflow-create.php:418
+msgid "Copy"
+msgstr "Kopiera"
+
+#: includes/class-ow-workflow-settings.php:144 oasis-workflow-pro.php:4468
+msgid "Please enter a numeric value for default due date."
+msgstr "Ange ett numeriskt värde för standard förfallodatum."
+
+#: includes/class-ow-workflow-settings.php:149
+msgid "Please enter the number of days for default due date."
+msgstr "Ange antalet dagar för standard förfallodatum."
+
+#: includes/class-ow-workflow-settings.php:347
+msgid "Activate Workflow process ?"
+msgstr "Aktivera arbetsflödesprocess?"
+
+#: includes/class-ow-workflow-settings.php:351
+msgid ""
+"(After you are done setting up your editorial workflow, make it available "
+"for use by activating the workflow process.)"
+msgstr ""
+"(När du är klar att inrätta ditt redaktionella arbetsflödet, göra den "
+"tillgänglig för användning genom att aktivera arbetsflödesprocessen.)"
+
+#: includes/class-ow-workflow-settings.php:360
+msgid "Set Default Due Date as CURRENT DATE + "
+msgstr "Sätt slutdatum till dagens datum + "
+
+#: includes/class-ow-workflow-settings.php:375
+msgid "Allow to override the Default Due Date on each step of the workflow."
+msgstr ""
+"Tillåta för att åsidosätta standard förfallodatumet på varje steg i "
+"arbetsflödet."
+
+#: includes/class-ow-workflow-settings.php:404
+msgid "Show Workflow options for the following post/page types:"
+msgstr "Visa arbetsflödesinställningar för följande sidtyper:"
+
+#: includes/class-ow-workflow-settings.php:416
+msgid "Roles that can participate in the workflow:"
+msgstr "Roller som kan avbryta arbetsflödet:"
+
+#: includes/class-ow-workflow-settings.php:427
+msgid "Make Workflow Inbox as the dashboard for the following roles:"
+msgstr "Gör arbetsflödet inkorg som instrumentpanelen för följande roller:"
+
+#: includes/class-ow-workflow-settings.php:441
+msgid "Enable workflow task priority."
+msgstr "Aktivera arbetsflödet uppgiftsprioritet."
+
+#: includes/class-ow-workflow-settings.php:445
+msgid "(Allows user to specify priority when signing off the task.)"
+msgstr ""
+"(Tillåter användare att ange prioritet vid undertecknandet av uppgiften.)"
+
+#: includes/class-ow-workflow-settings.php:456
+msgid "Hide Publish Date field on \"Submit to Workflow\"."
+msgstr ""
+"Etikett för \"publicera\" datumfältet på \"Skicka till arbetsflöde\" popup."
+
+#: includes/class-ow-workflow-settings.php:465
+msgid "Make Workflow comments required."
+msgstr "Gör arbetsflödeskommentarer obligatoriska."
+
+#: includes/class-ow-workflow-settings.php:469
+msgid ""
+"(Users will be required to provide comments during submit, sign-off, "
+"reassign, abort action.)"
+msgstr ""
+"(Användare måste lämna kommentarer under inlämning, signering, "
+"återtilldelning, avbryt åtgärd.)"
+
+#: includes/class-ow-workflow-settings.php:480
+msgid "Display Oasis Workflow Sidebar as default for Gutenberg Editor."
+msgstr "Visa Oasis arbets flöde Sidebar som standard för Guten berg redaktör."
+
+#: includes/class-ow-workflow-settings.php:491
+msgid "Delete Workflow History for posts/pages which were last updated :"
+msgstr "Ta bort arbetsflödeshistoriken för inlägg/sidor som uppdaterades:"
+
+#: includes/class-ow-workflow-settings.php:500
+msgid ""
+"(A cron job will run once a day to purge the workflow history for completed "
+"workflows.)"
+msgstr ""
+"(Ett cron-jobb körs en gång om dagen för att Rensa historik för arbetsflöde "
+"för färdiga arbetsflöden.)"
+
+#: includes/class-ow-workflow-terminology-settings.php:178
+#: includes/class-ow-workflow-terminology-settings.php:264
+#: includes/pages/subpages/reassign.php:54
+#: includes/pages/subpages/submit-step.php:61
+#: includes/pages/subpages/submit-workflow.php:47
+#: src/components/ow-signoff.js:30 src/components/ow-submit-to-workflow.js:39
+msgid "Assign Actor(s)"
+msgstr "Tilldela Aktör (er)"
+
+#: includes/class-ow-workflow-terminology-settings.php:182
+#: includes/class-ow-workflow-terminology-settings.php:294
+#: includes/pages/subpages/submit-workflow.php:51 oasis-workflow-pro.php:977
+#: oasis-workflow-pro.php:3518 src/components/ow-submit-to-workflow.js:40
+msgid "Publish Date"
+msgstr "Publiceringsdatum"
+
+#: includes/class-ow-workflow-terminology-settings.php:186
+#: includes/class-ow-workflow-terminology-settings.php:324
+#: includes/pages/workflow-history.php:85 oasis-workflow-pro.php:280
+msgid "Workflow History"
+msgstr "Arbetsflödeshistorik"
+
+#: includes/class-ow-workflow-terminology-settings.php:204
+#: includes/class-ow-workflow-terminology-settings.php:219
+#: includes/class-ow-workflow-terminology-settings.php:234
+#: includes/class-ow-workflow-terminology-settings.php:249
+#: includes/class-ow-workflow-terminology-settings.php:265
+#: includes/class-ow-workflow-terminology-settings.php:280
+#: includes/class-ow-workflow-terminology-settings.php:295
+#: includes/class-ow-workflow-terminology-settings.php:310
+#: includes/class-ow-workflow-terminology-settings.php:325
+#: includes/class-ow-workflow-terminology-settings.php:340
+#: includes/class-ow-workflow-terminology-settings.php:355
+#: includes/class-ow-workflow-terminology-settings.php:371
+msgid " Label"
+msgstr " Etikett"
+
+#: includes/class-ow-workflow-terminology-settings.php:211
+msgid "Label for \"Submit to Workflow\" button/link."
+msgstr "Etikett för \"Skicka till arbetsflöde\" knapp/länk."
+
+#: includes/class-ow-workflow-terminology-settings.php:226
+msgid "Label for \"Continue to Submit\" button/link."
+msgstr "Etikett för \"Fortsätt att Skicka\" knappen/ länk."
+
+#: includes/class-ow-workflow-terminology-settings.php:241
+msgid "Label for \"Sign Off\" button/link."
+msgstr "Etikett för \"Sign Off\" knapp/länk."
+
+#: includes/class-ow-workflow-terminology-settings.php:257
+msgid "Label for \"Continue to Sign off\" button/link."
+msgstr "Etikett för \"Fortsätt till Signering\" knapp/länk."
+
+#: includes/class-ow-workflow-terminology-settings.php:272
+msgid "Label for \"Assign Actor(s)\" field."
+msgstr "Etikett för \"Tilldela dessa\" fältet."
+
+#: includes/class-ow-workflow-terminology-settings.php:287
+msgid "Label for \"Due Date\" field."
+msgstr "Etikett för \"Förfallodatum\" fältet."
+
+#: includes/class-ow-workflow-terminology-settings.php:302
+msgid "Label for \"Publish Date\" field on the \"Submit to Workflow\" popup."
+msgstr ""
+"Etikett för \"publicera\" datumfältet på \"Skicka till arbetsflöde\" popup."
+
+#: includes/class-ow-workflow-terminology-settings.php:317
+msgid "Label for \"Abort Workflow\" button/link."
+msgstr "Etikett för \"Avbryt arbetsflöde\" knapp/länk."
+
+#: includes/class-ow-workflow-terminology-settings.php:332
+msgid "Label for \"Workflow History\" menu."
+msgstr "Etikett för \"Arbetsflödeshistorik\" menyn."
+
+#: includes/class-ow-workflow-terminology-settings.php:347
+msgid "Label for \"Make Revision\" button/link."
+msgstr "Etikett för \"Göra revidering\" knapp/länk."
+
+#: includes/class-ow-workflow-terminology-settings.php:362
+msgid ""
+"Label for \"Priority\" field on the \"Submit to Workflow\" and \"Sign Off\" "
+"popup."
+msgstr ""
+"Etikett för \"Prioritet\" fält \"Skicka till arbetsflöde\" och \"Sign Off\" "
+"popup."
+
+#: includes/class-ow-workflow-terminology-settings.php:378
+msgid "Label for \"Duplicate Post\" link."
+msgstr "Etikett för \"Duplicate Post\" länken."
+
+#: includes/class-ow-workflow-validator.php:127
+msgid "Start date is required."
+msgstr "Startdatum är krävs."
+
+#: includes/class-ow-workflow-validator.php:145
+msgid "End date should be greater than the start date."
+msgstr "Slutdatum bör vara större än startdatum."
+
+#: includes/class-ow-workflow-validator.php:205
+msgid "Missing \""
+msgstr "Saknas \""
+
+#: includes/class-ow-workflow-validator.php:207
+msgid "\" step information. Right click on the step to edit step information."
+msgstr "\" steg information. Rätt klick på steget redigera steg information."
+
+#: includes/class-ow-workflow-validator.php:216
+msgid "No steps found."
+msgstr "Inga åtgärder hittades."
+
+#: includes/class-ow-workflow-validator.php:223
+msgid ""
+"The workflow doesn't have a valid exit path.\tItems in this workflow will "
+"never exit the workflow. Please provide a valid exit path."
+msgstr ""
+"Arbetsflödet har inte en giltig utmatningsvägen.\tObjekt i det här "
+"arbetsflödet kommer aldrig avsluta arbetsflödet. Vänligen ange en giltig "
+"exit."
+
+#: includes/class-ow-workflow-validator.php:229
+msgid ""
+"Multiple steps marked as first step. Workflow can have only one starting "
+"point."
+msgstr ""
+"Flera steg markerade som första steg. Arbetsflödet kan ha bara en "
+"utgångspunkt."
+
+#: includes/class-ow-workflow-validator.php:235
+msgid "Starting step not found. Workflow should have a starting point."
+msgstr "Start steg hittades inte. Arbetsflödet måste en startpunkt."
+
+#: includes/class-ow-workflow-validator.php:268
+msgid "No connections found."
+msgstr "Inga förbindelser hittade."
+
+#: includes/class-ow-workflow-validator.php:273
+msgid "Please provide failure path for all steps except the first one."
+msgstr "Behaga ge fel väg för alla åtgärder utom det första."
+
+#: includes/pages/ow-custom-statuses.php:20 oasis-workflow-pro.php:332
+#: oasis-workflow-pro.php:333
+msgid "Custom Statuses"
+msgstr "Anpassad Status"
+
+#: includes/pages/ow-custom-statuses.php:50
+msgid "Are you sure you want to delete the post status?"
+msgstr "Är du säker du vill ta bort post status?"
+
+#: includes/pages/ow-custom-statuses.php:93
+msgid "The name is used to identify the status. (Max: 20 characters)"
+msgstr "Namnet används för att identifiera status. (Max: 20 tecken)"
+
+#: includes/pages/ow-custom-statuses.php:101
+msgid ""
+"The slug is the unique ID for the status. It is usually all lowercase and "
+"contains only letters, numbers and hyphens."
+msgstr ""
+"Skogssnigel är unikt ID för status. Det är oftast alla gemener och "
+"innehåller bara bokstäver, siffror och bindestreck."
+
+#: includes/pages/ow-custom-statuses.php:110
+msgid ""
+"The description is primarily for administrative use, to give you some "
+"context on what the custom status is to be used for."
+msgstr ""
+"Beskrivningen är bara för administrativ skull, så du vet vad statusen ska "
+"användas till."
+
+#: includes/pages/ow-import-export.php:16
+msgid ""
+"Note: Make sure your environment is identical in terms of plugins, roles, "
+"custom roles and users otherwise, the import might error out."
+msgstr ""
+"Obs! Se till att din miljö är identisk när det gäller plugins, roller, "
+"anpassade roller och användare annars kan det hända att importen inte "
+"fungerar."
+
+#: includes/pages/ow-import-export.php:22
+msgid "Export"
+msgstr "Exportera"
+
+#: includes/pages/ow-import-export.php:24
+msgid ""
+"Use the download button to export to a .json file which you can then import "
+"to another WordPress installation"
+msgstr ""
+"Använda knappen Hämta för att exportera till en .json fil som du sedan kan "
+"importera till en annan WordPress installation"
+
+#: includes/pages/ow-import-export.php:30
+msgid "Workflows (includes Teams and Groups, if any)"
+msgstr "Arbetsflöden (inkluderar lag och grupper, om någon)"
+
+#: includes/pages/ow-import-export.php:34
+msgid "Settings (includes all the settings)"
+msgstr "Inställningar (inkluderar alla inställningar)"
+
+#: includes/pages/ow-import-export.php:38
+msgid "Download Export File"
+msgstr "Ladda ner Export Fil"
+
+#: includes/pages/ow-import-export.php:48
+#: includes/pages/ow-import-export.php:61
+msgid "Import"
+msgstr "Importera"
+
+#: includes/pages/ow-import-export.php:50
+msgid "Select the Oasis Workflow JSON file you would like to import."
+msgstr "Välj oas arbetsflödet JSON filen du vill importera."
+
+#: includes/pages/ow-import-export.php:54
+msgid "Choose a file from your computer:"
+msgstr "Välj en fil från din dator:"
+
+#: includes/pages/ow-system-info.php:22
+msgid ""
+"To copy the system info, click below then press Ctrl + C (PC) or Cmd + C "
+"(Mac)."
+msgstr ""
+"För att kopiera systeminfo, klicka nedan och tryck sedan Ctrl + C (PC) eller "
+"Cmd + C (Mac)."
+
+#: includes/pages/revision-compare.php:26
+msgid "Comparison"
+msgstr "Jämförelse"
+
+#: includes/pages/revision-compare.php:27
+msgid " Return to Post editor"
+msgstr " Återgå till Post redaktör"
+
+#: includes/pages/revision-compare.php:31
+msgid ""
+"Note : If you made any changes to the post, the updates are being saved "
+"while preparing the compare window. At times, if the \"save\" takes more "
+"time, you may not see the recent changes made to the post.\n"
+"In those cases, simply close this window and click the \"Compare With "
+"Original\"  button again."
+msgstr ""
+"Obs: Om du gjorde några ändringar till post, uppdateringar sparas medan du "
+"förbereder fönstret jämför. Ibland om \"Spara\" tar mer tid, kanske du inte "
+"ser de senaste ändringarna i inlägget.\n"
+"I dessa fall helt enkelt stänga detta fönster och klicka på knappen \"Jämför "
+"med Original\" igen."
+
+#: includes/pages/revision-compare.php:58
+msgid "This is the test revision."
+msgstr "Detta är test revideringen."
+
+#: includes/pages/revision-compare.php:63
+msgid "HTML(raw) Compare"
+msgstr "HTML (rå) Jämför"
+
+#: includes/pages/revision-compare.php:66
+msgid "Text Compare"
+msgstr "Text Jämför"
+
+#: includes/pages/revision-compare.php:82
+msgid "Original: "
+msgstr "Originalitet: "
+
+#: includes/pages/revision-compare.php:85
+msgid "Revision: "
+msgstr "Revision: "
+
+#: includes/pages/revision-compare.php:96
+msgid "Contents"
+msgstr "Innehåll"
+
+#: includes/pages/revision-compare.php:142
+msgid "Featured Image"
+msgstr "Utvald bild"
+
+#: includes/pages/subpages/abort-workflow-comment.php:13
+#: includes/pages/subpages/reassign.php:103
+msgid "Comments:"
+msgstr "Kommentarer:"
+
+#: includes/pages/subpages/abort-workflow-comment.php:22
+#: includes/pages/subpages/submit-workflow.php:56
+#: includes/pages/subpages/submit-workflow.php:223
+#: includes/pages/subpages/submit-workflow.php:225
+msgid "Submit"
+msgstr "Skicka"
+
+#: includes/pages/subpages/abort-workflow-comment.php:24
+#: includes/pages/subpages/connection-info-content.php:98
+#: includes/pages/subpages/delete-history.php:38
+#: includes/pages/subpages/delete-workflow.php:31
+#: includes/pages/subpages/make-revision-overlay.php:35
+#: includes/pages/subpages/make-revision-untrashed.php:53
+#: includes/pages/subpages/make-revision.php:55
+#: includes/pages/subpages/reassign.php:114
+#: includes/pages/subpages/step-info-content.php:421
+#: includes/pages/subpages/submit-step.php:236
+#: includes/pages/subpages/submit-workflow.php:227
+#: includes/pages/subpages/workflow-copy-popup.php:42
+#: includes/pages/subpages/workflow-create-popup.php:40
+#: src/components/ow-abort.js:196
+#: src/components/ow-make-revision-exist-overlay.js:22
+#: src/components/ow-make-revision-overlay.js:17
+#: src/components/ow-reassign.js:260
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: includes/pages/subpages/action-comments.php:96
+msgid "Editorial Comments On: "
+msgstr "Editorial Comments Add-On: "
+
+#: includes/pages/subpages/action-comments.php:124
+msgid "Signed off on"
+msgstr "Signerat"
+
+#: includes/pages/subpages/action-comments.php:129
+msgid "No Comments"
+msgstr "Kommentarer"
+
+#: includes/pages/subpages/action-comments.php:146
+#: src/components/ow-abort.js:183
+msgid "Close"
+msgstr "Stäng"
+
+#: includes/pages/subpages/connection-info-content.php:17
+msgid "Connection Settings"
+msgstr "Anslutningsinställningar"
+
+#: includes/pages/subpages/connection-info-content.php:21
+msgid "Current Connection"
+msgstr "Nuvarande anslutning"
+
+#: includes/pages/subpages/connection-info-content.php:22
+msgid "Source"
+msgstr "Källa"
+
+#: includes/pages/subpages/connection-info-content.php:28
+msgid "Target"
+msgstr "Mål"
+
+#: includes/pages/subpages/connection-info-content.php:38
+msgid "Post Status :"
+msgstr "Inläggsstatus :"
+
+#: includes/pages/subpages/connection-info-content.php:74
+msgid "Path :"
+msgstr "Typ :"
+
+#: includes/pages/subpages/delete-history.php:17
+#: includes/pages/workflow-history.php:162
+msgid "Delete History"
+msgstr "Radera historik"
+
+#: includes/pages/subpages/delete-history.php:20
+msgid ""
+"Workflow History for posts/pages that are currently active in a workflow "
+"will NOT be deleted."
+msgstr ""
+"Arbetsflödeshistoriken för inlägg/sidor som är aktiva i ett arbetsflöde tas "
+"inte bort."
+
+#: includes/pages/subpages/delete-history.php:25
+msgid "Delete Workflow History for posts/pages which were last updated : "
+msgstr "Ta bort arbetsflödeshistoriken för inlägg/sidor som uppdaterades: "
+
+#: includes/pages/subpages/delete-history.php:36
+msgid "Delete Workflow History"
+msgstr "Ta bort arbetsflödeshistorik"
+
+#: includes/pages/subpages/delete-workflow.php:19
+msgid "Confirm Workflow Delete"
+msgstr "Bekräfta ta bort arbetsflöde"
+
+#: includes/pages/subpages/delete-workflow.php:23
+msgid "Do you really want to delete the workflow?"
+msgstr "Vill du verkligen ta bort arbetsflödet?"
+
+#: includes/pages/subpages/make-revision-untrashed.php:36
+#: includes/pages/subpages/make-revision.php:39
+msgid "Revision Already Exists"
+msgstr "Revidering redan finns"
+
+#: includes/pages/subpages/make-revision-untrashed.php:40
+msgid ""
+"An active revision already exists for this article. Do you want to delete "
+"the existing revised article and use the one being restored?"
+msgstr ""
+"En aktiv översyn redan existerar för den här artikeln. Vill du ta bort den "
+"befintliga reviderade artikeln och använda den återställs?"
+
+#: includes/pages/subpages/make-revision-untrashed.php:43
+msgid "Restoring this article will trash the current revision."
+msgstr ""
+"Återställa denna artikel kommer att papperskorgen den nuvarande versionen."
+
+#: includes/pages/subpages/make-revision-untrashed.php:45
+msgid "Cancelling this action will NOT restore the article."
+msgstr "Avbryta denna åtgärd kommer inte att återställa artikeln."
+
+#: includes/pages/subpages/make-revision-untrashed.php:49
+msgid "Use the restored one"
+msgstr "Använd den återställda en"
+
+#: includes/pages/subpages/make-revision.php:43
+#: src/components/ow-make-revision-exist-overlay.js:15
+msgid ""
+"An active revision already exists for this article. Do you want to delete "
+"the existing revised article and create a new revision?"
+msgstr ""
+"En aktiv revision redan finns för denna artikel. Vill du ta bort befintliga "
+"reviderade artikeln och skapa en ny revidering?"
+
+#: includes/pages/subpages/make-revision.php:48
+#: src/components/ow-make-revision-exist-overlay.js:40
+msgid "Yes, delete it and create new one"
+msgstr "Ja, ta bort den och skapa ny"
+
+#: includes/pages/subpages/make-revision.php:52
+#: src/components/ow-make-revision-exist-overlay.js:31
+msgid "No, take me to the revision"
+msgstr "Nej, ta mig till revideringen"
+
+#: includes/pages/subpages/reassign.php:65
+#: includes/pages/subpages/submit-step.php:125
+#: includes/pages/subpages/submit-workflow.php:144
+msgid "Available"
+msgstr "Tillgänglig"
+
+#: includes/pages/subpages/reassign.php:91
+#: includes/pages/subpages/submit-step.php:141
+#: includes/pages/subpages/submit-workflow.php:156
+msgid "Assigned"
+msgstr "Tilldelad"
+
+#: includes/pages/subpages/step-info-content.php:44
+msgid "Step Information"
+msgstr "Steginformation"
+
+#: includes/pages/subpages/step-info-content.php:47
+msgid "Step Name :"
+msgstr "Stegnamn :"
+
+#: includes/pages/subpages/step-info-content.php:54
+msgid "Assignee(s) :"
+msgstr "Tilldelade :"
+
+#: includes/pages/subpages/step-info-content.php:82
+msgid "Assign to all? : "
+msgstr "Tilldela till alla? : "
+
+#: includes/pages/subpages/step-info-content.php:84
+msgid ""
+"Check this box to assign the task to all the users in this step and hide the "
+"assignee list during the sign off process."
+msgstr ""
+"Markera den här kryssrutan om du vill tilldela uppgiften till alla användare "
+"i det här steget och dölja listan förvärvaren under signeringsprocessen."
+
+#: includes/pages/subpages/step-info-content.php:111
+msgid "Default"
+msgstr "Standard"
+
+#: includes/pages/subpages/step-info-content.php:112
+msgid "Due Date:"
+msgstr "Slutdatum:"
+
+#: includes/pages/subpages/step-info-content.php:114
+msgid ""
+"Specify a default due date for this step to be completed. This is an "
+"optional setting."
+msgstr ""
+"Ange en standard förfallodatumet för det här steget ska slutföras. Detta är "
+"en valfri inställning."
+
+#: includes/pages/subpages/step-info-content.php:128
+msgid " day(s) after the post is submitted to the workflow."
+msgstr " dag(ar) när inlägget har skickats till arbetsflödet."
+
+#: includes/pages/subpages/step-info-content.php:139
+msgid "Is first step? : "
+msgstr "Första steget? : "
+
+#: includes/pages/subpages/step-info-content.php:147
+msgid "On Submit to Workflow"
+msgstr "Skicka till arbetsflöde"
+
+#: includes/pages/subpages/step-info-content.php:148
+#: includes/pages/subpages/step-info-content.php:179
+msgid "Post Status: "
+msgstr "Inläggsstatus: "
+
+#: includes/pages/subpages/step-info-content.php:149
+msgid "Post Status after submit to workflow."
+msgstr "Post Status efter skicka till arbetsflöde."
+
+#: includes/pages/subpages/step-info-content.php:178
+msgid "On Workflow Completion"
+msgstr "På slutförande av arbetsflöde"
+
+#: includes/pages/subpages/step-info-content.php:180
+msgid "Set post status after workflow process is complete."
+msgstr "Ange bokför status när arbetsflödesprocessen har slutförts."
+
+#: includes/pages/subpages/step-info-content.php:216
+msgid "Review Settings: "
+msgstr "Granska beslut : "
+
+#: includes/pages/subpages/step-info-content.php:228
+msgid "Everyone should approve"
+msgstr "Samtliga måste godkänna"
+
+#: includes/pages/subpages/step-info-content.php:234
+#, php-format
+msgid "More than 50% should approve"
+msgstr ""
+
+#: includes/pages/subpages/step-info-content.php:240
+msgid "Anyone should approve"
+msgstr "Någon måste godkänna"
+
+#: includes/pages/subpages/step-info-content.php:253
+msgid "Sign off Action Text: "
+msgstr "Signera åtgärds text: "
+
+#: includes/pages/subpages/step-info-content.php:255
+msgid ""
+"Specify the text for sign off actions that should appear when user is "
+"signing off from a given task."
+msgstr ""
+"Ange texten för signerings åtgärder som ska visas när användaren loggar ut "
+"från en given uppgift."
+
+#: includes/pages/subpages/step-info-content.php:274
+msgid "For Success"
+msgstr "För framgång"
+
+#: includes/pages/subpages/step-info-content.php:285
+msgid "For Failure"
+msgstr "För fel"
+
+#: includes/pages/subpages/step-info-content.php:300
+#: includes/pages/subpages/step-info-content.php:307
+msgid "Assignment Email"
+msgstr "Email för arbetsuppgift"
+
+#: includes/pages/subpages/step-info-content.php:302
+#: includes/pages/subpages/step-info-content.php:368
+msgid "Reminder Email"
+msgstr "Påminnelsemail"
+
+#: includes/pages/subpages/step-info-content.php:310
+#: includes/pages/subpages/step-info-content.php:371
+msgid "Placeholder : "
+msgstr "Variabel : "
+
+#: includes/pages/subpages/step-info-content.php:320
+#: includes/pages/subpages/step-info-content.php:375
+msgid "--Select--"
+msgstr "--Välj--"
+
+#: includes/pages/subpages/step-info-content.php:331
+#: includes/pages/subpages/step-info-content.php:386
+msgid "Add to subject"
+msgstr "Infoga i ämne"
+
+#: includes/pages/subpages/step-info-content.php:334
+#: includes/pages/subpages/step-info-content.php:389
+msgid "Add to message"
+msgstr "Infoga i meddelande"
+
+#: includes/pages/subpages/step-info-content.php:340
+#: includes/pages/subpages/step-info-content.php:396
+msgid "Email subject : "
+msgstr "Ämnesrad : "
+
+#: includes/pages/subpages/step-info-content.php:358
+#: includes/pages/subpages/step-info-content.php:401
+msgid "Email message : "
+msgstr "Meddelande : "
+
+#: includes/pages/subpages/submit-step.php:74
+msgid "Action : "
+msgstr "Åtgärd : "
+
+#: includes/pages/subpages/submit-step.php:87
+#: includes/pages/subpages/submit-workflow.php:120
+msgid "Step : "
+msgstr "Steg : "
+
+#: includes/pages/subpages/submit-step.php:155
+#: includes/pages/subpages/submit-workflow.php:177
+#: includes/pages/subpages/submit-workflow.php:203
+#: includes/pages/workflow-create.php:207
+#: includes/pages/workflow-create.php:240
+msgid "clear"
+msgstr "rensa"
+
+#: includes/pages/subpages/submit-step.php:177
+#: src/components/ow-signoff-last-step.js:266
+msgid "Publish"
+msgstr "Publicera"
+
+#: includes/pages/subpages/submit-step.php:193
+msgid "Immediately"
+msgstr "Genast"
+
+#: includes/pages/subpages/submit-step.php:216
+#: includes/pages/subpages/submit-workflow.php:214
+msgid "Comments : "
+msgstr "Kommentarer : "
+
+#: includes/pages/subpages/submit-step.php:223
+#: src/components/ow-signoff-last-step.js:248
+msgid ""
+"Signing off will copy over the contents of this revised article to the "
+"corresponding published/original article. This will happen either "
+"immediately or on the scheduled date/time."
+msgstr ""
+"Undertecknandet att kopiera över innehållet i denna reviderade artikel till "
+"den motsvarande artikeln publicerad/original. Detta kommer att ske antingen "
+"omedelbart eller på schemalagda datum/tid."
+
+#: includes/pages/subpages/submit-workflow.php:60
+msgid "Workflow : "
+msgstr "Arbetsflöde : "
+
+#: includes/pages/subpages/submit-workflow.php:167
+msgid "Specify a date for the assignment to be completed."
+msgstr "Ange datum för uppdraget ska slutföras."
+
+#: includes/pages/subpages/submit-workflow.php:189
+msgid "Specify a desired publish date for the post."
+msgstr "Ange önskat publiceringsdatum för tjänsten."
+
+#: includes/pages/subpages/workflow-copy-popup.php:17
+msgid "Copy Workflow"
+msgstr "Kopiera arbetsflöde"
+
+#: includes/pages/subpages/workflow-create-popup.php:17
+msgid "Create New Workflow"
+msgstr "Skapa nytt arbetsflöde"
+
+#: includes/pages/subpages/workflow-create-popup.php:21
+#: includes/pages/workflow-create.php:144
+msgid "Title : "
+msgstr "Titel : "
+
+#: includes/pages/subpages/workflow-create-popup.php:29
+#: includes/pages/workflow-create.php:166
+msgid "Description : "
+msgstr "Beskrivning : "
+
+#: includes/pages/workflow-addons.php:29
+msgid "Add-ons For Oasis Workflow"
+msgstr "Add-ons For Oasis Workflow"
+
+#: includes/pages/workflow-addons.php:33 includes/pages/workflow-addons.php:34
+#: includes/pages/workflow-addons.php:47 includes/pages/workflow-addons.php:48
+msgid "Browse All Add-ons"
+msgstr "Browse All Add-ons"
+
+#: includes/pages/workflow-addons.php:74
+msgid ""
+"There was an error retrieving the Add-ons list from the server. Please try "
+"again later."
+msgstr ""
+"Det gick inte att hämta tilläggslistan från servern. Vänligen försök igen "
+"senare."
+
+#: includes/pages/workflow-by-due-date-report.php:32
+#: includes/pages/workflow-inbox.php:147
+msgid "All Due Dates"
+msgstr "Alla förfallodatum"
+
+#: includes/pages/workflow-create.php:75
+msgid "If you want to know more about creating/modifying workflows "
+msgstr "Om du vill veta mer om att skapa/ändra arbetsflöden "
+
+#: includes/pages/workflow-create.php:79
+msgid "watch this video."
+msgstr "titta på videoklippet."
+
+#: includes/pages/workflow-create.php:81
+msgid " You can also look up for more tutorial videos about Oasis Workflow on "
+msgstr ""
+" You can also look up for more tutorial videos about Oasis Workflow on "
+
+#: includes/pages/workflow-create.php:84
+msgid "YouTube."
+msgstr "Youtube."
+
+#: includes/pages/workflow-create.php:96
+msgid "Processes"
+msgstr "Processer"
+
+#: includes/pages/workflow-create.php:98
+msgid ""
+"Drag and Drop the processes into the Workflow Design Canvas to create new "
+"workflow steps."
+msgstr ""
+"Dra och släpp processerna i arbetsflöde Design duken att skapa nya "
+"arbetsflödessteg."
+
+#: includes/pages/workflow-create.php:122
+msgid ""
+"Processes are not available, since there are items (post/pages) in the "
+"workflow.&nbsp;&nbsp;&nbsp;If you want to edit the workflow,&nbsp;&nbsp; "
+"please "
+msgstr ""
+"Processer är inte tillgängliga, eftersom det finns artiklar (inlägg/sidor) i "
+"arbetsflödet. om du vill redigera arbetsflödet, vänligen "
+
+#: includes/pages/workflow-create.php:125
+msgid "save it as a new version"
+msgstr "spara det som en ny version"
+
+#: includes/pages/workflow-create.php:136
+msgid "Workflow Info"
+msgstr "Information om arbetsflöde"
+
+#: includes/pages/workflow-create.php:187
+msgid "Start Date :"
+msgstr "Startdatum :"
+
+#: includes/pages/workflow-create.php:190
+msgid "Specify a date from which this workflow will become available for use."
+msgstr ""
+"Ange ett datum från vilket detta arbetsflöde blir tillgängliga för "
+"användning."
+
+#: includes/pages/workflow-create.php:220
+msgid "End date :"
+msgstr "Slutdatum :"
+
+#: includes/pages/workflow-create.php:222
+msgid ""
+"End date is not required. If not specified, the workflow is valid for ever.\n"
+"                                     \t\t\tSpecify an end date, if you want "
+"to retire the workflow."
+msgstr ""
+"Slutdatum är inte nödvändig. Om du inte anger är arbetsflödet giltig för "
+"alltid.\n"
+"                                     \t\t\tAnge ett slutdatum om du vill gå "
+"i pension i arbetsflödet."
+
+#: includes/pages/workflow-create.php:252
+msgid "Workflow Applicable To"
+msgstr "Arbetsflöde för"
+
+#: includes/pages/workflow-create.php:273
+msgid "new posts/pages"
+msgstr "nya inlägg/sidor"
+
+#: includes/pages/workflow-create.php:281
+msgid "revised posts/pages"
+msgstr "reviderade inlägg/sidor"
+
+#: includes/pages/workflow-create.php:293
+msgid "Roles (who can submit to this workflow) :"
+msgstr "Roller (som kan skicka till detta arbetsflöde):"
+
+#: includes/pages/workflow-create.php:297
+#: includes/pages/workflow-create.php:321
+msgid " (applicable to all, if none specified)"
+msgstr " (gäller alla, om inget anges)"
+
+#: includes/pages/workflow-create.php:318
+msgid "Post Types :"
+msgstr "Post Typen :"
+
+#: includes/pages/workflow-create.php:341
+msgid "Workflow Design Canvas"
+msgstr "Workflow Design Canvas"
+
+#: includes/pages/workflow-create.php:342
+msgid "Loading Step..."
+msgstr "Laddar steg..."
+
+#: includes/pages/workflow-create.php:353
+#: includes/pages/workflow-create.php:379
+msgid "Save and Close"
+msgstr "Spara och Stäng"
+
+#: includes/pages/workflow-create.php:368
+msgid "Clear Workflow"
+msgstr "Rensa arbetsflöde"
+
+#: includes/pages/workflow-create.php:373
+msgid "Save as new version"
+msgstr "Spara som ny version"
+
+#: includes/pages/workflow-create.php:411
+#: includes/pages/workflow-create.php:421
+#: includes/pages/workflow-create.php:426
+msgid "Quit"
+msgstr "Avbryt"
+
+#: includes/pages/workflow-create.php:425
+msgid "Paste"
+msgstr "Pasta"
+
+#: includes/pages/workflow-dashboard-widget.php:42
+msgid " and "
+msgstr " och "
+
+#: includes/pages/workflow-dashboard-widget.php:54
+msgid "There are currently "
+msgstr "Det finns "
+
+#: includes/pages/workflow-dashboard-widget.php:56
+msgid " assignment(s)"
+msgstr " uppgifter"
+
+#: includes/pages/workflow-dashboard-widget.php:74
+msgid "Tasks by Due Date"
+msgstr "Uppgifter efter förfallodatum datum"
+
+#: includes/pages/workflow-dashboard-widget.php:152
+msgid "Tasks by Priority"
+msgstr "Uppgifter efter prioritet"
+
+#: includes/pages/workflow-history.php:93
+msgid "Workflow history deleted successfully."
+msgstr "Arbetsflödeshistorik raderades."
+
+#: includes/pages/workflow-history.php:102
+msgid "No eligible workflow history found to delete."
+msgstr "Historik för arbetsflöde saknas."
+
+#: includes/pages/workflow-history.php:111
+msgid ""
+"There was an error while deleting the history. Try again OR contact your "
+"administrator."
+msgstr ""
+"Ett fel uppstod när borttagning historien. Försök igen eller kontakta "
+"administratören."
+
+#: includes/pages/workflow-history.php:124
+msgid "View Post/Page Workflow History"
+msgstr "Visa arbetsflödeshistorik för inlägg/sida"
+
+#: includes/pages/workflow-history.php:146
+#: includes/pages/workflow-inbox.php:159
+msgid "Filter"
+msgstr "Filter"
+
+#: includes/pages/workflow-history.php:154
+msgid "Download Workflow History Report"
+msgstr "Hämta arbetsflödesrapport historia"
+
+#: includes/pages/workflow-history.php:171
+msgid "Show No-Action Activities"
+msgstr "Visa aktiviteter utan åtgärd"
+
+#: includes/pages/workflow-history.php:179
+msgid "Hide No-Action Activities"
+msgstr "Dölj aktiviteter utan åtgärd"
+
+#: includes/pages/workflow-history.php:334
+msgid "No workflow history data found."
+msgstr "Historik för arbetsflöde saknas."
+
+#: includes/pages/workflow-inbox.php:65 oasis-workflow-pro.php:273
+#: oasis-workflow-pro.php:274
+msgid "Inbox"
+msgstr "Inkorg"
+
+#: includes/pages/workflow-inbox.php:93 includes/pages/workflow-list.php:67
+msgid "All"
+msgstr "Alla"
+
+#: includes/pages/workflow-inbox.php:99
+msgid "Mine"
+msgstr "Mina"
+
+#: includes/pages/workflow-inbox.php:115
+msgid "View inbox of "
+msgstr "Visa inkorg för "
+
+#: includes/pages/workflow-inbox.php:138
+msgid "Show"
+msgstr "Visa"
+
+#: includes/pages/workflow-inbox.php:152
+msgid "All Priority"
+msgstr "Alla prioriterade"
+
+#: includes/pages/workflow-list.php:44
+msgid "Edit Workflows"
+msgstr "Redigera arbetsflöden"
+
+#: includes/pages/workflow-list.php:48
+msgid "Add New"
+msgstr "Skapa Ny"
+
+#: includes/pages/workflow-list.php:70
+msgid "Active"
+msgstr "Aktiv"
+
+#: includes/pages/workflow-list.php:73
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: includes/pages/workflow-list.php:147
+msgid "You don't have any workflows. Let's go "
+msgstr "Du behöver inte alla arbetsflöden. Kom så går vi "
+
+#: includes/pages/workflow-list.php:148
+msgid "create one"
+msgstr "skapa ett"
+
+#: includes/pages/workflow-reports.php:22
+msgid "Current Assignments"
+msgstr "Aktuella uppdrag"
+
+#: includes/pages/workflow-reports.php:23
+msgid "Workflow Submissions"
+msgstr "Arbetsflödet inlagor"
+
+#: includes/pages/workflow-reports.php:24
+msgid "Assignments By Due Date"
+msgstr "Tilldelningar efter förfallodatum"
+
+#: includes/pages/workflow-submission-report.php:86
+msgid "Not in Workflow"
+msgstr "Inte i arbetsflöde"
+
+#: includes/pages/workflow-submission-report.php:88
+msgid "In Workflow"
+msgstr "Arbetsflöde"
+
+#: includes/pages/workflow-submission-report.php:134
+msgid "-- Select Action --"
+msgstr "Välj åtgärd"
+
+#: includes/pages/workflow-submission-report.php:135
+msgid "Abort"
+msgstr "Avbrott"
+
+#: includes/pages/workflow-tools.php:23
+msgid "Import/Export"
+msgstr "Importera/Exportera"
+
+#: includes/pages/workflow-tools.php:24
+msgid "System Info"
+msgstr "System information"
+
+#: js/pages/acf-pro-validator-new.js:100 js/pages/acf-pro-validator-new.js:114
+msgid "Validation failed"
+msgstr "Validation failed"
+
+#: js/pages/acf-pro-validator-new.js:102 js/pages/acf-pro-validator-new.js:116
+msgid "1 field requires attention"
+msgstr "1 fält kräver uppmärksamhet"
+
+#: js/pages/acf-pro-validator-new.js:104 js/pages/acf-pro-validator-new.js:118
+#, javascript-format
+msgid "%d fields require attention"
+msgstr "%d fält kräver uppmärksamhet"
+
+#: js/pages/acf-pro-validator.js:61
+msgid "validation_failed"
+msgstr "validation_failed"
+
+#: js/pages/acf-pro-validator.js:107
+msgid "validation_failed_1"
+msgstr "validation_failed_1"
+
+#: js/pages/acf-pro-validator.js:110
+msgid "validation_failed_2"
+msgstr "validation_failed_2"
+
+#: oasis-workflow-pro.php:232
+msgid "Workflow Tasks At a Glance"
+msgstr "Arbetsflödesuppgifter i korthet"
+
+#: oasis-workflow-pro.php:264 oasis-workflow-pro.php:265
+msgid "Workflows"
+msgstr "Arbetsflöden"
+
+#: oasis-workflow-pro.php:295 oasis-workflow-pro.php:296
+msgid "Reports"
+msgstr "Rapporter"
+
+#: oasis-workflow-pro.php:304 oasis-workflow-pro.php:305
+msgid "Revisions"
+msgstr "REVIDERINGAR"
+
+#: oasis-workflow-pro.php:313 oasis-workflow-pro.php:314
+msgid "All Workflows"
+msgstr "Alla arbetsflöden"
+
+#: oasis-workflow-pro.php:323 oasis-workflow-pro.php:324
+msgid "Add New Workflow"
+msgstr "Lägg till nytt arbetsflöde"
+
+#: oasis-workflow-pro.php:341 oasis-workflow-pro.php:342
+msgid "Tools"
+msgstr "Verktyg"
+
+#: oasis-workflow-pro.php:353 oasis-workflow-pro.php:354
+msgid "Add-ons"
+msgstr "Add-ons"
+
+#: oasis-workflow-pro.php:393
+msgid "Welcome to Oasis Workflow"
+msgstr "Välkommen till Oasis Workflow"
+
+#: oasis-workflow-pro.php:395
+msgid "To get started with Oasis Workflow follow the steps listed below."
+msgstr "För att komma igång med Oasis Workflow Följ stegen nedan."
+
+#: oasis-workflow-pro.php:397
+#, php-format
+msgid ""
+"1. Activate the plugin by providing a valid license key on Workflows %s "
+"Settings, License tab."
+msgstr ""
+"1. Aktivera plugin genom en giltig licensnyckel för arbetsflöden %s "
+"inställningar, licens fliken."
+
+#: oasis-workflow-pro.php:400
+msgid ""
+"2. Create a new workflow OR modify/use the sample workflows that come with "
+"the plugin."
+msgstr ""
+"2. Skapa ett nytt arbetsflöde eller ändra / använda exempel arbetsflöden som "
+"följer med plugin."
+
+#: oasis-workflow-pro.php:403
+#, php-format
+msgid ""
+"3. Activate the workflow process by going to Workflows %s Settings, Workflow "
+"tab."
+msgstr ""
+"3. Aktivera arbetsflödesprocessen genom att gå till arbetsflöden %s "
+"inställningar, fliken arbetsflöde."
+
+#: oasis-workflow-pro.php:555
+#, php-format
+msgid ""
+"In order to use the \"Pro\" version, you need to deactivate and delete the "
+"free/lite version of Oasis Workflow plugin on the %splugins page%s"
+msgstr ""
+"För att kunna använda den \"Pro\" version, måste du avaktivera och ta bort "
+"den fria / light version av Oasis Workflow plugin på %splugins sida%s"
+
+#: oasis-workflow-pro.php:821
+msgid "Used Revision"
+msgstr "Begagnade översyn"
+
+#: oasis-workflow-pro.php:829
+msgid "Current Revision"
+msgstr "Aktuella översynen"
+
+#: oasis-workflow-pro.php:837
+msgid "Scheduled Revision"
+msgstr "Regelbunden översyn"
+
+#: oasis-workflow-pro.php:950
+msgid "Success"
+msgstr "Lyckades"
+
+#: oasis-workflow-pro.php:951
+msgid "Failure"
+msgstr "Misslyckades"
+
+#: oasis-workflow-pro.php:955
+msgid "In Progress"
+msgstr "Pågående"
+
+#: oasis-workflow-pro.php:956
+msgid "In Review"
+msgstr "Granskas"
+
+#: oasis-workflow-pro.php:957
+msgid "Ready to Publish"
+msgstr "Klar att publiceras"
+
+#: oasis-workflow-pro.php:961 oasis-workflow-pro.php:2109
+#: oasis-workflow-pro.php:2842 oasis-workflow-pro.php:3500
+#: oasis-workflow-pro.php:3557
+msgid "first name"
+msgstr "förnamn"
+
+#: oasis-workflow-pro.php:962 oasis-workflow-pro.php:2110
+#: oasis-workflow-pro.php:2843 oasis-workflow-pro.php:3501
+#: oasis-workflow-pro.php:3558
+msgid "last name"
+msgstr "efternamn"
+
+#: oasis-workflow-pro.php:963 oasis-workflow-pro.php:2111
+#: oasis-workflow-pro.php:2844 oasis-workflow-pro.php:3502
+#: oasis-workflow-pro.php:3559
+msgid "post title"
+msgstr "inläggstitel"
+
+#: oasis-workflow-pro.php:964 oasis-workflow-pro.php:2112
+#: oasis-workflow-pro.php:2845 oasis-workflow-pro.php:3503
+#: oasis-workflow-pro.php:3560
+msgid "category"
+msgstr "kategori"
+
+#: oasis-workflow-pro.php:965 oasis-workflow-pro.php:2113
+#: oasis-workflow-pro.php:2846 oasis-workflow-pro.php:3504
+#: oasis-workflow-pro.php:3561
+msgid "last modified date"
+msgstr "﻿Senaste ändringsdatum"
+
+#: oasis-workflow-pro.php:966 oasis-workflow-pro.php:2847
+#: oasis-workflow-pro.php:3505 oasis-workflow-pro.php:3562
+msgid "post author"
+msgstr "inläggsförfattare"
+
+#: oasis-workflow-pro.php:967 oasis-workflow-pro.php:3506
+#: oasis-workflow-pro.php:3563
+msgid "blog name"
+msgstr "blogg Namn"
+
+#: oasis-workflow-pro.php:968 oasis-workflow-pro.php:3564
+msgid "post submitter"
+msgstr "post leverantör"
+
+#: oasis-workflow-pro.php:974 oasis-workflow-pro.php:3410
+#: oasis-workflow-pro.php:3515
+msgid "Post Title, this will be displayed as a link"
+msgstr "Bokför avdelning, detta kommer att visas som en länk"
+
+#: oasis-workflow-pro.php:976 oasis-workflow-pro.php:3412
+#: oasis-workflow-pro.php:3517
+msgid "Last Modified Date"
+msgstr "﻿Senaste ändringsdatum"
+
+#: oasis-workflow-pro.php:979 oasis-workflow-pro.php:3414
+#: oasis-workflow-pro.php:3520
+msgid "Blog Name"
+msgstr "Blogg Namn"
+
+#: oasis-workflow-pro.php:980 oasis-workflow-pro.php:3415
+#: oasis-workflow-pro.php:3521
+msgid "Current User"
+msgstr "Nuvarande användare"
+
+#: oasis-workflow-pro.php:1068
+msgid "New idea proposed."
+msgstr "Ny idé föreslog."
+
+#: oasis-workflow-pro.php:1069
+msgid "An author has been assigned to the post."
+msgstr "En författare har tilldelats till inlägget."
+
+#: oasis-workflow-pro.php:1070
+msgid "The post is ready for publication."
+msgstr "Inlägget är klar för publicering."
+
+#: oasis-workflow-pro.php:1108 oasis-workflow-pro.php:2648
+#: src/components/ow-make-revision.js:24
+msgid ""
+"You may not make changes to this published content. You must first make a "
+"revision and then submit your changes for approval."
+msgstr ""
+"Du kan inte göra ändringar till detta publicerat innehåll. Du måste först "
+"göra en översyn och sedan skicka ändringarna för godkännande."
+
+#: oasis-workflow-pro.php:1121
+msgid "Copy of -"
+msgstr "Kopia av"
+
+#: oasis-workflow-pro.php:4376
+msgid "Are you sure to abort the workflow?"
+msgstr "Är du säker att du vill avbryta arbetsflödet?"
+
+#: oasis-workflow-pro.php:4414
+msgid "Do you really want to clear all the steps?"
+msgstr "Vill du verkligen rensa alla steg?"
+
+#: oasis-workflow-pro.php:4415
+msgid "This step is already defined. Do you really want to remove this step?"
+msgstr ""
+"Detta steg har redan definierats. Vill du verkligen ta bort detta steg?"
+
+#: oasis-workflow-pro.php:4417
+msgid "Please select Post Status."
+msgstr "Vänligen välj Post Status."
+
+#: oasis-workflow-pro.php:4418
+msgid "The path between"
+msgstr "Banan mellan"
+
+#: oasis-workflow-pro.php:4419
+msgid "step and"
+msgstr "och"
+
+#: oasis-workflow-pro.php:4420
+msgid "step is incorrect."
+msgstr "är inkorrekt."
+
+#: oasis-workflow-pro.php:4421
+msgid ""
+"To edit/delete the step, right click on the step to access the step menu."
+msgstr ""
+"Om du vill redigera/radera steget, rätt klick på steget för att öppna menyn "
+"steg."
+
+#: oasis-workflow-pro.php:4423
+msgid ""
+"To connect to another step drag a line from the \"dot\" to the next step."
+msgstr ""
+"Ansluta till en annan steg drar en linje från den \"pricken\" till nästa "
+"steg."
+
+#: oasis-workflow-pro.php:4425
+msgid "Post Status"
+msgstr "Inläggsstatus"
+
+#: oasis-workflow-pro.php:4437
+msgid ""
+"There is an existing workflow with the same name. Please choose another name."
+msgstr "Det finns redan ett arbetsflöde med det här namnet. Välj ett annat."
+
+#: oasis-workflow-pro.php:4439
+msgid "You have unsaved changes."
+msgstr "Du har osparade ändringar."
+
+#: oasis-workflow-pro.php:4454
+msgid "Due date cannot be in the past."
+msgstr "Slutdatum kan inte ha passerat."
+
+#: oasis-workflow-pro.php:4463
+msgid "Step name is required."
+msgstr "Stegnamn är obligatoriskt."
+
+#: oasis-workflow-pro.php:4464
+msgid "Step name already exists. Please use a different name."
+msgstr "Stegnamnet finns redan. Välj ett annat."
+
+#: oasis-workflow-pro.php:4466
+msgid "Please select assignee(s)."
+msgstr "Ange tilldelade."
+
+#: oasis-workflow-pro.php:4467
+msgid "Please select a placeholder."
+msgstr "Ange en variabel."
+
+#: oasis-workflow-pro.php:4469
+msgid "Please enter the number of days for default due date.."
+msgstr "Ange antalet dagar för standard förfallodatum."
+
+#: src/components/custom-post-type-support.js:8
+msgid "If this is a custom post type, check this page: "
+msgstr "Om detta är en anpassad posttyp, kontrol lera denna sida: "
+
+#: src/components/custom-post-type-support.js:15
+msgid ""
+" for more information on how to make custom post type work with Gutenberg "
+"Editor."
+msgstr ""
+" för mer information om hur man gör anpassade inlägg typ arbete med Guten "
+"berg Editor."
+
+#: src/components/ow-abort.js:96 src/components/ow-reassign.js:182
+#: src/components/ow-signoff.js:399 src/components/ow-submit-to-workflow.js:350
+msgid "Please enter comments."
+msgstr "Ange kommentarer."
+
+#: src/components/ow-claim.js:110
+msgid "Other Actions"
+msgstr "Andra åtgärder"
+
+#: src/components/ow-claim.js:115 src/components/ow-signoff-response.js:61
+msgid "Take me to List page"
+msgstr "Ta mig till Lista sida"
+
+#: src/components/ow-claim.js:120 src/components/ow-signoff-response.js:66
+msgid "Take me to Workflow Inbox"
+msgstr "Ta mig till Inkorgen för arbets flöde"
+
+#: src/components/ow-editorial-comments.js:43
+msgid "Editorial Comments"
+msgstr "Redaktionella kommentarer"
+
+#: src/components/ow-pre-publish-checklist.js:20
+msgid "Pre Publish Checklist "
+msgstr "Pre Publish Checklista "
+
+#: src/components/ow-reassign.js:20
+msgid "Available Actor(s)"
+msgstr "Tillgänglig aktör (er)"
+
+#: src/components/ow-reassign.js:230
+msgid "No users found to reassign"
+msgstr "Inga användare hittades att tilldela om"
+
+#: src/components/ow-reassign.js:248
+msgid "select actor(s) to reassign the task"
+msgstr "välj aktör (er) för att tilldela om uppgiften"
+
+#: src/components/ow-signoff-last-step.js:24 src/components/ow-signoff.js:32
+msgid "Continue to Signoff"
+msgstr "Fortsätt till Signoff"
+
+#: src/components/ow-signoff-last-step.js:209 src/components/ow-signoff.js:542
+#: src/components/ow-submit-to-workflow.js:487
+msgid "redirecting..."
+msgstr "omdirigera..."
+
+#: src/components/ow-signoff-last-step.js:240
+msgid ""
+"This is the last step in the workflow. Are you sure to complete the workflow?"
+msgstr ""
+"Det här är det sista steget i arbetsflödet. Är du säker på att du vill "
+"slutföra arbetsflödet?"
+
+#: src/components/ow-signoff-last-step.js:288
+msgid "Publish Immediately?"
+msgstr "Publicera omedelbart?"
+
+#: src/components/ow-signoff-last-step.js:310
+msgid ""
+"There are no further steps defined in the workflow. Do you want to cancel "
+"the post/page from the workflow?"
+msgstr ""
+"Det finns inga ytterligare steg som definieras i arbetsflödet.  Vill du "
+"avbryta uppläggningen / sida från arbetsflödet?"
+
+#: src/components/ow-signoff-response.js:56
+msgid "What’s next?"
+msgstr "Vad händer härnäst?"
+
+#: src/components/ow-signoff.js:159
+msgid "Select Step"
+msgstr "Välj steg"
+
+#: src/components/ow-signoff.js:574
+msgid "Action"
+msgstr "Åtgärd"
+
+#: src/components/ow-signoff.js:578
+msgid ""
+"After completing or reviewing the post/article, select appropriate action."
+msgstr ""
+"När du har slutfört eller granskat inlägget/artikeln väljer du lämplig "
+"åtgärd."
+
+#: src/components/ow-signoff.js:607 src/components/ow-submit-to-workflow.js:536
+msgid "Your action will push the Post/Article to the below listed next step."
+msgstr ""
+"Din åtgärd kommer att driva Post / artikel till nedanstående nästa steg."
+
+#: src/components/ow-signoff.js:682 src/components/ow-submit-to-workflow.js:645
+msgid "The comments will be visible throughout the workflow."
+msgstr "Kommentarerna visas i hela arbetsflödet."
+
+#: src/components/ow-task-priority-select-control.js:74
+msgid "Post/Article Priority"
+msgstr "Prioritet för inlägg/artikel"
+
+#: src/components/ow-team-select-control.js:18
+msgid "Assign To Team"
+msgstr "Tilldela till Team"
+
+#: src/components/ow-workflow-select-control.js:65
+msgid "Select Workflow"
+msgstr "Välj arbets flöde"
+
+#: src/ow-sidebar.js:43
+msgid "Loading..."
+msgstr "Laddar..."
+
+#: src/ow-sidebar.js:205
+msgid "Workflow actions are not available for this post type."
+msgstr "Arbets flödes åtgärder är inte tillgängliga för den här post typen."
+
+#: src/ow-sidebar.js:295 src/ow-sidebar.js:297
+msgid "Oasis Workflow"
+msgstr "Oasis Workflow"
+
+#~ msgid "Browse Revisions"
+#~ msgstr "Begagnade översyn"
+
+#~ msgid ")"
+#~ msgstr ")"
+
+#, php-format
+#~ msgid ""
+#~ " But there are currently <a href=\"admin.php?page=oasiswf-"
+#~ "inbox&action=inbox-unclaimed&user=%s\">%s unclaimed task(s)</a>."
+#~ msgstr ""
+#~ "Men det finns för närvarande <a href=\"admin.php?page=oasiswf-"
+#~ "inbox&action=inbox-unclaimed&user=%s\">%s outtagna uppgifter.</a>"
+
+#, php-format
+#~ msgid ""
+#~ " and <a href=\"admin.php?page=oasiswf-inbox&action=inbox-unclaimed&user=%s"
+#~ "\">%s unclaimed task(s)</a>."
+#~ msgstr ""
+#~ "<a href=\"admin.php?page=oasiswf-inbox&action=inbox-unclaimed&user=%s"
+#~ "\">och %s ej utlösta uppgifter.</a>"
+
+#, php-format
+#~ msgid ""
+#~ "There are currently <a href=\"admin.php?page=oasiswf-inbox\">%s "
+#~ "assignment(s)</a>"
+#~ msgstr ""
+#~ "Det finns för närvarande <a href=\"admin.php?page=oasiswf-inbox\">%s "
+#~ "tilldelningar</a>"
+
+#~ msgid "Hurray! No assignments"
+#~ msgstr "Hurra! Inga arbetsuppgifter"
+
+#~ msgid ""
+#~ "Please select Post Publish Notification email settings \"Send Email To:\" "
+#~ "assignees."
+#~ msgstr ""
+#~ "Välj e-postpubliceringsinställningar \"Skicka e-post till:\" tilldelade."
+
+#~ msgid ""
+#~ "Please select Revised Post Publish Notification email settings \"Send "
+#~ "Email To:\" assignees."
+#~ msgstr ""
+#~ "Välj E-postinställningar för reviderad publicering av meddelanden "
+#~ "\"Skicka e-post till:\" tilldelade."
+
+#~ msgid ""
+#~ "Please select Post Submit Notification email settings \"Send Email To:\" "
+#~ "assignees."
+#~ msgstr ""
+#~ "Vänligen välj Post Skicka meddelande e-postinställningar \"Skicka e-post "
+#~ "till:\" anställda."
+
+#~ msgid ""
+#~ "Please select Unauthorized Update Notification email settings \"Send "
+#~ "Email To:\" assignees."
+#~ msgstr ""
+#~ "Välj e-postinställningar för obehörig uppdateringsmeddelanden \"Skicka e-"
+#~ "post till:\" tilldelade."
+
+#~ msgid ""
+#~ "Please select Task Claimed Notification email settings \"Send Email To:\" "
+#~ "assignees."
+#~ msgstr ""
+#~ "Välj e-postinställningar för uppgiftsanfordrade meddelanden \"Skicka e-"
+#~ "post till:\" tilldelade."
+
+#~ msgid ""
+#~ "Please select Workflow Abort Notification email settings \"Send Email To:"
+#~ "\" assignees."
+#~ msgstr ""
+#~ "Välj e-postinställningar för arbetsflödesavbrutna meddelanden \"Skicka e-"
+#~ "post till:\" tilldelade."
+
+#~ msgid "Send Email To:"
+#~ msgstr "Skicka e-post till..."
+
+#~ msgid "Workflow Sign Off"
+#~ msgstr "Arbets flöde logga ut"
+
+#~ msgid "Step:"
+#~ msgstr "steg."
+
+#~ msgid "15 Minutes"
+#~ msgstr "15 Minuter"
+
+#~ msgid "30 Minutes"
+#~ msgstr "30 Minuter"
+
+#~ msgid "45 Minutes"
+#~ msgstr "45 Minuter"
+
+#~ msgid "1 Hour"
+#~ msgstr "1 Timme"
+
+#~ msgid "4 Hours"
+#~ msgstr "4 Timmar"
+
+#~ msgid "8 Hours"
+#~ msgstr "8 Timmar"
+
+#~ msgid "Upload file and import"
+#~ msgstr "Ladda upp en fil och importera"
+
+#~ msgid "Instructions:"
+#~ msgstr "Instruktioner"
+
+#~ msgid "Go to the workflows list page"
+#~ msgstr "Gå till arbetsflödessidan"
+
+#~ msgid ""
+#~ "Export the required workflows using the bulk action - Export Workflows."
+#~ msgstr ""
+#~ "Exportera krävs arbetsflöden med hjälp av massåtgärd - exportera "
+#~ "arbetsflöden."
+
+#~ msgid "Upload the downloaded csv file to import the workflows."
+#~ msgstr "Ladda upp den nedladdade CSV-filen för att importera arbetsflöden."
+
+#~ msgid "Only one version of the workflow can be exported."
+#~ msgstr "Endast en version av arbetsflödet kan exporteras."
+
+#~ msgid "File not found."
+#~ msgstr "Filen kunde inte hittas."
+
+#~ msgid "Select bulk action"
+#~ msgstr "Välj en massåtgärd"
+
+#~ msgid "Export Workflows"
+#~ msgstr "Exportera arbetsflöden"
+
+#~ msgid "Apply"
+#~ msgstr "Ansök"
+
+#~ msgid "No Teams found. Contact your administrator."
+#~ msgstr "Inga lag hittades. Kontakta administratören."
+
+#~ msgid "Assign actor : "
+#~ msgstr "Tilldela aktör"
+
+#~ msgid "Is Auto Submit?"
+#~ msgstr "Är Auto skicka?"
+
+#~ msgid "Auto Submit Info"
+#~ msgstr "Auto skicka Info"
+
+#~ msgid "(comma separated)"
+#~ msgstr "(kommaseparerade)"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Click to Bold"
+#~ msgstr "Fet"
+
+#~ msgid "Click to Italic"
+#~ msgstr "Kursiv"
+
+#~ msgid "Click to Underline"
+#~ msgstr "Understreck"
+
+#~ msgid "Left Align"
+#~ msgstr "Vänsterställ"
+
+#~ msgid "Center Align"
+#~ msgstr "Centrera"
+
+#~ msgid "Right Align"
+#~ msgstr "Högerställ"
+
+#~ msgid "Justify Align"
+#~ msgstr "Justera"
+
+#~ msgid "Insert Ordered List"
+#~ msgstr "Numrerad lista"
+
+#~ msgid "Insert Unordered List"
+#~ msgstr "Punktlista"
+
+#~ msgid "Click to Subscript"
+#~ msgstr "Upphöjd"
+
+#~ msgid "Click to Superscript"
+#~ msgstr "Nedsänkt"
+
+#~ msgid "Click to Strike Through"
+#~ msgstr "Genomstruken"
+
+#~ msgid "Remove Formatting"
+#~ msgstr "Rensa formatering"
+
+#~ msgid "Indent Text"
+#~ msgstr "Öka indrag"
+
+#~ msgid "Remove Indent"
+#~ msgstr "Minska indrag"
+
+#~ msgid "Horizontal Rule"
+#~ msgstr "Horisontal linje"
+
+#~ msgid "Select Font Family"
+#~ msgstr "Typsnitt"
+
+#~ msgid "Select Font Format"
+#~ msgstr "Format"
+
+#~ msgid "Change Text Color"
+#~ msgstr "Textfärg"
+
+#~ msgid "Change Background Color"
+#~ msgstr "Bakgrundsfärg"
+
+#~ msgid "Save this content"
+#~ msgstr "Spara innehåll"
+
+#~ msgid ""
+#~ "Check this box if you want to send an email to the author when post/page "
+#~ "is published."
+#~ msgstr ""
+#~ "Markera denna ruta om du vill skicka ett mail till författaren när post/"
+#~ "sida publiceras."
+
+#~ msgid ""
+#~ "Check this box if you want to send an alert email to the current "
+#~ "assignees when a non-assignee updates the article outside the workflow."
+#~ msgstr ""
+#~ "Markera denna ruta om du vill skicka ett alert mail till de nuvarande "
+#~ "innehavare när en icke-förvärvaren uppdaterar artikeln utanför "
+#~ "arbetsflödet."
+
+#~ msgid ""
+#~ "Check this box if you want to send email to the author when the workflow "
+#~ "is aborted/cancelled."
+#~ msgstr ""
+#~ "Markera den här rutan om du vill skicka e-post till författaren när "
+#~ "arbetsflödet avbryts / avbryts."
+
+#~ msgid ""
+#~ "Check this box if you want to send email to the submitter when post/page "
+#~ "is submitted to workflow."
+#~ msgstr ""
+#~ "Markera denna ruta om du vill skicka e-post till den som ingett när post/"
+#~ "sida skickas till arbetsflödet."
+
+#~ msgid "Task reminder settings"
+#~ msgstr "Påminnelse aktivitetsinställningar"
+
+#~ msgid ""
+#~ "(Applicable only if reminder email configuration is completed during "
+#~ "workflow setup.)"
+#~ msgstr ""
+#~ "(Gäller endast om påminnelse e-konfigurationen är klar under "
+#~ "arbetsflödesinstallationen.)"
+
+#~ msgid "Your article has been published."
+#~ msgstr "Din artikel har publicerats."
+
+#~ msgid ""
+#~ "<div>Hello %1$s,</div><p>Your article <a href=\"%2$s\" title=\"%3$s\">"
+#~ "%3$s</a> has been published on <a href=\"%4$s\" title=\"%5$s\">%5$s</a></"
+#~ "p><p>Thanks.</p>"
+#~ msgstr ""
+#~ "<div>Hej %1$s,</div><p>Din artikel <a href=\"%2$s\" title=\"%3$s\">%3$s</"
+#~ "a> har publicerats på <a href=\"%4$s\" title=\"%5$s\">%5$s</a></p><p>Tack."
+#~ "</p>"
+
+#~ msgid "Your revised article has been published."
+#~ msgstr "Din reviderade artikeln har publicerats."
+
+#~ msgid ""
+#~ "<div>Hello %1$s,</div><p>Your revised article <a href=\"%2$s\" title="
+#~ "\"%3$s\">%3$s</a> has been published on <a href=\"%4$s\" title=\"%5$s\">"
+#~ "%5$s</a></p><p>Thanks</p>"
+#~ msgstr ""
+#~ "<div>Hej %1$s,</div><p>Din nya artikel <a href=\"%2$s\" title=\"%3$s\">"
+#~ "%3$s</a> har publicerats på <a href=\"%4$s\" title=\"%5$s\">%5$s</a></"
+#~ "p><p>Tack</p>"
+
+#~ msgid "Article was updated outside the workflow."
+#~ msgstr "Artikeln uppdaterades utanför arbetsflödet."
+
+#~ msgid ""
+#~ ", who is not part of the current assignee list has updated the article "
+#~ msgstr ""
+#~ ", som inte är del av listan aktuella förvärvaren har uppdaterat artikeln"
+
+#~ msgid " outside the workflow."
+#~ msgstr "utanför arbetsflödet."
+
+#~ msgid "Task claimed"
+#~ msgstr "Uppgift tilldelad"
+
+#~ msgid "Another user has claimed the task for the article \""
+#~ msgstr "En annan användare har tilldelats arbetsuppgiften för inlägget \""
+
+#~ msgid "Your article has been submitted."
+#~ msgstr "Din artikel har lämnats in."
+
+#~ msgid ""
+#~ "<div>Hello %1$s,</div><p>Your article <a href=\"%2$s\" title=\"%3$s\">"
+#~ "%3$s</a> has been successfully submitted to the workflow.</p><p>Thanks.</"
+#~ "p>"
+#~ msgstr ""
+#~ "<div>Hej %1$s,</div><p>Din artikel <a href=\"%2$s\" title=\"%3$s\">%3$s</"
+#~ "a> har skickats till arbetsflödet.</p><p>Tack.</p>"
+
+#~ msgid "Workflow has been aborted."
+#~ msgstr "Workflow har avbrutits."
+
+#~ msgid " has been aborted from the workflow."
+#~ msgstr "har avbrutits från arbetsflödet."
+
+#~ msgid ""
+#~ "If you have further questions regarding your article, please contact the "
+#~ "administrator."
+#~ msgstr ""
+#~ "Om du har ytterligare frågor angående din artikel, kontakta "
+#~ "administratören."
+
+#~ msgid "Workflow(version)"
+#~ msgstr "Arbetsflöde(version)"
+
+#~ msgid ""
+#~ "User '%s' has already been assigned this task. Please select another user."
+#~ msgstr ""
+#~ "Användaren '%s' har redan tilldelats denna uppgift. Välj en annan "
+#~ "användare."
+
+#~ msgid "Post Status (on submit) : "
+#~ msgstr "Skicka Status (å lämna):"
+
+#~ msgid ""
+#~ "It might take about a minute to update the published article, even if you "
+#~ "selected to immediately publish the revised contents."
+#~ msgstr ""
+#~ "Det kan ta ungefär en minut att uppdatera den publicerade artikeln, även "
+#~ "om du valt att omedelbart publicera reviderade innehållet."
+
+#~ msgid ""
+#~ "This delay is intentional. It allows the changes to be saved before the "
+#~ "revision is copied over to the published article."
+#~ msgstr ""
+#~ "Denna försening är avsiktlig. Det gör att ändringarna ska sparas innan "
+#~ "översynen kopieras över till den publicerade artikeln."
+
+#~ msgid "User"
+#~ msgstr "Deltagare"
+
+#~ msgid ""
+#~ "Set your review setting to dictate how and when item moves to the success "
+#~ "step:"
+#~ msgstr ""
+#~ "Ange din recension för att diktera hur och när objekt flyttas till "
+#~ "framgång steg:"
+
+#~ msgid "On Success"
+#~ msgstr "Om slutförd"
+
+#~ msgid "On Failure"
+#~ msgstr "Om ej slutförd"
+
+#~ msgid "Please select status on success."
+#~ msgstr "Ange status för lyckad genomförning."
+
+#~ msgid "Please select status on failure."
+#~ msgstr "Ange status för ej lyckad genomförning."
+
+#~ msgid "No users found for the given role."
+#~ msgstr "Inga användare hittades för rollen."
+
+#~ msgid "Priority : "
+#~ msgstr "Prioritet:"
+
+#~ msgid ""
+#~ "Selected user is already assigned the task. Please select another user."
+#~ msgstr ""
+#~ "Vald användare har redan tilldelats uppgiften. Välj en annan användare."
+
+#~ msgid "Select a User: "
+#~ msgstr "Välj en användare"
+
+#~ msgid "Comment(s)"
+#~ msgstr "Kommentar(er)"
+
+#~ msgid "Feature Image"
+#~ msgstr "Funktionen bild"
+
+#~ msgid "No Post/Pages found."
+#~ msgstr "Inga inlägg/sidor hittade."
+
+#~ msgid ""
+#~ "Before making any changes to the published article, please revise it and "
+#~ "then make changes on the revision."
+#~ msgstr ""
+#~ "Innan du gör några ändringar i den publicerade artikeln, vänligen se över "
+#~ "det och sedan göra ändringar om översynen."
+
+#~ msgid ""
+#~ "Before making any changes to this published article, please revise it and "
+#~ "then make changes on the revision"
+#~ msgstr ""
+#~ "Innan du gör några ändringar i detta publicerade artikeln, vänligen se "
+#~ "över det och sedan göra ändringar om översynen"
+
+#~ msgid "Role(s) that can revise the post/page:"
+#~ msgstr "Roller som kan revidera post/sida:"
+
+#~ msgid ""
+#~ "<div>Hello, <strong>%1$s</strong></div><p>Your article <a href=\"%2$s\" "
+#~ "title=\"%3$s\">%3$s</a> has been published on <a href=\"%4$s\" title="
+#~ "\"%5$s\">%5$s</a></p><p>Thanks</p>"
+#~ msgstr ""
+#~ "<div>Hej, <strong>%1$s</strong></div><p>Din artikel <a href=\"%2$s\" "
+#~ "title=\"%3$s\">%3$s</a> har publicerats på <a href=\"%4$s\" title=\"%5$s"
+#~ "\">%5$s</a></p><p>Tack</p>"
+
+#~ msgid ""
+#~ "<div>Hello, <strong>%1$s</strong></div><p>Your revised article <a href="
+#~ "\"%2$s\" title=\"%3$s\">%3$s</a> has been published on <a href=\"%4$s\" "
+#~ "title=\"%5$s\">%5$s</a></p><p>Thanks</p>"
+#~ msgstr ""
+#~ "<div>Hej, <strong>%1$s</strong></div><p>Din reviderade artikel <a href="
+#~ "\"%2$s\" title=\"%3$s\">%3$s</a> har publicerats på <a href=\"%4$s\" "
+#~ "title=\"%5$s\">%5$s</a></p><p>Tack</p>"
+
+#~ msgid ""
+#~ "Role(s) that can skip the workflow and use the out of the box options:"
+#~ msgstr ""
+#~ "Roller som kan hoppa över arbetsflödet och använda ute om låda "
+#~ "alternativen:"
+
+#~ msgid "Role(s) that can view other user's inbox:"
+#~ msgstr "Roller som kan visa andra användarens inkorg:"
+
+#~ msgid "Role(s) that can abort workflow and/or delete workflow history:"
+#~ msgstr ""
+#~ "Roller som kan avbryta arbetsflödet och/eller ta bort arbetsflöde "
+#~ "historia:"
+
+#~ msgid "Content"
+#~ msgstr "Innehåll"
+
+#~ msgid ""
+#~ "(After you are done setting up your editorial workflow,\n"
+#~ "\t\t\t\t\t\t\t \t\t\tmake it available for use by activating the workflow "
+#~ "process.)"
+#~ msgstr ""
+#~ "(När du är klar att inrätta ditt redaktionella arbetsflödet, göra den "
+#~ "tillgänglig för användning genom att aktivera arbetsflödesprocessen.)"
+
+#~ msgid ""
+#~ "Drag and Drop the processes into the Workflow Design Canvas\n"
+#~ "                       \t\t\tto create new workflow steps."
+#~ msgstr ""
+#~ "Dra och släpp processerna i arbetsflöde Design duken att skapa nya "
+#~ "arbetsflödessteg."
+
+#~ msgid ""
+#~ "Processes are not available,\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\tsince there are items (post/pages) in the workflow."
+#~ "&nbsp;&nbsp;&nbsp;\n"
+#~ "\t\t\t\t\t\t\t\t\t\t\tIf you want to edit the workflow,&nbsp;&nbsp; "
+#~ "please "
+#~ msgstr ""
+#~ "Processer är inte tillgängliga, eftersom det finns artiklar (inlägg/"
+#~ "sidor) i arbetsflödet. om du vill redigera arbetsflödet, vänligen"
+
+#~ msgid ""
+#~ "Enable auto submit and provide keywords for this workflow to be able to "
+#~ "participate\n"
+#~ "                     \t\t\tin auto submit process."
+#~ msgstr ""
+#~ "Aktivera auto skicka och ge nyckelord för det här arbetsflödet för att "
+#~ "kunna delta i auto skicka process."
+
+#~ msgid ""
+#~ "Processes are not available, since there are items (post/pages) in the "
+#~ "workflow.&nbsp;&nbsp;&nbsp; If you want to edit the workflow,&nbsp;&nbsp; "
+#~ "please "
+#~ msgstr ""
+#~ "Processer är inte tillgängliga då det finns inlägg/sidor i arbetsflödet."
+#~ "&nbsp;&nbsp;&nbsp;Om du vill redigera arbetsflödet,&nbsp;&nbsp;"
+
+#~ msgid ""
+#~ "End date is not required. If not specified, the workflow is valid for "
+#~ "ever. Specify an end date, if you want to retire the workflow."
+#~ msgstr ""
+#~ "Slutdatum är inte nödvändig. Om du inte anger är arbetsflödet giltig för "
+#~ "alltid. Ange ett slutdatum om du vill gå i pension i arbetsflödet."
+
+#~ msgid "Auto submit settings saved successfully."
+#~ msgstr "Auto skicka inställningarna sparats."
+
+#~ msgid "Settings saved successfully"
+#~ msgstr "Inställningar sparades."
+
+#~ msgid "Email settings saved successfully."
+#~ msgstr "E-postinställningarna sparats."
+
+#~ msgid "License information saved successfully."
+#~ msgstr "Licensinformationen sparats."
+
+#~ msgid ""
+#~ "License cannot be activated. Either the license key is invalid or your "
+#~ "activation limit is reached. "
+#~ msgstr ""
+#~ "Licens kan inte aktiveras. Licensnyckeln är ogiltig eller din "
+#~ "aktiveringen gränsen nås."
+
+#~ msgid "About this Plugin:"
+#~ msgstr "Om det här pluginet:"
+
+#~ msgid "Author's website"
+#~ msgstr "Författarens hemsida"
+
+#~ msgid "Plugin webpage"
+#~ msgstr "Hemsida för plugin"
+
+#~ msgid "FAQ"
+#~ msgstr "Frågor och svar"
+
+#~ msgid "Auto-Submit"
+#~ msgstr "Auto-Submit"
+
+#~ msgid "Specify the desired publish date for the post."
+#~ msgstr "Ange önskat publiceringsdatum för tjänsten."
+
+#~ msgid "Team for Auto Submit:"
+#~ msgstr "Team för Auto skicka:"
+
+#~ msgid "(select one per site)"
+#~ msgstr "(Välj en per webbplats)"
+
+#~ msgid "Workflow settings saved successfully."
+#~ msgstr "Inställningar sparades."
+
+#~ msgid "Role(s) that can do bulk approval(for final step):"
+#~ msgstr "Roller som kan bulk godkännande (för sista steget):"
+
+#~ msgid "Document revision settings saved successfully."
+#~ msgstr "Revidering av dokumentinställningar sparats."
+
+#~ msgid "Start and End date are required."
+#~ msgstr "Start- och Slutdatum krävs."
+
+#~ msgid ""
+#~ "Missing step information. Right click on each of the steps to edit step "
+#~ "information. Workflow is not active."
+#~ msgstr ""
+#~ "Information saknas steg. Högerklicka på varje steg att redigera steg "
+#~ "information. Inte är aktivt."
+
+#~ msgid ""
+#~ "The workflow doesn't have a valid exit path.<br>\n"
+#~ "\t\t\t\t\t\t\t\tItems in this workflow will never exit the workflow.<br>\n"
+#~ "\t\t\t\t\t\t\tPlease fix the workflow and provide an exit path."
+#~ msgstr ""
+#~ "Arbetsflödet har inte en giltig utmatningsvägen.<br>\n"
+#~ "\t\t\t\t\t\t\t\tObjekt i det här arbetsflödet kommer aldrig avsluta "
+#~ "arbetsflödet.<br>\n"
+#~ "\t\t\t\t\t\t\t\tSnälla fixa arbetsflödet och ger en avfart väg."
+
+#~ msgid ""
+#~ "Multiple steps marked as first step.<br>Workflow can have only one "
+#~ "starting point. Please fix the workflow."
+#~ msgstr ""
+#~ "Flera steg markerade som första steg.<br>Arbetsflödet kan ha bara en "
+#~ "utgångspunkt. Åtgärda arbetsflödet."
+
+#~ msgid ""
+#~ "Starting step not found.<br>Workflow should have a starting point. Please "
+#~ "fix the workflow."
+#~ msgstr ""
+#~ "Start steg hittades inte.<br>Arbetsflödet måste en startpunkt. Åtgärda "
+#~ "arbetsflödet."
+
+#~ msgid "The start date or end date is between "
+#~ msgstr "I början eller slutdatum är mellan"
+
+#~ msgid "The start date or end date is between start date and end date of "
+#~ msgstr "I början eller slutdatum är mellan start- och slutdatum för"
+
+#~ msgid ""
+#~ "The workflow doesn't have a valid exit path.\n"
+#~ " Items in this workflow will never exit the workflow.\n"
+#~ " Please fix the workflow and provide an exit path."
+#~ msgstr ""
+#~ "Arbetsflödet har inte en giltig utmatningsvägen.\n"
+#~ " Objekt i det här arbetsflödet kommer aldrig avsluta arbetsflödet.\n"
+#~ " Snälla fixa arbetsflödet och ger en avfart väg."
+
+#~ msgid ""
+#~ "If you find this plugin useful, please consider making a small donation "
+#~ "to help contribute to the time invested and for further development. "
+#~ "Thanks for your kind support!"
+#~ msgstr ""
+#~ "Om du gillar det här pluginet, överväg att donera en liten summa för att "
+#~ "stödja vidare utveckling. Tack för ditt stöd!"
+
+#~ msgid "Workflow Admin"
+#~ msgstr "Arbetsflöden"
+
+#~ msgid "New Workflow"
+#~ msgstr "Nytt arbetsflöde"
+
+#~ msgid "All Teams"
+#~ msgstr "Alla lag"
+
+#~ msgid "Add New Team"
+#~ msgstr "Lägg till nya Team"
+
+#~ msgid "License Settings"
+#~ msgstr "Licensinställningar"
+
+#~ msgid "Workflow Settings"
+#~ msgstr "Arbetsflödesinställningar"
+
+#~ msgid "Auto-Submit Settings"
+#~ msgstr "Auto-skicka inställningar"
+
+#~ msgid "WP Document Revision Settings"
+#~ msgstr "WP dokumentinställningar översyn"
+
+#~ msgid "Advanced details"
+#~ msgstr "Avancerat"
+
+#~ msgid "Assign actor(s) :"
+#~ msgstr "Tilldela aktör(er) :"
+
+#~ msgid "Due Date : "
+#~ msgstr "Slutdatum :"
+
+#~ msgid "Publish Date : "
+#~ msgstr "Publicering datum:"
+
+#~ msgid "Due date"
+#~ msgstr "Slutdatum"
+
+#~ msgid "Abort workflow"
+#~ msgstr "Avbryt arbetsflöde"
+
+#~ msgid ""
+#~ "Oasis Workflow Pro License cannot be activated. Either the license key is "
+#~ "invalid or your activation limit is reached. "
+#~ msgstr ""
+#~ "Oasis arbetsflöde Pro licens kan inte aktiveras. Licensnyckeln är ogiltig "
+#~ "eller din aktiveringen gränsen nås."
+
+#~ msgid ""
+#~ "Oasis Workflow Teams Add On License cannot be activated. Either the "
+#~ "license key is invalid or your activation limit is reached. "
+#~ msgstr ""
+#~ "Oasis arbetsflöde lag lägga på licens kan inte aktiveras. Licensnyckeln "
+#~ "är ogiltig eller din aktiveringen gränsen nås."
+
+#~ msgid "Oasis Workflow Pro license key"
+#~ msgstr "Oasis Pro arbetsflöde licensnyckel"
+
+#~ msgid "Oasis Workflow Teams license key"
+#~ msgstr "Oasis arbetsflöde team licensnyckel"
+
+#~ msgid "Select User : "
+#~ msgstr "Välj användare :"
+
+#~ msgid "workflow-history-"
+#~ msgstr "workflow-history-"
+
+#~ msgid "File not exist"
+#~ msgstr "Filen finns inte"
+
+#~ msgid ""
+#~ ", who is not part of the current assignee list has updated the article "
+#~ "outside the workflow."
+#~ msgstr ""
+#~ ", som inte är del av listan aktuella förvärvaren har uppdaterat artikeln "
+#~ "utanför arbetsflödet."
+
+#~ msgid "User : "
+#~ msgstr "Användare :"
+
+#~ msgid "Workflow applicable to :"
+#~ msgstr "Arbetsflöde för:"
+
+#~ msgid "Activate Revision process ?"
+#~ msgstr "Aktivera översynen?"
+
+#~ msgid "Sign Off Date"
+#~ msgstr "Signerat"
+
+#~ msgid "Signoff Date"
+#~ msgstr "Signering datum"
+
+#~ msgid ""
+#~ "The basic version of this plugin supports only one workflow. You can edit "
+#~ "the out of the box workflow by going to \"Edit Workflow\"."
+#~ msgstr ""
+#~ "Basversionen av detta plugin stöder bara ett arbetsflöde. Du kan redigera "
+#~ "detta arbetsflöde genom att gå till \"Redigera Arbetsflöde\"."
+
+#~ msgid ""
+#~ "However, if you are looking to create multiple workflows, check out the "
+#~ "\"Pro\" version of this plugin at -"
+#~ msgstr "För att skapa flera arbetsflöden, läs mer om \"Pro\"-versionen här:"
+
+#~ msgid "You don't have any workflows."
+#~ msgstr "Du har inga arbetsflöden."
+
+#~ msgid "Settings saved successfully."
+#~ msgstr "Inställningarna sparade."
+
+#~ msgid "Auto submit completed successfully. "
+#~ msgstr "Automatisk inskickning lyckades."
+
+#~ msgid ""
+#~ "Which role(s) can skip the workflow and use the out of the box options?"
+#~ msgstr ""
+#~ "Vilka roller kan skippa arbetsflödet och använda standardalternativen?"
+
+#~ msgid "Help us Improve:"
+#~ msgstr "Hjälp oss bli bättre:"
+
+#~ msgid "Suggest"
+#~ msgstr "Föreslå"
+
+#~ msgid "features"
+#~ msgstr "funktioner"
+
+#~ msgid "Rate"
+#~ msgstr "Ge"
+
+#~ msgid "the plugin 5 stars on WordPress.org"
+#~ msgstr "pluginet 5 stjärnor på WordPress.org"
+
+#~ msgid "Like us"
+#~ msgstr "Gilla oss"
+
+#~ msgid "on"
+#~ msgstr "på"
+
+#~ msgid "Go Pro:"
+#~ msgstr "Köp Pro:"
+
+#~ msgid "Revise your Published Content without taking it offline"
+#~ msgstr "Revidera publicerat innehåll utan att avpublicera det"
+
+#~ msgid "Teams Add On"
+#~ msgstr "Stöd för teams"
+
+#~ msgid "Pricing & Purchase"
+#~ msgstr "Priser"
+
+#~ msgid ""
+#~ "You can select multiple users only for review step.\\n Selected step is"
+#~ msgstr ""
+#~ "Du kan bara ange flera användare för granskningssteg.\\n Nuvarande steg är"
+
+#~ msgid ""
+#~ "If you are looking for additional functionality like \"Multiple Workflows"
+#~ "\", \"Revise published content and add Workflow Support to revised content"
+#~ "\", \"Auto Submit\", \"Reports\", and much more..."
+#~ msgstr ""
+#~ "Om du letar efter ytterligare funktionalitet som att kunna ha flera "
+#~ "arbetsflöden, revidera innehåll utan att avpublicera det, automatiskt "
+#~ "inskickning, rapporter med mera,"
+
+#~ msgid "check out our \"Pro\" version at "
+#~ msgstr "läs mer om vår \"Pro\"-version här: "
+
+#~ msgid "Atleast 50% should approve"
+#~ msgstr "Minst hälften måste godkänna"
+
+#~ msgid "More that 50% should approve"
+#~ msgstr "Mer än hälften måste godkänna"
+
+#~ msgid "Get the Pro Version"
+#~ msgstr "Köp Pro-versionen"
+
+#~ msgid "This step is already defined.Do you really want to remove this step?"
+#~ msgstr "Det här steget är redan definierat. Vill du verkligen ta bort det?"

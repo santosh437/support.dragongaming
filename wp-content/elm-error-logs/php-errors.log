@@ -1,0 +1,20 @@
+[03-Aug-2022 14:18:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /var/www/html/support/wp-content/themes/helpguru/functions.php:353
+Stack trace:
+#0 /var/www/html/support/wp-includes/class-wp-hook.php(287): knowledge_base_redirect()
+#1 /var/www/html/support/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#2 /var/www/html/support/wp-includes/plugin.php(478): WP_Hook->do_action()
+#3 /var/www/html/support/wp-includes/template-loader.php(13): do_action()
+#4 /var/www/html/support/wp-blog-header.php(19): require_once('/var/www/html/s...')
+#5 /var/www/html/support/index.php(17): require('/var/www/html/s...')
+#6 {main}
+  thrown in /var/www/html/support/wp-content/themes/helpguru/functions.php on line 353
+[03-Aug-2022 14:18:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /var/www/html/support/wp-content/themes/helpguru/functions.php:353
+Stack trace:
+#0 /var/www/html/support/wp-includes/class-wp-hook.php(287): knowledge_base_redirect()
+#1 /var/www/html/support/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#2 /var/www/html/support/wp-includes/plugin.php(478): WP_Hook->do_action()
+#3 /var/www/html/support/wp-includes/template-loader.php(13): do_action()
+#4 /var/www/html/support/wp-blog-header.php(19): require_once('/var/www/html/s...')
+#5 /var/www/html/support/index.php(17): require('/var/www/html/s...')
+#6 {main}
+  thrown in /var/www/html/support/wp-content/themes/helpguru/functions.php on line 353
